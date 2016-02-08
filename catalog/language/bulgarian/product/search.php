@@ -1,8 +1,15 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title']     = 'Търсене';
-$_['heading_tag']		= 'Таг';
+$_['heading_tag']		= 'Таг - ';
 
 // Text
 $_['text_search']       = 'Продукти, отговарящи на критериите от търсенето';
@@ -10,7 +17,7 @@ $_['text_keyword']      = 'Ключови думи';
 $_['text_category']     = 'Всички категории';
 $_['text_sub_category'] = 'Включи подкатегориите';
 $_['text_empty']        = 'Не бяха открити продукти, отговарящи на критериите от търсенето.';
-$_['text_quantity']     = 'Кол-во:';
+$_['text_quantity']     = 'Количество:';
 $_['text_manufacturer'] = 'Производител:';
 $_['text_model']        = 'Код на продукта:';
 $_['text_points']       = 'Наградни точки:'; 

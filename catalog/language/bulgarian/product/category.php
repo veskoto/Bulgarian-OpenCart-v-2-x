@@ -1,11 +1,18 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
 $_['text_refine']       = 'Филтрирано търсене';
 $_['text_product']      = 'Продукти';
 $_['text_error']        = 'Категорията не бе намерена!';
 $_['text_empty']        = 'Няма продукти в тази категория.';
-$_['text_quantity']     = 'Кол-во:';
+$_['text_quantity']     = 'Количество:';
 $_['text_manufacturer'] = 'Марка:';
 $_['text_model']        = 'Код на продукта:';
 $_['text_points']       = 'Наградни точки:';

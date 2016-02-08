@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title']        = 'Адресна книга';
 
@@ -7,9 +14,9 @@ $_['heading_title']        = 'Адресна книга';
 $_['text_account']         = 'Профил';
 $_['text_address_book']    = 'Списък с адреси';
 $_['text_edit_address']    = 'Редактирай адрес';
-$_['text_add']             = 'Your address has been successfully inserted';
-$_['text_edit']            = 'Your address has been successfully updated';
-$_['text_delete']          = 'Your address has been successfully deleted';
+$_['text_add']             = 'Вашият адрес е успешно добавен';
+$_['text_edit']            = 'Вашият адрес е успешно обновен';
+$_['text_delete']          = 'Вашият адрес е успешно изтрит';
 $_['text_empty']           = 'Вие нямате адреси в профила си.';
 
 // Entry

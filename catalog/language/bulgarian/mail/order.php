@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
 $_['text_new_subject']          = '%s - Поръчка %s';
 $_['text_new_greeting']         = 'Благодарим ви за проявения интерес към продуктите в  %s. Вашата поръчка е приета и веднага след потвърждаване на плащането ще бъде придвижена за изпълнение.';
@@ -12,7 +19,7 @@ $_['text_new_date_added']       = 'Дата на добавяне:';
 $_['text_new_order_status']     = 'Статус на поръчката:';
 $_['text_new_payment_method']   = 'Начин на плащане:';
 $_['text_new_shipping_method']  = 'Метод на доставка:';
-$_['text_new_email']  			= 'E-mail:';
+$_['text_new_email']  			= 'Имейл:';
 $_['text_new_telephone']  		= 'Телефон:';
 $_['text_new_ip']  				= 'IP адрес:';
 $_['text_new_payment_address']  = 'Платежен адрес';

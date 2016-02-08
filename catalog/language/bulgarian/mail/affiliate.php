@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
 $_['text_subject']		        = '%s - Партньорска програма';
 $_['text_welcome']		        = 'Благодарим ви за регистрирането ви в Партньорската програма на %s!';
@@ -13,9 +20,9 @@ $_['text_store']		        = 'Магазин:';
 $_['text_firstname']	        = 'Име:';
 $_['text_lastname']		        = 'Фамилия:';
 $_['text_company']		        = 'Фирма:';
-$_['text_email']		        = 'E-Mail:';
+$_['text_email']		        = 'Имейл:';
 $_['text_telephone']	        = 'Телефон:';
-$_['text_website']		        = 'Web Site:';
+$_['text_website']		        = 'Сайт:';
 $_['text_order_id']             = 'Поръчка No:';
 $_['text_transaction_subject']  = '%s - Партньорска кчомисионна';
 $_['text_transaction_received'] = 'Получихте %s комисионна!';

@@ -1,9 +1,16 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
 $_['text_title']				= 'Кредитна карта / Дебитна карта (BluePay)';
 $_['text_credit_card']			= 'Детайли за карта';
-$_['text_description']			= 'Артикули на %s Поръчка номер: %s';
+$_['text_description']			= 'Артикули на %s поръчка номер: %s';
 $_['text_card_type']			= 'Карта тип: ';
 $_['text_card_name']			= 'Име карта: ';
 $_['text_card_digits']			= 'Последни цифри: ';
@@ -27,5 +34,5 @@ $_['entry_cc_city']				= 'Населено място';
 $_['entry_cc_state']			= 'Област';
 $_['entry_cc_zipcode']			= 'ПК';
 $_['entry_cc_phone']			= 'Телефон';
-$_['entry_cc_email']			= 'E-mail';
+$_['entry_cc_email']			= 'Имейл';
 $_['entry_cc_choice']			= 'Изберете налична карта';

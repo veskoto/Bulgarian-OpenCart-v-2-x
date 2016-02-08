@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title']     = 'Данни за моя профил';
 
@@ -13,7 +20,7 @@ $_['text_success']      = 'Вашият профил бе обновен усп�
 // Entry
 $_['entry_firstname']   = 'Име';
 $_['entry_lastname']    = 'Фамилия';
-$_['entry_email']       = 'E-Mail';
+$_['entry_email']       = 'Имейл';
 $_['entry_telephone']   = 'Телефон';
 $_['entry_fax']         = 'Факс';
 $_['entry_company']     = 'Фирма';

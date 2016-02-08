@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
 $_['text_subject']        = '%s - Благодарим ви, че се регистрирахте!';
 $_['text_welcome']        = 'Добре дошли и благодарим, че се регистрирахте в %s!';
@@ -9,9 +16,9 @@ $_['text_services']       = 'Влизайки в системата, вие ще
 $_['text_thanks']         = 'Благодарим Ви!';
 $_['text_new_customer']   = 'Нов потребител';
 $_['text_signup']         = 'Нов потребител се записа:';
-$_['text_website']        = 'Web Site:';
+$_['text_website']        = 'Сайт:';
 $_['text_customer_group'] = 'Клиентска група:';
 $_['text_firstname']      = 'Име:';
 $_['text_lastname']       = 'Фамилия:';
-$_['text_email']          = 'E-Mail:';
+$_['text_email']          = 'Имейл:';
 $_['text_telephone']      = 'Телефон:';

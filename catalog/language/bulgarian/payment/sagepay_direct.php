@@ -1,7 +1,14 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_title']				= 'Кредина карта / Дебитна карта (SagePay)';
+$_['text_title']				= 'Кредина / Дебитна карта (SagePay)';
 $_['text_credit_card']			= 'Информация за карта';
 $_['text_card_type']			= 'Тип карта: ';
 $_['text_card_name']			= 'Име на карта: ';

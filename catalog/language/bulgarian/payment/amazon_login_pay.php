@@ -1,17 +1,24 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']				= 'Влез и Плати с Amazon';
+$_['heading_title']				= 'Влез и плати с Amazon';
 $_['heading_address']			= 'Моля, изберете адрес за доставка';
 $_['heading_payment']			= 'Моля, изберете начин на плащане';
-$_['heading_confirm']			= 'Обощена поръчка';
+$_['heading_confirm']			= 'Обощение на поръчка';
 
 // Text
 $_['text_back']					= 'Назад';
 $_['text_cart']					= 'Количка';
 $_['text_confirm']				= 'Потвърди';
 $_['text_continue']				= 'Продължи';
-$_['text_lpa']					= 'Влез и Плати с Amazon';
+$_['text_lpa']					= 'Влез и плати с Amazon';
 $_['text_enter_coupon']			= 'Въведете вашия купон тук. В случай, че не разполагате с купон, оставете празно.';
 $_['text_coupon']				= 'Купон';
 $_['text_tax_other']			= 'Такси и данъци';

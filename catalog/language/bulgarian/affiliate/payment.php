@@ -1,7 +1,14 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']             = 'Начин на плащан';
+$_['heading_title']             = 'Начин на плащане';
 
 // Text
 $_['text_account']              = 'Профил';
@@ -17,7 +24,7 @@ $_['text_success']              = 'Успешно обновихте вашия 
 $_['entry_tax']                 = 'Данъчен номер';
 $_['entry_payment']             = 'Начин на плащане';
 $_['entry_cheque']              = 'Трите имена на лицето, което ще осребрява чека';
-$_['entry_paypal']              = 'Адрес на e-mail към профил в PayPal';
+$_['entry_paypal']              = 'Адрес на имейл към профил в PayPal';
 $_['entry_bank_name']           = 'Име на банка';
 $_['entry_bank_branch_number']  = 'ABA/BSB номер (номер на клон)';
 $_['entry_bank_swift_code']     = 'SWIFT код';

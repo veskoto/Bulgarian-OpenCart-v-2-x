@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title']  = 'Контакт с нас';
 
@@ -16,15 +23,13 @@ $_['text_success']   = '<p>Вашето съобщение е прието!</p>'
 
 // Entry
 $_['entry_name']     = 'Вашето име';
-$_['entry_email']    = 'E-Mail адрес';
+$_['entry_email']    = 'Имейл адрес';
 $_['entry_enquiry']  = 'Съобщение';
-$_['entry_captcha']  = 'Въведете кода в полето по-долу';
 
 // Email
 $_['email_subject']  = 'Съобщение %s';
 
 // Errors
 $_['error_name']     = 'Внимание: Името трябва да е между 3 и 32 символа!';
-$_['error_email']    = 'E-Mail адресът не е валиден!';
+$_['error_email']    = 'Имейл адресът не е валиден!';
 $_['error_enquiry']  = 'Внимание: Съобщението трябва да е между 10 и 3000 символа!';
-$_['error_captcha']  = 'Внимание: Въведеният код не съвпада с кода от картинката!';

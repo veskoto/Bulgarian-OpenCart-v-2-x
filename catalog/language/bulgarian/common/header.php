@@ -1,9 +1,16 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
-$_['text_home']          = 'Начална';
+$_['text_home']          = 'Начало';
 $_['text_wishlist']      = 'Желани продукти (%s)';
-$_['text_shopping_cart'] = 'Кошница';
+$_['text_shopping_cart'] = 'Количка';
 $_['text_category']      = 'Категории';
 $_['text_account']       = 'Моят профил';
 $_['text_register']      = 'Регистрирайте се';

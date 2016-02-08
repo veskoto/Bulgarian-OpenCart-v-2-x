@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title']    = 'Карта на сайта';
 
@@ -11,7 +18,7 @@ $_['text_password']    = 'Парола';
 $_['text_address']     = 'Адресна книга';
 $_['text_history']     = 'История на поръчките';
 $_['text_download']    = 'Е-продукти';
-$_['text_cart']        = 'Кошница';
+$_['text_cart']        = 'Количка';
 $_['text_checkout']    = 'Плащане';
 $_['text_search']      = 'Търсене';
 $_['text_information'] = 'Информация';

@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title']      = 'Информация за моя профил';
 
@@ -12,7 +19,7 @@ $_['text_success']       = 'Успех: Профилът ви е актуали�
 // Entry
 $_['entry_firstname']    = 'Име';
 $_['entry_lastname']     = 'Фамилия';
-$_['entry_email']        = 'E-Mail';
+$_['entry_email']        = 'Имейл';
 $_['entry_telephone']    = 'Телефон';
 $_['entry_fax']          = 'Факс';
 
@@ -20,6 +27,6 @@ $_['entry_fax']          = 'Факс';
 $_['error_exists']       = 'Внимание: Вече има регистриран профил с този e-mail!';
 $_['error_firstname']    = 'Името трябва да е между 1 и 32 символа!';
 $_['error_lastname']     = 'Фамилията трябва да е между 1 и 32 символа!';
-$_['error_email']        = 'E-Mail не е валиден';
+$_['error_email']        = 'Имейлът не е валиден';
 $_['error_telephone']    = 'Внимание: Телефонът трябва да е между 3 и 32 символа!';
 $_['error_custom_field'] = '%s задължителен!';

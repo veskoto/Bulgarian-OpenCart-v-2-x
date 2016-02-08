@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title'] = 'Моите желани продукти';
 
@@ -9,7 +16,6 @@ $_['text_instock']  = 'В наличност';
 $_['text_wishlist'] = 'Желани продукти (%s)';
 $_['text_login']    = 'Трябва да <a href="%s">влезете в профила си</a> или <a href="%s">да създадте профил</a>, за да запазите <a href="%s">%s</a> към <a href="%s">вашите желани продукти</a>!';
 $_['text_success']  = 'Успешно добавихте <a href="%s">%s</a> към вашите <a href="%s">желани продукти</a>!';
-$_['text_exists']   = '<a href="%s">%s</a> вече присъства във вашите <a href="%s">желани продукти</a>!';
 $_['text_remove']   = 'Успешно пронихте вашите желани продукти!';
 $_['text_empty']    = 'Не сте добавили желани продукти.';
 

@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title']         = 'История на поръчките';
 
@@ -16,7 +23,7 @@ $_['text_payment_address']  = 'Платежен адрес';
 $_['text_payment_method']   = 'Начин на плащане:';
 $_['text_comment']          = 'Пояснения към поръчката';
 $_['text_history']          = 'История на поръчките';
-$_['text_success']          = 'Успешно добавихте <a href="%s">%s</a> към вашата <a href="%s">Кошница</a>!';
+$_['text_success']          = 'Успешно добавихте <a href="%s">%s</a> към вашата <a href="%s">количка</a>!';
 $_['text_empty']            = 'Нямате предишни поръчки!';
 $_['text_error']            = 'Поръчката, която търсите не може да бъде намерена!';
 

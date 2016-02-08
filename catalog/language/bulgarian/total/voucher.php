@@ -1,4 +1,22 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
+// Heading
+$_['heading_title'] = 'Използвайте ваучър';
+
 // Text
 $_['text_voucher'] = 'Ваучер (%s)';
+$_['text_success']  = 'Вашият ваучър е отчетен успешно!';
+
+// Entry
+$_['entry_voucher'] = 'Попълнете вашия ваучъра';
+
+// Error
+$_['error_voucher'] = 'Внимание: Ваучера е невалиден, изтекъл или достигнал своя лимит за ползване!';
+$_['error_empty']   = 'Внимание: Моля, въведете код на ваучъра!';

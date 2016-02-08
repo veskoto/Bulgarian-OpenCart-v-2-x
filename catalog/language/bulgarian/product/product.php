@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
 $_['text_search']              = 'Търсене';
 $_['text_brand']               = 'Производител';
@@ -8,11 +15,11 @@ $_['text_model']               = 'Код на продукта:';
 $_['text_reward']              = 'Наградни точки:';
 $_['text_points']              = 'Цена в наградни точки:';
 $_['text_stock']               = 'Наличност:';
-$_['text_instock']             = 'Наличност';
+$_['text_instock']             = 'В наличност';
 $_['text_tax']                 = 'Без данък:';
 $_['text_discount']            = ' или повече ';
 $_['text_option']              = 'Възможни варианти';
-$_['text_minimum']             = 'Продуктът има минимално кол-во %s';
+$_['text_minimum']             = 'Продуктът има минимално количество %s';
 $_['text_reviews']             = '%s отзива';
 $_['text_write']               = 'Напишете отзив';
 $_['text_login']               = 'Моля влезете в <a href="%s">профила</a> или се <a href="%s">регистрирайте</a>, за да напишете отзив.';
@@ -33,7 +40,7 @@ $_['text_month']               = 'месец';
 $_['text_year']                = 'година';
 
 // Entry
-$_['entry_qty']                = 'Кол-во:';
+$_['entry_qty']                = 'Количество:';
 $_['entry_name']               = 'Вашето име';
 $_['entry_review']             = 'Вишият отзив';
 $_['entry_rating']             = 'Рейтинг';
@@ -49,4 +56,3 @@ $_['tab_review']               = 'Отзиви (%s)';
 $_['error_name']               = 'Внимание: Заглавието на отзива трябва да бъде между 3 и 25 символа!';
 $_['error_text']               = 'Внимание: Текстът на отзива трябва да бъде между 25 и 1000 символа!';
 $_['error_rating']             = 'Внимание: Моля, изберете рейтинг!';
-$_['error_captcha']            = 'Внимание: Въведеният код не съвпада с този в картинката!';

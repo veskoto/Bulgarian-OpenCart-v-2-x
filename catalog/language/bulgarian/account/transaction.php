@@ -1,5 +1,12 @@
-<?php 
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+<?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading 
 $_['heading_title']      = 'Вашите трансакции';
 
@@ -8,7 +15,7 @@ $_['column_date_added']  = 'Дата на добавяне';
 $_['column_description'] = 'Описание';
 $_['column_amount']      = 'Сума (%s)';
 
-// Текст
+// Text
 $_['text_account']       = 'Профил';
 $_['text_transaction']   = 'Вашите трансакции';
 $_['text_total']         = 'Балансът ви към момента е:';

@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Text
 $_['text_information']  = 'Информация';
 $_['text_service']      = 'Обслужване на клиенти';
@@ -15,4 +22,4 @@ $_['text_account']      = 'Моят профил';
 $_['text_order']        = 'История на поръчките';
 $_['text_wishlist']     = 'Желани продукти';
 $_['text_newsletter']   = 'Бюлетин';
-$_['text_powered']      = '&copy; %s<br /> Дизайн: <a href="mailto:icakaweb@gmail.com" title="iCaka Web">iCaka Web</a>';
+$_['text_powered']      = 'Powered By <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';

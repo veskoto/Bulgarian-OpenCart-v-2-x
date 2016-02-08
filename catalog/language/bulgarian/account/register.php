@@ -1,5 +1,12 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
 $_['heading_title']        = 'Създаване на профил';
 
@@ -17,7 +24,7 @@ $_['text_agree']           = 'Прочел съм и съм съгласен с 
 $_['entry_customer_group'] = 'Група клиенти';
 $_['entry_firstname']      = 'Име:';
 $_['entry_lastname']       = 'Фамилия:';
-$_['entry_email']          = 'E-mail:';
+$_['entry_email']          = 'Имейл:';
 $_['entry_telephone']      = 'Телефон:';
 $_['entry_fax']            = 'Факс:';
 $_['entry_company']        = 'Фирма:';
@@ -35,7 +42,7 @@ $_['entry_confirm']        = 'Паролата повторно:';
 $_['error_exists']         = 'Внимание: вече има регистриран профил с тази e-mail!';
 $_['error_firstname']      = 'Името трябва да е между 1 и 32 символа!';
 $_['error_lastname']       = 'Фамилията трябва да е между 1 и 32 символа!';
-$_['error_email']          = 'E-Mail адресът е невалиден!';
+$_['error_email']          = 'Имейл адресът е невалиден!';
 $_['error_telephone']      = 'Телефонът трябва да е между 3 и 32 символа!';
 $_['error_address_1']      = 'Адресът трябва да е между 3 и 128 символа!';
 $_['error_city']           = 'Населеното място трябва да е между 2 и 128 символа!';

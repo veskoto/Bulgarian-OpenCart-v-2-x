@@ -1,7 +1,14 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
-// Text
-$_['text_title'] = 'Кредит / Дебит карта';
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
+
+$_['text_title'] = 'Кредитна / Дебитна карта';
 $_['button_confirm'] = 'Потвърди';
 
 $_['text_postcode_check'] = 'ПК чек: %s';

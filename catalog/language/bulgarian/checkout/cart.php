@@ -1,11 +1,18 @@
 <?php
-// Превод и редакция: Георги Манов (www.gmanov.com); Всички права запазени!
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']            = 'Кошница';
+$_['heading_title']            = 'Количка';
 
 // Text
-$_['text_success']             = 'Успешно добавихте <a href="%s">%s</a> към вашата <a href="%s">Кошница</a>!';
-$_['text_remove']              = 'Успешно променихте вашата кошница';
+$_['text_success']             = 'Успешно добавихте <a href="%s">%s</a> към вашата <a href="%s">Количка</a>!';
+$_['text_remove']              = 'Успешно променихте вашата количка';
 $_['text_login']               = 'Внимание: Нужно е да влезете във вашия <a href="%s">профил</a> или да <a href="%s">създадете профил</a> , за да видите цената!';
 $_['text_items']               = '%s продукт(а) - %s';
 $_['text_points']              = 'Наградни точки: %s';
@@ -39,5 +46,5 @@ $_['column_total']             = 'Общо';
 $_['error_stock']              = 'Продуктите, отбелязани с ***, не са налични в желаното количество или са изчерпани.';
 $_['error_minimum']            = 'Минималното количество за поръчка %s е %s!';
 $_['error_required']           = '%s задължително!';
-$_['error_product']            = 'Вниание: Вашата кошницата е празна!';
+$_['error_product']            = 'Вниание: Вашата количка е празна!';
 $_['error_recurring_required'] = 'Моля изберете повтарящи се плащания!';
