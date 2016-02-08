@@ -8,25 +8,25 @@
  *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
  */
 // Heading
-$_['heading_title']     = 'Attribute Groups';
+$_['heading_title']     = 'Групи атрибути';
 
 // Text
-$_['text_success']      = 'Success: You have modified attribute groups!';
-$_['text_list']         = 'Attribute Group List';
-$_['text_add']          = 'Add Attribute Group';
-$_['text_edit']         = 'Edit Attribute Group';
+$_['text_success']      = 'Успешно: Променихте атрибутите групи!';
+$_['text_list']         = 'Списък на групи атрибути';
+$_['text_add']          = 'Добавяне на група';
+$_['text_edit']         = 'Редакция на група';
 
 // Column
-$_['column_name']       = 'Attribute Group Name';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Име на група';
+$_['column_sort_order'] = 'Подредба';
+$_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Attribute Group Name';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_name']        = 'Име на група';
+$_['entry_sort_order']  = 'Подредба';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify attribute groups!';
-$_['error_name']        = 'Attribute Group Name must be between 3 and 64 characters!';
-$_['error_attribute']   = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s attributes!';
-$_['error_product']     = 'Warning: This attribute group cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']  = 'Внимание: Нямате права за промяна на атрибутите групи!';
+$_['error_name']        = 'Името на групата трябва да бъде между 3 и 64 символа!';
+$_['error_attribute']   = 'Внимание: Тази група не може да бъде изтрита защото се ползва от %s атрибута!';
+$_['error_product']     = 'Внимание: Тази група не може да бъде изтрита защото се ползва от %s продукта!';

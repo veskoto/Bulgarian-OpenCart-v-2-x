@@ -11,10 +11,10 @@
 $_['heading_title']          = 'Атрибути';
 
 // Text
-$_['text_success']           = 'Success: You have modified attributes!';
-$_['text_list']              = 'Attribute List';
-$_['text_add']               = 'Add Attribute';
-$_['text_edit']              = 'Edit Attribute';
+$_['text_success']           = 'Успешно: Променихте атрибути!';
+$_['text_list']              = 'Списък атрибути';
+$_['text_add']               = 'Добавяне на атрибут';
+$_['text_edit']              = 'Редакция на атрибут';
 
 // Column
 $_['column_name']            = 'Име на атрибута';

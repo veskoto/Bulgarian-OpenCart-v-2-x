@@ -1,19 +1,27 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // header
-$_['heading_title']  = 'Administration';
+$_['heading_title']  = 'Администрация';
 
 // Text
-$_['text_heading']   = 'Administration';
-$_['text_login']     = 'Please enter your login details.';
-$_['text_forgotten'] = 'Forgotten Password';
+$_['text_heading']   = 'Администрация';
+$_['text_login']     = 'Моля, въведете данните си за вход.';
+$_['text_forgotten'] = 'Забравена парола';
 
 // Entry
-$_['entry_username'] = 'Username';
-$_['entry_password'] = 'Password';
+$_['entry_username'] = 'Потребител';
+$_['entry_password'] = 'Парола';
 
 // Button
-$_['button_login']   = 'Login';
+$_['button_login']   = 'Вход';
 
 // Error
-$_['error_login']    = 'No match for Username and/or Password.';
-$_['error_token']    = 'Invalid token session. Please login again.';
+$_['error_login']    = 'Няма съвпадение за потребителско име и/или парола.';
+$_['error_token']    = 'Невалидна сесия. Моля, влезте отново.';
