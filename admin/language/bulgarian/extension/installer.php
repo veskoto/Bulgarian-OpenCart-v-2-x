@@ -1,38 +1,46 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']        = 'Extension Installer';
+$_['heading_title']        = 'Инсталиране на приложения';
 
 // Text
-$_['text_success']         = 'Success: You have installed your extension!';
-$_['text_unzip']           = 'Extracting files!';
-$_['text_ftp']             = 'Copying files!';
-$_['text_sql']             = 'Running SQL!';
-$_['text_xml']             = 'Applying modifications!';
-$_['text_php']             = 'Running PHP!';
-$_['text_remove']          = 'Removing temporary files!';
-$_['text_clear']           = 'Success: You have cleared all temporary files!';
+$_['text_success']         = 'Успешно: Инсталирахте приложение!';
+$_['text_unzip']           = 'Извличане на файлове!';
+$_['text_ftp']             = 'Копиране на файлове!';
+$_['text_sql']             = 'Извличане на SQL!';
+$_['text_xml']             = 'Прилагането модификации!';
+$_['text_php']             = 'Извличане на PHP!';
+$_['text_remove']          = 'Премахване на временни файлове!';
+$_['text_clear']           = 'Успешно: Вие изчистихте всички временни файлове!';
 
 // Entry
-$_['entry_upload']         = 'Upload File';
-$_['entry_overwrite']      = 'Files that will be overwritten';
-$_['entry_progress']       = 'Progress';
+$_['entry_upload']         = 'Качи файл';
+$_['entry_overwrite']      = 'Файлове, които ще бъдат презаписани';
+$_['entry_progress']       = 'Напредък';
 
 // Help
-$_['help_upload']          = 'Requires a modification file with extension ".ocmod.zip" or ".ocmod.xml".';
+$_['help_upload']          = 'Изисква модификация файл с разширение ".ocmod.zip" или ".ocmod.xml".';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify extensions!';
-$_['error_temporary']      = 'Warning: There are some temporary files that require deleting. Click the clear button to remove them!';
-$_['error_upload']         = 'File could not be uploaded!';
-$_['error_filetype']       = 'Invalid file type!';
-$_['error_file']           = 'File could not be found!';
-$_['error_unzip']          = 'Zip file could not be opened!';
-$_['error_code']           = 'Modification requires a unique ID code!';
-$_['error_exists']         = 'Modification %s is using the same ID code as the one you are trying to upload!';
-$_['error_directory']      = 'Directory containing files to be uploaded could not be found!';
-$_['error_ftp_status']     = 'FTP needs to be enabled in the settings';
-$_['error_ftp_connection'] = 'Could not connect as %s:%s';
-$_['error_ftp_login']      = 'Could not login as %s';
-$_['error_ftp_root']       = 'Could not set root directory as %s';
-$_['error_ftp_directory']  = 'Could not change to directory %s';
-$_['error_ftp_file']       = 'Could not upload file %s';
+$_['error_permission']     = 'Внимание: Вие нямате права за инсталирахте приложение!';
+$_['error_temporary']      = 'Внимание: Има някои временни файлове, които изискват изтриване. Кликнете бутона за да ги премахнете!';
+$_['error_upload']         = 'Файлът не може да бъде качен!';
+$_['error_filetype']       = 'Невалиден тип файл!';
+$_['error_file']           = 'Файлът не може да бъде намерен!';
+$_['error_unzip']          = 'Zip файла не може да бъде отворен!';
+$_['error_code']           = 'Модификация изисква уникален ID код!';
+$_['error_exists']         = 'Модификация %s използва същия ID код като този, който се опитвате да качите!';
+$_['error_directory']      = 'Папката съдържа файлове за качеване, които не могат да бъде намерени!';
+$_['error_ftp_status']     = 'FTP трябва да бъде включен в настройките';
+$_['error_ftp_connection'] = 'Не може да се свърже с %s:%s';
+$_['error_ftp_login']      = 'Не можа да се логнете като %s';
+$_['error_ftp_root']       = 'Не може да се определи главната директория като %s';
+$_['error_ftp_directory']  = 'Не може да се промени на директория %s';
+$_['error_ftp_file']       = 'Не може да се качи файл %s';

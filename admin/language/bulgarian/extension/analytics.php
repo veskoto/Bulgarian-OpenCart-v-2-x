@@ -1,15 +1,23 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Analytics';
+$_['heading_title']    = 'Анализ';
 
 // Text
-$_['text_success']     = 'Success: You have modified analytics!';
-$_['text_list']        = 'Analytics List';
+$_['text_success']     = 'Успешно: Променихте анализ!';
+$_['text_list']        = 'Списък';
 
 // Column
-$_['column_name']      = 'Analytics Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Заглавие';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Действие';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify analytics!';
+$_['error_permission'] = 'Внимание: Вие нямате права за промяна на анализ!';

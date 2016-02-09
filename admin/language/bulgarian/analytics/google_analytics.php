@@ -12,13 +12,13 @@ $_['heading_title']    = 'Google статистика';
 // Text
 $_['text_analytics']   = 'Статистика';
 $_['text_success']	   = 'Успех: Променихте Google статистика!';
-$_['text_edit']        = 'Редакция на Google статистика';
-$_['text_signup']      = 'Login to your <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> account and after creating your website profile copy and paste the analytics code into this field.';
+$_['text_edit']        = 'Редакция';
+$_['text_signup']      = 'Поесетете <a href="http://www.google.com/analytics/" target="_blank"><u>Google Analytics</u></a> и след създаването на своя уебсайт профил копирате и поставяте кода на анализи в тази област.';
 
 // Entry
 $_['entry_code']       = 'Код за Google статистика';
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Внимание: You do not have permission to modify Google Analytics!';
-$_['error_code']	   = 'Code required!';
+$_['error_permission'] = 'Внимание: Вие нямате права за промяна на Google Analytics!';
+$_['error_code']	   = 'Кодът е задължителен!';

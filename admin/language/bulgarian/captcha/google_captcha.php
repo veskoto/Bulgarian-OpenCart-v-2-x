@@ -10,17 +10,17 @@
 $_['heading_title']    = 'Google reCAPTCHA';
 
 // Text
-$_['text_captcha']     = 'Captcha';
-$_['text_success']	   = 'Success: You have modified Google reCAPTCHA!';
-$_['text_edit']        = 'Edit Google reCAPTCHA';
-$_['text_signup']      = 'Go to <a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA page</u></a> and register your website.';
+$_['text_captcha']     = 'Google reCAPTCHA';
+$_['text_success']	   = 'Успешно: Променихте Google reCAPTCHA!';
+$_['text_edit']        = 'Редакция';
+$_['text_signup']      = 'Посетете страницата на<a href="https://www.google.com/recaptcha/intro/index.html" target="_blank"><u>Google reCAPTCHA</u></a> и регистрирайте Вашият сайт.';
 
 // Entry
 $_['entry_key']        = 'Site key';
 $_['entry_secret']     = 'Secret key';
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Google Analytics!';
-$_['error_key']	       = 'Key required!';
-$_['error_secret']	   = 'Secret required!';
+$_['error_permission'] = 'Внимание: Вие нямате права за промяна на Google reCAPTCHA!';
+$_['error_key']	       = 'Site key е задължителен!';
+$_['error_secret']	   = 'Secret key е задължителен!';

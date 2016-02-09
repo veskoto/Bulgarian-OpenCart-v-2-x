@@ -8,46 +8,46 @@
  *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
  */
 // Heading
-$_['heading_title']          = 'Information';
+$_['heading_title']          = 'Информация';
 
 // Text
-$_['text_success']           = 'Success: You have modified information!';
-$_['text_list']              = 'Information List';
-$_['text_add']               = 'Add Information';
-$_['text_edit']              = 'Edit Information';
-$_['text_default']           = 'Default';
+$_['text_success']           = 'Успешно: Променихте информацията!';
+$_['text_list']              = 'Списък';
+$_['text_add']               = 'Добавяне';
+$_['text_edit']              = 'Редакция';
+$_['text_default']           = 'Основен';
 
 // Column
-$_['column_title']           = 'Information Title';
-$_['column_sort_order']	     = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_title']           = 'Заглавие';
+$_['column_sort_order']	     = 'Подредба';
+$_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_title']            = 'Information Title';
-$_['entry_description']      = 'Description';
-$_['entry_store']            = 'Stores';
-$_['entry_meta_title'] 	     = 'Meta Tag Title';
-$_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_keyword']          = 'SEO Keyword';
-$_['entry_bottom']           = 'Bottom';
-$_['entry_status']           = 'Status';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_title']            = 'Заглавие';
+$_['entry_description']      = 'Описание';
+$_['entry_store']            = 'Магазини';
+$_['entry_meta_title'] 	     = 'Мета заглавие';
+$_['entry_meta_keyword'] 	 = 'Мета ключови думи';;
+$_['entry_meta_description'] = 'Мета описание';;
+$_['entry_keyword']          = 'SEO URL';
+$_['entry_bottom']           = 'Видимо';
+$_['entry_status']           = 'Статус';
+$_['entry_sort_order']       = 'Подредба';
+$_['entry_layout']           = 'Промяна на изгледа';
 
 // Help
-$_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
-$_['help_bottom']            = 'Display in the bottom footer.';
+$_['help_keyword']           = 'Не използвайте празни пространства - вместо тях заменете пространства с - и се уверете, че SEO URL е уникално.';
+$_['help_bottom']            = 'Показване в долната част на сайта.';
 
-// Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify information!';
-$_['error_title']            = 'Information Title must be between 3 and 64 characters!';
-$_['error_description']      = 'Description must be more than 3 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';
-$_['error_keyword']          = 'SEO keyword already in use!';
-$_['error_account']          = 'Warning: This information page cannot be deleted as it is currently assigned as the store account terms!';
-$_['error_checkout']         = 'Warning: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
-$_['error_affiliate']        = 'Warning: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
-$_['error_return']           = 'Warning: This information page cannot be deleted as it is currently assigned as the store return terms!';
-$_['error_store']            = 'Warning: This information page cannot be deleted as its currently used by %s stores!';
+// Error//TODO
+$_['error_warning']          = 'Внимание: Моля, проверете формата внимателно за грешки!';
+$_['error_permission']       = 'Внимание: Вие нямате права за промяна на Информация!';
+$_['error_title']            = 'Заглавието трябва да бъде между 3 и 64 символа!';
+$_['error_description']      = 'Описанието трябва да бъде най-малко 3 символа!';
+$_['error_meta_title']       = 'Мета заглавието трябва да бъде най-малко 3 и най-много 255 символа!';
+$_['error_keyword']          = 'SEO URL вече съществува!';
+$_['error_account']          = 'Внимание: Тази информация страница не може да бъде изтрита, тъй като понастоящем е определена като условията за позлване на магазина!';
+$_['error_checkout']         = 'Внимание: This information page cannot be deleted as it is currently assigned as the store checkout terms!';
+$_['error_affiliate']        = 'Внимание: This information page cannot be deleted as it is currently assigned as the store affiliate terms!';
+$_['error_return']           = 'Внимание: This information page cannot be deleted as it is currently assigned as the store return terms!';
+$_['error_store']            = 'Внимание: This information page cannot be deleted as its currently used by %s stores!';

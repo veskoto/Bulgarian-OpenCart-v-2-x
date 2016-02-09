@@ -1,15 +1,23 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Anti-Fraud';
+$_['heading_title']    = 'Борба с измамите';
 
 // Text
-$_['text_success']     = 'Success: You have modified anti-fraud!';
-$_['text_list']        = 'Anti-Fraud List';
+$_['text_success']     = 'Успешно: Променихте борба с измамите!';
+$_['text_list']        = 'Списък';
 
 // Column
-$_['column_name']      = 'Anti-Fraud Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Заглавие';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Действие';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify anti-fraud!';
+$_['error_permission'] = 'Внимание: Вие нямате права за промяна на борба с измамите!';

@@ -8,41 +8,41 @@
  *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
  */
 // Heading
-$_['heading_title']       = 'Options';
+$_['heading_title']       = 'Опции';
 
 // Text
-$_['text_success']        = 'Success: You have modified options!';
-$_['text_list']           = 'Option List';
-$_['text_add']            = 'Add Option';
-$_['text_edit']           = 'Edit Option';
-$_['text_choose']         = 'Choose';
+$_['text_success']        = 'Успешно: Променихте опции!';
+$_['text_list']           = 'Списък';
+$_['text_add']            = 'Добавяне';
+$_['text_edit']           = 'Редакция ';
+$_['text_choose']         = 'Избор';
 $_['text_select']         = 'Select';
 $_['text_radio']          = 'Radio';
 $_['text_checkbox']       = 'Checkbox';
-$_['text_image']          = 'Image';
+$_['text_image']          = 'Изображение';
 $_['text_input']          = 'Input';
 $_['text_text']           = 'Text';
 $_['text_textarea']       = 'Textarea';
-$_['text_file']           = 'File';
-$_['text_date']           = 'Date';
-$_['text_datetime']       = 'Date &amp; Time';
-$_['text_time']           = 'Time';
+$_['text_file']           = 'Файл';
+$_['text_date']           = 'Дата';
+$_['text_datetime']       = 'Дата и час';
+$_['text_time']           = 'Час';
 
 // Column
-$_['column_name']         = 'Option Name';
-$_['column_sort_order']   = 'Sort Order';
-$_['column_action']       = 'Action';
+$_['column_name']         = 'Заглавие';
+$_['column_sort_order']   = 'Подредба';
+$_['column_action']       = 'Действие';
 
 // Entry
-$_['entry_name']          = 'Option Name';
-$_['entry_type']          = 'Type';
-$_['entry_option_value']  = 'Option Value Name';
-$_['entry_image']         = 'Image';
-$_['entry_sort_order']    = 'Sort Order';
+$_['entry_name']          = 'Заглавие';
+$_['entry_type']          = 'Тип';
+$_['entry_option_value']  = 'Заглавие на стойността';
+$_['entry_image']         = 'Изображение';
+$_['entry_sort_order']    = 'Подредба';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify options!';
-$_['error_name']          = 'Option Name must be between 1 and 128 characters!';
-$_['error_type']          = 'Warning: Option Values required!';
-$_['error_option_value']  = 'Option Value Name must be between 1 and 128 characters!';
-$_['error_product']       = 'Warning: This option cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']    = 'Внимание: Вие нямате права за промяна на опции!';
+$_['error_name']          = 'Заглавието трябва да бъде между 1 и 128 символа!';
+$_['error_type']          = 'Внимание: Изисква се стойност!';
+$_['error_option_value']  = 'Заглавието на стойността трябва да бъде между 1 и 128 символа!';
+$_['error_product']       = 'Внимание: Опцията не може да бъде изтрит защото се използва от %s продукта!';

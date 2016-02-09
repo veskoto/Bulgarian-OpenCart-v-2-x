@@ -1,16 +1,24 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']     = 'Order Totals';
+$_['heading_title']     = 'Общо поръчки';
 
 // Text
-$_['text_success']      = 'Success: You have modified totals!';
-$_['text_list']         = 'Order Total List';
+$_['text_success']      = 'Успешно: Променихте общо поръчки!';
+$_['text_list']         = 'Списък';
 
 // Column
-$_['column_name']       = 'Order Totals';
-$_['column_status']     = 'Status';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Общо поръчки';
+$_['column_status']     = 'Статус';
+$_['column_sort_order'] = 'Подредба';
+$_['column_action']     = 'Действие';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify totals!';
+$_['error_permission']  = 'Внимание: Вие нямате права за промяна на общо поръчки!';

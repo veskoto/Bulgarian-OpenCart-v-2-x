@@ -1,22 +1,30 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Modules';
+$_['heading_title']    = 'Модули';
 
 // Text
-$_['text_success']     = 'Success: You have modified modules!';
-$_['text_layout']      = 'After you have installed and configured a module you can add it to a layout <a href="%s" class="alert-link">here</a>!';
-$_['text_add']         = 'Add Module';
-$_['text_list']        = 'Module List';
+$_['text_success']     = 'Успешно: Променихте модули!';
+$_['text_layout']      = 'След като сте инсталирали и конфигурирали модул можете да го добавите макет <a href="%s" class="alert-link">от тук</a>!';
+$_['text_add']         = 'Добавяне';
+$_['text_list']        = 'Списък';
 
 // Column
-$_['column_name']      = 'Module Name';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Заглавие';
+$_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_code']       = 'Module';
-$_['entry_name']       = 'Module Name';
+$_['entry_code']       = 'Модули';
+$_['entry_name']       = 'Заглавие';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify modules!';
-$_['error_name']       = 'Module Name must be between 3 and 64 characters!';
-$_['error_code']       = 'Extension required!';
+$_['error_permission'] = 'Внимание: Вие нямате права за промяна на modules!';
+$_['error_name']       = 'Заглавието трябва да бъде между 3 и 64 символа!';
+$_['error_code']       = 'Изисква се приложение!';

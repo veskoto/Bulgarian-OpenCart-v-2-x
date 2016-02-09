@@ -1,6 +1,14 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']   = 'Permission Denied!';
+$_['heading_title']   = 'Достъпа е отказан!';
 
 // Text
-$_['text_permission'] = 'You do not have permission to access this page, please refer to your system administrator.';
+$_['text_permission'] = 'Вие нямате разрешение за достъп до тази страница, моля обърнете се към вашия системен администратор.';

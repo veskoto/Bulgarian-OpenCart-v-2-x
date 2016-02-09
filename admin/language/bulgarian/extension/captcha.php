@@ -1,15 +1,23 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Captcha';
+$_['heading_title']    = 'Антибот';
 
 // Text
-$_['text_success']     = 'Success: You have modified captchas!';
-$_['text_list']        = 'Captcha List';
+$_['text_success']     = 'Успешно: Променихте антибот!';
+$_['text_list']        = 'Списък';
 
 // Column
-$_['column_name']      = 'Captcha Name';
-$_['column_status']    = 'Status';
-$_['column_action']    = 'Action';
+$_['column_name']      = 'Заглавие';
+$_['column_status']    = 'Статус';
+$_['column_action']    = 'Действие';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify captchas!';
+$_['error_permission'] = 'Внимание: Вие нямате права за промяна на антибот!';

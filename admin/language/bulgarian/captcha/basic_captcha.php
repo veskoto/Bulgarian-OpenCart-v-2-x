@@ -7,15 +7,15 @@
  *      PayPal: veskoto@gmail.com
  *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
  */
-$_['heading_title']    = 'Basic Captcha';
+$_['heading_title']    = 'Антибот система';
 
 // Text
-$_['text_captcha']     = 'Captcha';
-$_['text_success']	   = 'Success: You have modified Basic Captcha!';
-$_['text_edit']        = 'Edit Basic Captcha';
+$_['text_captcha']     = 'Антибот';
+$_['text_success']     = 'Успешно: Променихте антибот система!';
+$_['text_edit']        = 'Редакция';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify Basic Captcha!';
+$_['error_permission'] = 'Внимание: Вие нямате права за промяна на антибот система!';

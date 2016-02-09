@@ -41,9 +41,9 @@ $_['entry_layout']           = 'Промяна на изгледа';
 
 // Help
 $_['help_filter']            = '(Автоматично довършване)';
-$_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
-$_['help_top']               = 'Display in the top menu bar. Only works for the top parent categories.';
-$_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.';
+$_['help_keyword']           = 'Не използвайте празни пространства - вместо тях заменете пространства с - и се уверете, че SEO URL е уникално.';
+$_['help_top']               = 'Показване в горната лента с менюта. Работи само за горната лента с менюта.';
+$_['help_column']            = 'Брой колони, за да се използва за долните 3 категории. Работи само за горната лента с менюта.';
 
 // Error
 $_['error_warning']          = 'Внимание: Моля, проверете формата внимателно за грешки!';
