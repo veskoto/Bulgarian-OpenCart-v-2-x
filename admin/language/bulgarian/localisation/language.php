@@ -1,43 +1,51 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']     = 'Languages';
+$_['heading_title']     = 'Езици';
 
 // Text
-$_['text_success']      = 'Success: You have modified languages!';
-$_['text_list']         = 'Language List';
-$_['text_add']          = 'Add Language';
-$_['text_edit']         = 'Edit Language';
+$_['text_success']      = 'Успешно: Променихте езици!';
+$_['text_list']         = 'Списък';
+$_['text_add']          = 'Добавяне';
+$_['text_edit']         = 'Редакция';
 
 // Column
-$_['column_name']       = 'Language Name';
-$_['column_code']       = 'Code';
-$_['column_sort_order'] = 'Sort Order';
-$_['column_action']     = 'Action';
+$_['column_name']       = 'Наименование';
+$_['column_code']       = 'Езиков код';
+$_['column_sort_order'] = 'Подредба';
+$_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Language Name';
-$_['entry_code']        = 'Code';
+$_['entry_name']        = 'Наименование';
+$_['entry_code']        = 'Езиков код';
 $_['entry_locale']      = 'Locale';
-$_['entry_image']       = 'Image';
-$_['entry_directory']   = 'Directory';
-$_['entry_status']      = 'Status';
-$_['entry_sort_order']  = 'Sort Order';
+$_['entry_image']       = 'Изображение';
+$_['entry_directory']   = 'Папка';
+$_['entry_status']      = 'Статус';
+$_['entry_sort_order']  = 'Подредба';
 
 // Help
-$_['help_code']         = 'Example: en. Do not change if this is your default language.';
-$_['help_locale']       = 'Example: en_US.UTF-8,en_US,en-gb,en_gb,english';
-$_['help_image']        = 'Example: gb.png';
-$_['help_directory']    = 'Name of the language directory (case-sensitive)';
-$_['help_status']       = 'Hide/Show it in language dropdown';
+$_['help_code']         = 'Наприемр: en. Не променяйте, ако това е вашият език по подразбиране.';
+$_['help_locale']       = 'Наприемр: en_US.UTF-8,en_US,en-gb,en_gb,english';
+$_['help_image']        = 'Наприемр: gb.png';
+$_['help_directory']    = 'Име на директорията (с малки букви)';
+$_['help_status']       = 'Скриване/показване в падащото меню за избор на език';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify languages!';
-$_['error_name']        = 'Language Name must be between 3 and 32 characters!';
-$_['error_code']        = 'Language Code must at least 2 characters!';
-$_['error_locale']      = 'Locale required!';
-$_['error_image']       = 'Image Filename must be between 3 and 64 characters!';
-$_['error_directory']   = 'Directory required!';
-$_['error_default']     = 'Warning: This language cannot be deleted as it is currently assigned as the default store language!';
-$_['error_admin']       = 'Warning: This Language cannot be deleted as it is currently assigned as the administration language!';
-$_['error_store']       = 'Warning: This language cannot be deleted as it is currently assigned to %s stores!';
-$_['error_order']       = 'Warning: This language cannot be deleted as it is currently assigned to %s orders!';
+$_['error_permission']  = 'Внимание: Вие нямате права за промяна на езици!';
+$_['error_name']        = 'Наименованието трябва да бъде между 3 и 32 символа!';
+$_['error_code']        = 'Езиковия код трябва най-малко 2 символа!';
+$_['error_locale']      = 'Locale е задължителен!';
+$_['error_image']       = 'Името на файл трябва да бъде между 3 и 64 символа!';
+$_['error_directory']   = 'Директорията е задължителена!';
+$_['error_default']     = 'Внимание: Този език не може да се изтрие, тъй като понастоящем е определен като език по подразбиране на магазина!';
+$_['error_admin']       = 'Внимание: Този език не може да се изтрие, тъй като понастоящем е определен като език по подразбиране в администрация!';
+$_['error_store']       = 'Внимание: Този език не може да се изтрие, тъй като понастоящем е определен като език по подразбиране в %s магазина!';
+$_['error_order']       = 'Внимание: Този език не може да се изтрие, тъй като понастоящем е определен като език по подразбиране в %s поръчки!';
