@@ -45,7 +45,7 @@ $_['text_success']					= 'Your settings have been saved';
 $_['text_edit']						= 'Редакция eBay settings';
 
 // Entry
-$_['entry_status']					= 'Status';
+$_['entry_status']					= 'Статус';
 $_['entry_token']					= 'Token';
 $_['entry_secret']					= 'Secret';
 $_['entry_string1']					= 'Encryption string 1';

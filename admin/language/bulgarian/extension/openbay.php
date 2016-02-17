@@ -21,7 +21,7 @@ $_['tab_developer']						= 'Developer';
 $_['text_dashboard']         			= 'Dashboard';
 $_['text_success']         				= 'Успешно: Settings have been saved';
 $_['text_products']          			= 'Items';
-$_['text_orders']          				= 'Orders';
+$_['text_orders']          				= 'Поръчки';
 $_['text_manage']          				= 'Manage';
 $_['text_help']                     	= 'Help';
 $_['text_tutorials']                    = 'Tutorials';
@@ -61,7 +61,7 @@ $_['text_confirm_backup']				= 'Ensure that you have a full backup before contin
 
 // Column
 $_['column_name']          				= 'Plugin name';
-$_['column_status']        				= 'Status';
+$_['column_status']        				= 'Статус';
 $_['column_action']        				= 'Действие';
 
 // Entry
@@ -93,7 +93,7 @@ $_['error_failed']						= 'Failed to load, retry?';
 $_['error_tracking_id_format']			= 'Your tracking ID cannot contain the characters > or <';
 $_['error_tracking_courier']			= 'You must select a courier if you want to add a tracking ID';
 $_['error_tracking_custom']				= 'Please leave courier field empty if you want to use custom courier';
-$_['error_permission']					= 'You do not have permission to modify the OpenBay Pro extension';
+$_['error_permission']					= 'Нямате права за редакция на the OpenBay Pro extension';
 $_['error_mkdir']						= 'PHP mkdir function is disabled, contact your host';
 $_['error_file_delete']					= 'Unable to remove these files, you should delete them manually';
 $_['error_mcrypt']            			= 'PHP function "mcrypt_encrypt" is not enabled. Contact your hosting provider.';

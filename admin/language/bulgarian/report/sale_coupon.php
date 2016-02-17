@@ -1,17 +1,25 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Coupons Report';
+$_['heading_title']    = 'Доклад за купони';
 
 // Text
-$_['text_list']        = 'Coupon List';
+$_['text_list']        = 'Списък';
 
 // Column
-$_['column_name']      = 'Coupon Name';
-$_['column_code']      = 'Code';
-$_['column_orders']    = 'Orders';
-$_['column_total']     = 'Total';
+$_['column_name']      = 'Заглавие';
+$_['column_code']      = 'Код';
+$_['column_orders']    = 'Поръчки';
+$_['column_total']     = 'Общо';
 $_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_date_start'] = 'Date Start';
-$_['entry_date_end']   = 'Date End';
+$_['entry_date_start'] = 'Дата на стартиране';
+$_['entry_date_end']   = 'Крайна дата';

@@ -4,7 +4,7 @@ $_['heading_title']                = 'UPS';
 
 // Text
 $_['text_shipping']                = 'Shipping';
-$_['text_success']                 = 'Успешно: You have modified UPS shipping!';
+$_['text_success']                 = 'Успешно: Променихте UPS shipping!';
 $_['text_edit']                    = 'Редакция UPS Shipping';
 $_['text_regular_daily_pickup']    = 'Regular Daily Pickup';
 $_['text_daily_pickup']            = 'Daily Pickup';
@@ -78,7 +78,7 @@ $_['entry_height']                 = 'Height';
 $_['entry_width']                  = 'Width';
 $_['entry_tax_class']              = 'Tax Class';
 $_['entry_geo_zone']               = 'Geo Zone';
-$_['entry_status']                 = 'Status';
+$_['entry_status']                 = 'Статус';
 $_['entry_sort_order']             = 'Подредба';
 $_['entry_debug']      			   = 'Debug Mode';
 
@@ -105,7 +105,7 @@ $_['help_dimension']			   = 'This is assumed to be your average packing box size
 $_['help_debug']      			   = 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']             = 'Warning: You do not have permission to modify UPS (US) shipping!';
+$_['error_permission']             = 'Внимание: Нямате права за редакция на UPS (US) shipping!';
 $_['error_key']                    = 'Access Key Required!';
 $_['error_username']               = 'Username Required!';
 $_['error_password']               = 'Password Required!';

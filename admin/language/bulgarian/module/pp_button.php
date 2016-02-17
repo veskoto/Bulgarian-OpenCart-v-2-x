@@ -4,11 +4,11 @@ $_['heading_title']    = 'PayPal Express Checkout Button';
 
 // Text
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Успешно: You have modified PayPal Express Checkout Button module!';
+$_['text_success']     = 'Успешно: Променихте PayPal Express Checkout Button module!';
 $_['text_edit']        = 'Редакция PayPal Express Checkout Button Module';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify PayPal Express Checkout Button module!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на PayPal Express Checkout Button module!';

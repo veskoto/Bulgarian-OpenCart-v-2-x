@@ -54,11 +54,11 @@ $_['text_spain'] 					= 'Spain';
 $_['text_united_kingdom'] 			= 'United Kingdom';
 
 // Columns
-$_['column_image'] 					= 'Image';
+$_['column_image'] 					= 'Изображение';
 $_['column_asin'] 					= 'ASIN';
 $_['column_price'] 					= 'Price';
 $_['column_action'] 				= 'Действие';
-$_['column_name'] 					= 'Product Name';
+$_['column_name'] 					= 'Име на продукта';
 $_['column_model'] 					= 'Модел';
 $_['column_combination'] 			= 'Variant Combination';
 $_['column_sku_variant'] 			= 'Variant SKU';

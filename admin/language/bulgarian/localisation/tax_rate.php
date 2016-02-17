@@ -3,8 +3,8 @@
 $_['heading_title']        = 'Tax Rates';
 
 // Text
-$_['text_success']         = 'Успешно: You have modified tax rates!';
-$_['text_list']            = 'Tax Rate List';
+$_['text_success']         = 'Успешно: Променихте tax rates!';
+$_['text_list']            = 'Tax Rate Списък';
 $_['text_add']             = 'Добавяне Tax Rate';
 $_['text_edit']            = 'Редакция Tax Rate';
 $_['text_percent']         = 'Percentage';
@@ -27,7 +27,7 @@ $_['entry_customer_group'] = 'Клиентска група';
 $_['entry_geo_zone']       = 'Geo Zone';
 
 // Error
-$_['error_permission']     = 'Warning: You do not have permission to modify tax rates!';
-$_['error_tax_rule']       = 'Warning: This tax rate cannot be deleted as it is currently assigned to %s tax classes!';
-$_['error_name']           = 'Tax Name must be between 3 and 32 characters!';
+$_['error_permission']     = 'Внимание: Нямате права за редакция на tax rates!';
+$_['error_tax_rule']       = 'Внимание: This tax rate cannot be deleted as it is currently assigned to %s tax classes!';
+$_['error_name']           = 'Tax Name трябва да е между 3 и 32 символа!';
 $_['error_rate']           = 'Tax Rate required!';

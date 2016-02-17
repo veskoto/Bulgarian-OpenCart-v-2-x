@@ -4,7 +4,7 @@ $_['heading_title']                           = 'FraudLabs Pro';
 
 // Text
 $_['text_fraud']                              = 'Anti-Fraud';
-$_['text_success']                            = 'Успешно: You have modified FraudLabs Pro Settings!';
+$_['text_success']                            = 'Успешно: Променихте FraudLabs Pro Settings!';
 $_['text_edit']                               = 'Settings';
 $_['text_signup']                             = 'FraudLabs Pro is a fraud detection service. You can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a> for a free API Key.';
 $_['text_id']                                 = 'FraudLabs Pro ID';
@@ -27,19 +27,19 @@ $_['text_email_blacklist']                    = 'Email Blacklist';
 $_['text_credit_card_blacklist']              = 'Credit Card Blacklist';
 $_['text_score']                              = 'FraudLabs Pro Score';
 $_['text_status']                             = 'FraudLabs Pro Status';
-$_['text_message']                            = 'Message';
+$_['text_message']                            = 'Съобщение';
 $_['text_transaction_id']                     = 'Transaction ID';
 $_['text_credits']                     		    = 'Balance';
-$_['text_error']                              = 'Error:';
+$_['text_error']                              = 'Грешка:';
 $_['text_flp_upgrade']                        = '<a href="http://www.fraudlabspro.com/plan" target="_blank">[Upgrade]</a>';
 $_['text_flp_merchant_area']                  = 'Please login to <a href="http://www.fraudlabspro.com/login" target="_blank">FraudLabs Pro Merchant Area</a> for more information about this order.';
 
 
 // Entry
-$_['entry_status']                            = 'Status';
+$_['entry_status']                            = 'Статус';
 $_['entry_key']                               = 'API Key';
 $_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Order Status';
+$_['entry_order_status']                      = 'Статус на поръчката';
 $_['entry_review_status']                     = 'Review Status';
 $_['entry_approve_status']                    = 'Approve Status';
 $_['entry_reject_status']                     = 'Reject Status';
@@ -76,5 +76,5 @@ $_['help_transaction_id']                     = 'Click the link to view the frau
 $_['help_credits']                            = 'Balance of the credits available after this transaction.';
 
 // Error
-$_['error_permission']                        = 'Warning: You do not have permission to modify FraudLabs Pro settings!';
+$_['error_permission']                        = 'Внимание: Нямате права за редакция на FraudLabs Pro settings!';
 $_['error_key']		                            = 'API Key Required!';

@@ -7,7 +7,7 @@ $_['text_amount_captured']			= 'Amount captured';
 $_['text_amount_refunded']			= 'Amount refunded';
 $_['text_capture_amount']			= 'Capture amount';
 $_['text_complete_capture']			= 'Complete capture';
-$_['text_transactions']				= 'Transactions';
+$_['text_transactions']				= 'Сделки';
 $_['text_complete']					= 'Complete';
 $_['text_confirm_void']				= 'If you void you cannot capture any further funds';
 $_['text_view']						= 'View';
@@ -17,9 +17,9 @@ $_['success_transaction_resent']	= 'Transaction was successfully resent';
 
 // Column
 $_['column_trans_id']				= 'Transaction ID';
-$_['column_amount']					= 'Amount';
+$_['column_amount']					= 'Количество';
 $_['column_type']					= 'Payment type';
-$_['column_status']					= 'Status';
+$_['column_status']					= 'Статус';
 $_['column_pend_reason']			= 'Pending reason';
 $_['column_date_added']				= 'Created';
 $_['column_action']					= 'Действие';

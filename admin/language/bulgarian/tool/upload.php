@@ -3,8 +3,8 @@
 $_['heading_title']     = 'Uploads';
 
 // Text
-$_['text_success']      = 'Успешно: You have modified uploads!';
-$_['text_list']         = 'Upload List';
+$_['text_success']      = 'Успешно: Променихте uploads!';
+$_['text_list']         = 'Upload Списък';
 
 // Column
 $_['column_name']       = 'Upload Name';
@@ -18,4 +18,4 @@ $_['entry_filename']    = 'Filename';
 $_['entry_date_added'] 	= 'Датата на добавяне';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify uploads!';
+$_['error_permission']  = 'Внимание: Нямате права за редакция на uploads!';

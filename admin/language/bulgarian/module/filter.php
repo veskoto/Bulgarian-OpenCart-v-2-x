@@ -4,11 +4,11 @@ $_['heading_title']    = 'Filter';
 
 // Text
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Успешно: You have modified filter module!';
+$_['text_success']     = 'Успешно: Променихте filter module!';
 $_['text_edit']        = 'Редакция Filter Module';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify filter module!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на filter module!';

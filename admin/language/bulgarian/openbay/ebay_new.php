@@ -101,7 +101,7 @@ $_['column_price_inc_tax']          = 'Including tax';
 $_['column_stock_col_comb']         = 'Combination';
 $_['column_price']          		= 'Price';
 $_['column_stock_col_enabled']      = 'Enabled';
-$_['column_thumb']      			= 'Image';
+$_['column_thumb']      			= 'Изображение';
 $_['column_img_size']      			= 'Size';
 $_['column_template_image']         = 'Template image';
 $_['column_ebay_image']         	= 'eBay image';
@@ -162,7 +162,7 @@ $_['tab_feature']              		= 'Features';
 $_['tab_ebay_catalog']              = 'eBay catalog';
 $_['tab_description']          		= 'Description';
 $_['tab_price']                		= 'Price &amp; details';
-$_['tab_payment']              		= 'Payment';
+$_['tab_payment']              		= 'Плащане';
 $_['tab_returns']              		= 'Returns';
 
 // Help

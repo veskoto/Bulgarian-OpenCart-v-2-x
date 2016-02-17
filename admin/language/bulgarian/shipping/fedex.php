@@ -4,7 +4,7 @@ $_['heading_title']                            = 'Fedex';
 
 // Text
 $_['text_shipping']                            = 'Shipping';
-$_['text_success']                             = 'Успешно: You have modified Fedex shipping!';
+$_['text_success']                             = 'Успешно: Променихте Fedex shipping!';
 $_['text_edit']                                = 'Редакция Fedex Shipping';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
@@ -63,7 +63,7 @@ $_['entry_display_weight']                     = 'Display Delivery Weight';
 $_['entry_weight_class']                       = 'Weight Class';
 $_['entry_tax_class']                          = 'Tax Class';
 $_['entry_geo_zone']                           = 'Geo Zone';
-$_['entry_status']                             = 'Status';
+$_['entry_status']                             = 'Статус';
 $_['entry_sort_order']                         = 'Подредба';
 
 // Help
@@ -73,7 +73,7 @@ $_['help_display_weight']                      = 'Do you want to display the shi
 $_['help_weight_class']                        = 'Set to kilograms or pounds.';
 
 // Error
-$_['error_permission']                         = 'Warning: You do not have permission to modify Fedex shipping!';
+$_['error_permission']                         = 'Внимание: Нямате права за редакция на Fedex shipping!';
 $_['error_key']                                = 'Key required!';
 $_['error_password']                           = 'Password required!';
 $_['error_account']                            = 'Account required!';

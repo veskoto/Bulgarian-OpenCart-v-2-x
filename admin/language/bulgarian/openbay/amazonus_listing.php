@@ -49,11 +49,11 @@ $_['text_has_saved_listings'] 		= 'This product has one or more saved listings t
 $_['text_edit_heading'] 			= 'Редакция listing';
 
 // Columns
-$_['column_image'] 					= 'Image';
+$_['column_image'] 					= 'Изображение';
 $_['column_asin'] 					= 'ASIN';
 $_['column_price'] 					= 'Price';
 $_['column_action'] 				= 'Действие';
-$_['column_name'] 					= 'Product Name';
+$_['column_name'] 					= 'Име на продукта';
 $_['column_model'] 					= 'Модел';
 $_['column_combination'] 			= 'Variant Combination';
 $_['column_sku_variant'] 			= 'Variant SKU';
@@ -93,7 +93,7 @@ $_['error_amazonus_price'] 			= 'Could not get the price from Amazon US';
 $_['error_stock'] 					= 'You cannot list an item with less than 1 item in stock';
 $_['error_sku'] 					= 'You must enter an SKU for the item';
 $_['error_price'] 					= 'You must enter a price for the item';
-$_['error_connecting'] 				= 'Warning: There was problem connecting to the API. Please check your OpenBay Pro Amazon extension settings. If the problem persists, please contact support.';
+$_['error_connecting'] 				= 'Внимание: There was problem connecting to the API. Please check your OpenBay Pro Amazon extension settings. If the problem persists, please contact support.';
 $_['error_required'] 				= 'This field is required!';
 $_['error_not_saved'] 				= 'Listing was not saved. Check your input.';
 $_['error_char_limit'] 				= 'characters over limit.';

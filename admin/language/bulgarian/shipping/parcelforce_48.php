@@ -4,7 +4,7 @@ $_['heading_title']           = 'Parcelforce 48';
 
 // Text
 $_['text_shipping']           = 'Shipping';
-$_['text_success']            = 'Успешно: You have modified Parcelforce 48 shipping!';
+$_['text_success']            = 'Успешно: Променихте Parcelforce 48 shipping!';
 $_['text_edit']               = 'Редакция Parcelforce 48 Shipping';
 
 // Entry
@@ -15,7 +15,7 @@ $_['entry_display_insurance'] = 'Display Insurance';
 $_['entry_display_time']      = 'Display Delivery Time';
 $_['entry_tax_class']         = 'Tax Class';
 $_['entry_geo_zone']          = 'Geo Zone';
-$_['entry_status']            = 'Status';
+$_['entry_status']            = 'Статус';
 $_['entry_sort_order']        = 'Подредба';
 
 // Help
@@ -26,4 +26,4 @@ $_['help_display_insurance'] = 'Do you want to display the shipping insurance? (
 $_['help_display_time']      = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';
 
 // Error
-$_['error_permission']        = 'Warning: You do not have permission to modify Parcelforce 48 shipping!';
+$_['error_permission']        = 'Внимание: Нямате права за редакция на Parcelforce 48 shipping!';

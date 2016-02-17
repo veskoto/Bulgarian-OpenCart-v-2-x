@@ -38,7 +38,7 @@ $_['text_refurbished'] 					= 'Refurbished';
 $_['error_permission']         			= 'You do not have access to this module';
 
 // Entry
-$_['entry_status']                 		= 'Status';
+$_['entry_status']                 		= 'Статус';
 $_['entry_token']                    	= 'Token';
 $_['entry_string1']              		= 'Encryption String 1';
 $_['entry_string2']              		= 'Encryption String 2';
@@ -53,7 +53,7 @@ $_['entry_default_shipping']         	= 'Default shipping';
 // Tabs
 $_['tab_settings']            			= 'API details';
 $_['tab_listing']                  		= 'Listings';
-$_['tab_orders']                   		= 'Orders';
+$_['tab_orders']                   		= 'Поръчки';
 
 // Help
 $_['help_import_tax']          			= 'Used if Amazon does not return tax information';

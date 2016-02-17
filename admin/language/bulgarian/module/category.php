@@ -4,11 +4,11 @@ $_['heading_title']    = 'Category';
 
 // Text
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Успешно: You have modified category module!';
+$_['text_success']     = 'Успешно: Променихте category module!';
 $_['text_edit']        = 'Редакция Category Module';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify category module!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на category module!';

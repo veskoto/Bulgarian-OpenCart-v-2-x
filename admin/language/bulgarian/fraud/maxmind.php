@@ -4,7 +4,7 @@ $_['heading_title']                           = 'MaxMind Anti-Fraud';
 
 // Text
 $_['text_fraud']                              = 'Anti-Fraud';
-$_['text_success']                            = 'Успешно: You have modified MaxMind anti-fraud!';
+$_['text_success']                            = 'Успешно: Променихте MaxMind anti-fraud!';
 $_['text_edit']                               = 'Редакция MaxMind Anti-Fraud';
 $_['text_signup']                             = 'MaxMind is a fraud detection service. If you don\'t have a license key you can <a href="http://www.maxmind.com/?rId=opencart" target="_blank"><u>sign up here</u></a>.';
 $_['text_country_match']                      = 'Country Match:';
@@ -56,13 +56,13 @@ $_['text_explanation']                        = 'Explanation:';
 $_['text_risk_score']                         = 'Risk Score:';
 $_['text_queries_remaining']                  = 'Queries Remaining:';
 $_['text_maxmind_id']                         = 'Maxmind ID:';
-$_['text_error']                              = 'Error:';
+$_['text_error']                              = 'Грешка:';
 
 // Entry
 $_['entry_key']                               = 'MaxMind License Key';
 $_['entry_score']                             = 'Risk Score';
-$_['entry_order_status']                      = 'Order Status';
-$_['entry_status']                            = 'Status';
+$_['entry_order_status']                      = 'Статус на поръчката';
+$_['entry_status']                            = 'Статус';
 
 // Help
 $_['help_score']                              = 'The higher the score the more likely the order is fraudulent. Set a score between 0 - 100.';
@@ -119,5 +119,5 @@ $_['help_maxmind_id']                         = 'Unique identifier, used to refe
 $_['help_error']                              = 'Returns an error string with a warning message or a reason why the request failed.';
 
 // Error
-$_['error_permission']                        = 'Warning: You do not have permission to modify MaxMind anti-fraud!';
+$_['error_permission']                        = 'Внимание: Нямате права за редакция на MaxMind anti-fraud!';
 $_['error_key']		                          = 'License Key Required!';

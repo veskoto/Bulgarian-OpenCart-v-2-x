@@ -3,8 +3,8 @@
 $_['heading_title']         = 'Custom Fields';
 
 // Text
-$_['text_success']          = 'Успешно: You have modified custom fields!';
-$_['text_list']             = 'Custom Field List';
+$_['text_success']          = 'Успешно: Променихте custom fields!';
+$_['text_list']             = 'Custom Field Списък';
 $_['text_add']              = 'Добавяне Custom Field';
 $_['text_edit']             = 'Редакция Custom Field';
 $_['text_choose']           = 'Choose';
@@ -36,14 +36,14 @@ $_['entry_value']           = 'Стойност';
 $_['entry_custom_value']    = 'Custom Field Value Name';
 $_['entry_customer_group']  = 'Клиентска група';
 $_['entry_required']        = 'Required';
-$_['entry_status']          = 'Status';
+$_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Подредба';
 
 // Help
 $_['help_sort_order']       = 'Use minus to count backwards from the last field in the set.';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify custom fields!';
+$_['error_permission']      = 'Внимание: Нямате права за редакция на custom fields!';
 $_['error_name']            = 'Custom Field Name must be between 1 and 128 characters!';
-$_['error_type']            = 'Warning: Custom Field Values required!';
+$_['error_type']            = 'Внимание: Custom Field Values required!';
 $_['error_custom_value']    = 'Custom Value Name must be between 1 and 128 characters!';

@@ -33,13 +33,13 @@ $_['text_variations_stock'] 			= 'stock';
 $_['text_min']                      	= 'Min';
 $_['text_max']                      	= 'Max';
 $_['text_option']                   	= 'Option';
-$_['text_list']              			= 'Product List';
+$_['text_list']              			= 'Product Списък';
 
 // Entry
 $_['entry_title'] 						= 'Title';
 $_['entry_model'] 						= 'Модел';
 $_['entry_manufacturer'] 				= 'Manufacturer';
-$_['entry_status'] 						= 'Status';
+$_['entry_status'] 						= 'Статус';
 $_['entry_status_marketplace'] 			= 'Marketplace status';
 $_['entry_stock_range'] 				= 'Stock range';
 $_['entry_category'] 					= 'Category';

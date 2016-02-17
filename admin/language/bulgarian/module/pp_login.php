@@ -4,7 +4,7 @@ $_['heading_title']        = 'Log In with PayPal';
 
 //Text
 $_['text_module']          = 'Modules';
-$_['text_success']         = 'Успешно: You have modified Log In with PayPal module!';
+$_['text_success']         = 'Успешно: Променихте Log In with PayPal module!';
 $_['text_edit']            = 'Редакция Log In with PayPal Module';
 $_['text_button_grey']     = 'Grey';
 $_['text_button_blue']     = 'Blue (Recommended)';
@@ -19,7 +19,7 @@ $_['entry_button']         = 'Button Colour';
 $_['entry_seamless']       = 'Allow "Seamless Checkout"';
 $_['entry_locale']         = 'Locale';
 $_['entry_return_url']     = 'Return URL';
-$_['entry_status']         = 'Status';
+$_['entry_status']         = 'Статус';
 
 //Help
 $_['help_sandbox']         = 'Use sandbox (testing) environment?';
@@ -30,6 +30,6 @@ $_['help_locale']          = 'This is the PayPal locale setting for your store l
 $_['help_return_url']      = 'This needs to be added in the PayPal app configuration under app redirect URLs.';
 
 //Error
-$_['error_permission']     = 'Warning: You do not have permission to modify Log In with PayPal module!';
+$_['error_permission']     = 'Внимание: Нямате права за редакция на Log In with PayPal module!';
 $_['error_client_id']      = 'Client ID required!';
 $_['error_secret']         = 'Secret required!';

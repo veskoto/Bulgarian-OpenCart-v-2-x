@@ -12,7 +12,7 @@ $_['text_uk']                       = 'United Kingdom';
 $_['text_live']                     = 'Live';
 $_['text_sandbox']                  = 'Sandbox';
 $_['text_auth']						= 'Authorization';
-$_['text_payment']                  = 'Payment';
+$_['text_payment']                  = 'Плащане';
 $_['text_no_capture']               = '--- No Automatic Capture ---';
 $_['text_all_geo_zones']            = 'All Geo Zones';
 $_['text_button_settings']          = 'Checkout Button Settings';
@@ -44,20 +44,20 @@ $_['text_refund_status']			= 'Payment refunded';
 $_['text_order_ref']				= 'Order ref';
 $_['text_order_total']				= 'Total authorized';
 $_['text_total_captured']			= 'Total captured';
-$_['text_transactions']				= 'Transactions';
+$_['text_transactions']				= 'Сделки';
 $_['text_column_authorization_id']	= 'Amazon Authorization ID';
 $_['text_column_capture_id']		= 'Amazon Capture ID';
 $_['text_column_refund_id']			= 'Amazon Refund ID';
-$_['text_column_amount']			= 'Amount';
+$_['text_column_amount']			= 'Количество';
 $_['text_column_type']				= 'Тип';
-$_['text_column_status']			= 'Status';
-$_['text_column_date_added']		= 'Date added';
+$_['text_column_status']			= 'Статус';
+$_['text_column_date_added']		= 'Дата на добавяне';
 $_['text_confirm_cancel']			= 'Are you sure you want to cancel the payment?';
 $_['text_confirm_capture']			= 'Are you sure you want to capture the payment?';
 $_['text_confirm_refund']			= 'Are you sure you want to refund the payment?';
 $_['text_minimum_total']            = 'Minimum Order Total';
 $_['text_geo_zone']                 = 'Geo Zone';
-$_['text_status']                   = 'Status';
+$_['text_status']                   = 'Статус';
 $_['text_declined_codes']           = 'Test Decline Codes';
 $_['text_sort_order']               = 'Подредба';
 $_['text_amazon_invalid']           = 'InvalidPaymentMethod';
@@ -66,7 +66,7 @@ $_['text_amazon_timeout']           = 'TransactionTimedOut';
 $_['text_amazon_no_declined']       = '--- No Automatic Declined Authorization ---';
 
 // Columns
-$_['column_status']                 = 'Status';
+$_['column_status']                 = 'Статус';
 
 //entry
 $_['entry_merchant_id']             = 'Merchant ID';

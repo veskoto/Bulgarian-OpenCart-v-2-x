@@ -39,7 +39,7 @@ $_['column_stock_listed']			= 'Listed';
 $_['column_stock_reserve']			= 'Reserve';
 $_['column_stock_total']			= 'In stock';
 $_['column_price']					= 'Price';
-$_['column_status']					= 'Active';
+$_['column_status']					= 'Активен';
 $_['column_add']					= 'Добавяне';
 $_['column_combination']			= 'Combination';
 

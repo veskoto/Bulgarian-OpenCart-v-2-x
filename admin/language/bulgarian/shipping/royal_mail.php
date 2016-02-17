@@ -4,7 +4,7 @@ $_['heading_title']                    = 'Royal Mail';
 
 // Text
 $_['text_shipping']                    = 'Shipping';
-$_['text_success']                     = 'Успешно: You have modified Royal Mail shipping!';
+$_['text_success']                     = 'Успешно: Променихте Royal Mail shipping!';
 $_['text_edit']                        = 'Редакция Royal Mail Shipping';
 
 // Entry
@@ -19,7 +19,7 @@ $_['entry_display_insurance']          = 'Display Insurance';
 $_['entry_weight_class']               = 'Weight Class';
 $_['entry_tax_class']                  = 'Tax Class';
 $_['entry_geo_zone']                   = 'Geo Zone';
-$_['entry_status']                     = 'Status';
+$_['entry_status']                     = 'Статус';
 $_['entry_sort_order']                 = 'Подредба';
 
 // Help
@@ -44,4 +44,4 @@ $_['tab_international_signed']         = 'International Signed';
 $_['tab_international_economy']        = 'International Economy';
 
 // Error
-$_['error_permission']                 = 'Warning: You do not have permission to modify Royal Mail shipping!';
+$_['error_permission']                 = 'Внимание: Нямате права за редакция на Royal Mail shipping!';

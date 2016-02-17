@@ -27,6 +27,6 @@ $_['entry_name']        = 'Име на филтъра';
 $_['entry_sort_order']  = 'Подредба';
 //TODO
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify filters!';
-$_['error_group']       = 'Filter Group Name must be between 1 and 64 characters!';
-$_['error_name']        = 'Filter Name must be between 1 and 64 characters!';
+$_['error_permission']  = 'Внимание: Нямате права за редакция на filters!';
+$_['error_group']       = 'Filter Group Name трябва да е между 1 и 64 символа!';
+$_['error_name']        = 'Filter Name трябва да е между 1 и 64 символа!';

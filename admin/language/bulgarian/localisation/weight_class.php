@@ -1,10 +1,10 @@
 <?php
 // Heading
-$_['heading_title']    = 'Weight Classes';
+$_['heading_title']    = 'Теглови класове';
 
 // Text
-$_['text_success']     = 'Успешно: You have modified weight classes!';
-$_['text_list']        = 'Weight Class List';
+$_['text_success']     = 'Успешно: Променихте weight classes!';
+$_['text_list']        = 'Weight Class Списък';
 $_['text_add']         = 'Добавяне Weight Class';
 $_['text_edit']        = 'Редакция Weight Class';
 
@@ -23,8 +23,8 @@ $_['entry_value']      = 'Стойност';
 $_['help_value']       = 'Set to 1.00000 if this is your default weight.';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify weight classes!';
-$_['error_title']      = 'Weight Title must be between 3 and 32 characters!';
-$_['error_unit']       = 'Weight Unit must be between 1 and 4 characters!';
-$_['error_default']    = 'Warning: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
-$_['error_product']    = 'Warning: This weight class cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на weight classes!';
+$_['error_title']      = 'Weight Title трябва да е между 3 и 32 символа!';
+$_['error_unit']       = 'Weight Unit трябва да е между 1 и 4 символа!';
+$_['error_default']    = 'Внимание: This weight class cannot be deleted as it is currently assigned as the default store weight class!';
+$_['error_product']    = 'Внимание: This weight class cannot be deleted as it is currently assigned to %s products!';

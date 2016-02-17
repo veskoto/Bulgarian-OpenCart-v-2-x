@@ -3,8 +3,8 @@
 $_['heading_title']     = 'Customer Groups';
 
 // Text
-$_['text_success']      = 'Успешно: You have modified customer groups!';
-$_['text_list']         = 'Customer Group List';
+$_['text_success']      = 'Успешно: Променихте customer groups!';
+$_['text_list']         = 'Customer Group Списък';
 $_['text_add']          = 'Добавяне Customer Group';
 $_['text_edit']         = 'Редакция Customer Group';
 
@@ -23,8 +23,8 @@ $_['entry_sort_order']  = 'Подредба';
 $_['help_approval']     = 'Customers must be approved by an administrator before they can login.';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to modify customer groups!';
-$_['error_name']         = 'Customer Group Name must be between 3 and 32 characters!';
-$_['error_default']      = 'Warning: This customer group cannot be deleted as it is currently assigned as the default store customer group!';
-$_['error_store']        = 'Warning: This customer group cannot be deleted as it is currently assigned to %s stores!';
-$_['error_customer']     = 'Warning: This customer group cannot be deleted as it is currently assigned to %s customers!';
+$_['error_permission']   = 'Внимание: Нямате права за редакция на customer groups!';
+$_['error_name']         = 'Customer Group Name трябва да е между 3 и 32 символа!';
+$_['error_default']      = 'Внимание: This customer group cannot be deleted as it is currently assigned as the default store customer group!';
+$_['error_store']        = 'Внимание: This customer group cannot be deleted as it is currently assigned to %s магазина!';
+$_['error_customer']     = 'Внимание: This customer group cannot be deleted as it is currently assigned to %s customers!';

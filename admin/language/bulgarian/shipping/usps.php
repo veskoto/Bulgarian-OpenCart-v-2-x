@@ -4,7 +4,7 @@ $_['heading_title']         = 'United States Postal Service';
 
 // Text
 $_['text_shipping']         = 'Shipping';
-$_['text_success']          = 'Успешно: You have modified United States Postal Service!';
+$_['text_success']          = 'Успешно: Променихте United States Postal Service!';
 $_['text_edit']             = 'Редакция United States Postal Service Shipping';
 $_['text_domestic_00']      = 'First-Class Mail Parcel';
 $_['text_domestic_01']      = 'First-Class Mail Large Envelope';
@@ -67,7 +67,7 @@ $_['entry_display_weight']  = 'Display Delivery Weight';
 $_['entry_weight_class']    = 'Weight Class';
 $_['entry_tax']             = 'Tax Class';
 $_['entry_geo_zone']        = 'Geo Zone';
-$_['entry_status']          = 'Status';
+$_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Подредба';
 $_['entry_debug']      		= 'Debug Mode';
 
@@ -79,7 +79,7 @@ $_['help_weight_class']     = 'Must be set to Pound.';
 $_['help_debug']      		= 'Saves send/recv data to the system log';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify United States Postal Service!';
+$_['error_permission']      = 'Внимание: Нямате права за редакция на United States Postal Service!';
 $_['error_user_id']         = 'User ID Required!';
 $_['error_postcode']        = 'Zip Code Required!';
 $_['error_width']        	= 'Width Required!';

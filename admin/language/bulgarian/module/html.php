@@ -4,15 +4,15 @@ $_['heading_title']     = 'HTML Content';
 
 // Text
 $_['text_module']       = 'Modules';
-$_['text_success']      = 'Успешно: You have modified HTML Content module!';
+$_['text_success']      = 'Успешно: Променихте HTML Content module!';
 $_['text_edit']         = 'Редакция HTML Content Module';
 
 // Entry
 $_['entry_name']        = 'Module Name';
 $_['entry_title']       = 'Heading Title';
 $_['entry_description'] = 'Description';
-$_['entry_status']      = 'Status';
+$_['entry_status']      = 'Статус';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify HTML Content module!';
-$_['error_name']        = 'Module Name must be between 3 and 64 characters!';
+$_['error_permission']  = 'Внимание: Нямате права за редакция на HTML Content module!';
+$_['error_name']        = 'Module Name трябва да е между 3 и 64 символа!';

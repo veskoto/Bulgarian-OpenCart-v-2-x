@@ -4,8 +4,8 @@ $_['heading_title']					= 'PayPal Payflow Pro iFrame';
 $_['heading_refund']				= 'Refund';
 
 // Text
-$_['text_payment']					= 'Payment';
-$_['text_success']					= 'Успешно: You have modified PayPal Payflow Pro iFrame account details!';
+$_['text_payment']					= 'Плащане';
+$_['text_success']					= 'Успешно: Променихте PayPal Payflow Pro iFrame account details!';
 $_['text_edit']                     = 'Редакция PayPal Payflow Pro iFrame';
 $_['text_pp_payflow_iframe']		= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			= 'Authorization';
@@ -27,13 +27,13 @@ $_['help_checkout_method']			= 'Please use Redirect method if do not have SSL in
 // Column
 $_['column_transaction_id']			= 'Transaction ID';
 $_['column_transaction_type']		= 'Transaction Type';
-$_['column_amount']					= 'Amount';
+$_['column_amount']					= 'Количество';
 $_['column_time']					= 'Time';
 $_['column_actions']				= 'Actions';
 
 // Tab
 $_['tab_settings']					= 'Settings';
-$_['tab_order_status']				= 'Order Status';
+$_['tab_order_status']				= 'Статус на поръчката';
 $_['tab_checkout_customisation']	= 'Checkout Customisation';
 
 // Entry
@@ -43,15 +43,15 @@ $_['entry_password']				= 'Password';
 $_['entry_partner']					= 'Partner';
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';
-$_['entry_total']					= 'Total';
-$_['entry_order_status']			= 'Order Status';
+$_['entry_total']					= 'Общо';
+$_['entry_order_status']			= 'Статус на поръчката';
 $_['entry_geo_zone']				= 'Geo Zone';
-$_['entry_status']					= 'Status';
+$_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Подредба';
 $_['entry_transaction_id']			= 'Transaction ID';
 $_['entry_full_refund']				= 'Full refund';
-$_['entry_amount']					= 'Amount';
-$_['entry_message']					= 'Message';
+$_['entry_amount']					= 'Количество';
+$_['entry_message']					= 'Съобщение';
 $_['entry_ipn_url']					= 'IPN URL';
 $_['entry_checkout_method']			= 'Checkout Method';
 $_['entry_debug']					= 'Debug mode';
@@ -61,7 +61,7 @@ $_['entry_refund_amount']			= 'Refund Amount';
 $_['entry_capture_status']			= 'Capture Status';
 $_['entry_void']					= 'Void';
 $_['entry_capture']					= 'Capture';
-$_['entry_transactions']			= 'Transactions';
+$_['entry_transactions']			= 'Сделки';
 $_['entry_complete_capture']		= 'Complete Capture';
 $_['entry_canceled_reversal_status'] = 'Canceled Reversal Status:';
 $_['entry_completed_status']		= 'Completed Status:';
@@ -93,7 +93,7 @@ $_['button_void']					= 'Void';
 $_['button_capture']				= 'Capture';
 
 // Error
-$_['error_permission']				= 'Warning: You do not have permission to modify payment PayPal Website Payment Pro iFrame (UK)!';
+$_['error_permission']				= 'Внимание: Нямате права за редакция на payment PayPal Website Payment Pro iFrame (UK)!';
 $_['error_vendor']					= 'Vendor Required!';
 $_['error_user']					= 'User Required!';
 $_['error_password']				= 'Password Required!';

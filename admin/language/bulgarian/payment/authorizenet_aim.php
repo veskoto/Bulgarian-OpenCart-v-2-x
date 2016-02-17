@@ -3,8 +3,8 @@
 $_['heading_title']         = 'Authorize.Net (AIM)';
 
 // Text
-$_['text_payment']          = 'Payment';
-$_['text_success']          = 'Успешно: You have modified Authorize.Net (AIM) account details!';
+$_['text_payment']          = 'Плащане';
+$_['text_success']          = 'Успешно: Променихте Authorize.Net (AIM) account details!';
 $_['text_edit']             = 'Редакция Authorize.Net (AIM)';
 $_['text_test']             = 'Test';
 $_['text_live']             = 'Live';
@@ -19,16 +19,16 @@ $_['entry_hash']            = 'MD5 Hash';
 $_['entry_server']          = 'Transaction Server';
 $_['entry_mode']            = 'Transaction Mode';
 $_['entry_method']          = 'Transaction Method';
-$_['entry_total']           = 'Total';
-$_['entry_order_status']    = 'Order Status';
+$_['entry_total']           = 'Общо';
+$_['entry_order_status']    = 'Статус на поръчката';
 $_['entry_geo_zone']        = 'Geo Zone';
-$_['entry_status']          = 'Status';
+$_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Подредба';
 
 // Help
 $_['help_total']            = 'The checkout total the order must reach before this payment method becomes active.';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify payment Authorize.Net (SIM)!';
+$_['error_permission']      = 'Внимание: Нямате права за редакция на payment Authorize.Net (SIM)!';
 $_['error_login']           = 'Login ID Required!';
 $_['error_key']             = 'Transaction Key Required!';

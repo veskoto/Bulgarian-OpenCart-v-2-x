@@ -3,11 +3,11 @@
 $_['heading_title']    = 'Account';
 
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Успешно: You have modified account module!';
+$_['text_success']     = 'Успешно: Променихте account module!';
 $_['text_edit']        = 'Редакция Account Module';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify account module!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на account module!';

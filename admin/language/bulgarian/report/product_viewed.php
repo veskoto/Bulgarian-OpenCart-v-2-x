@@ -1,16 +1,24 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Products Viewed Report';
+$_['heading_title']    = 'Доклад за прегледани продукти';
 
 // Text
-$_['text_list']        = 'Products Viewed List';
-$_['text_success']     = 'Успешно: You have reset the product viewed report!';
+$_['text_list']        = 'Списък';
+$_['text_success']     = 'Успешно: Вие нулирахте доклада за прегледани продукти!';
 
 // Column
-$_['column_name']      = 'Product Name';
+$_['column_name']      = 'Име на продукта';
 $_['column_model']     = 'Модел';
-$_['column_viewed']    = 'Viewed';
-$_['column_percent']   = 'Percent';
+$_['column_viewed']    = 'Прегледан';
+$_['column_percent']   = 'Проценти';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to reset product viewed report!';
+$_['error_permission'] = 'Внимание: Вие нямате права за  нулиране на доклада за прегледани продукти!';

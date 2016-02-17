@@ -4,12 +4,12 @@ $_['heading_title']    = 'Taxes';
 
 // Text
 $_['text_total']       = 'Order Totals';
-$_['text_success']     = 'Успешно: You have modified taxes total!';
+$_['text_success']     = 'Успешно: Променихте taxes total!';
 $_['text_edit']        = 'Редакция Tax Total';
 
 // Entry
-$_['entry_status']     = 'Status';
+$_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Подредба';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify taxes total!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на taxes total!';

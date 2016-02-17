@@ -3,14 +3,14 @@
 $_['heading_title']		 = 'Free Checkout';
 
 // Text
-$_['text_payment']		 = 'Payment';
-$_['text_success']		 = 'Успешно: You have modified Free Checkout payment module!';
+$_['text_payment']		 = 'Плащане';
+$_['text_success']		 = 'Успешно: Променихте Free Checkout payment module!';
 $_['text_edit']          = 'Редакция Free Checkout';
 
 // Entry
-$_['entry_order_status'] = 'Order Status';
-$_['entry_status']		 = 'Status';
+$_['entry_order_status'] = 'Статус на поръчката';
+$_['entry_status']		 = 'Статус';
 $_['entry_sort_order']	 = 'Подредба';
 
 // Error
-$_['error_permission']	  = 'Warning: You do not have permission to modify payment Free Checkout!';
+$_['error_permission']	  = 'Внимание: Нямате права за редакция на payment Free Checkout!';

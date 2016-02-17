@@ -33,7 +33,7 @@ $_['text_extension']         = 'Extension Settings';
 $_['text_database']          = 'Database Driver';
 $_['text_file']              = 'Files';
 $_['text_directory']         = 'Directories';
-$_['text_status']            = 'Status';
+$_['text_status']            = 'Статус';
 $_['text_version']           = 'PHP Version';
 $_['text_global']            = 'Register Globals';
 $_['text_magic']             = 'Magic Quotes GPC';
@@ -115,11 +115,11 @@ $_['error_db_username'] 	 = 'Username required!';
 $_['error_db_database']		 = 'Database Name required!';
 $_['error_db_port']		     = 'Database Port required!';
 $_['error_db_prefix'] 		 = 'DB Prefix can only contain lowercase characters in the a-z range, 0-9 and underscores';
-$_['error_db_connect'] 		 = 'Error: Could not connect to the database please make sure the database server, username and password is correct!';
+$_['error_db_connect'] 		 = 'Грешка: Could not connect to the database please make sure the database server, username and password is correct!';
 $_['error_username'] 		 = 'Username required!';
 $_['error_password'] 		 = 'Password required!';
 $_['error_email'] 			 = 'Invalid E-Mail!';
-$_['error_config'] 			 = 'Error: Could not write to config.php please check you have set the correct permissions on: ';
+$_['error_config'] 			 = 'Грешка: Could not write to config.php please check you have set the correct permissions on: ';
 
 // Buttons
 $_['button_continue']        = 'Continue';
