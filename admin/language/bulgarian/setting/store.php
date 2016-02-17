@@ -1,15 +1,23 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']                    = 'Stores';
+$_['heading_title']                    = 'Магазини';
 
 // Text
-$_['text_settings']                    = 'Settings';
-$_['text_success']                     = 'Успешно: Променихте Stores!';
-$_['text_list']                        = 'Store Списък';
-$_['text_add']                         = 'Добавяне Store';
-$_['text_edit']                        = 'Редакция Store';
-$_['text_items']                       = 'Items';
-$_['text_tax']                         = 'Taxes';
+$_['text_settings']                    = 'Настройки';
+$_['text_success']                     = 'Успешно: Променихте магазини!';
+$_['text_list']                        = 'Списък';
+$_['text_add']                         = 'Добавяне';
+$_['text_edit']                        = 'Редакция';
+$_['text_items']                       = 'Артикули';
+$_['text_tax']                         = 'Данъци';
 $_['text_account']                     = 'Account';
 $_['text_checkout']                    = 'Checkout';
 $_['text_stock']                       = 'Stock';
@@ -17,62 +25,61 @@ $_['text_shipping']                    = 'Shipping Address';
 $_['text_payment']                     = 'Payment Address';
 
 // Column
-$_['column_name']                      = 'Store Name';
-$_['column_url']	                   = 'Store URL';
+$_['column_name']                      = 'Име на магазина';
+$_['column_url']	                   = 'URL на магазина';
 $_['column_action']                    = 'Действие';
 
 // Entry
-$_['entry_url']                        = 'Store URL';
+$_['entry_url']                        = 'URL на магазинаL';
 $_['entry_ssl']                        = 'SSL URL';
-$_['entry_name']                       = 'Store Name';
-$_['entry_owner']                      = 'Store Owner';
-$_['entry_address']                    = 'Добавянеress';
-$_['entry_geocode']                    = 'Geocode';
+$_['entry_name']                       = 'Име на магазина';
+$_['entry_owner']                      = 'Собственик на магазина';
+$_['entry_address']                    = 'Адрес';
+$_['entry_geocode']                    = 'Координати';
 $_['entry_email']                      = 'Имейл';
 $_['entry_telephone']                  = 'Телефон';
 $_['entry_fax']                        = 'Факс';
 $_['entry_image']                      = 'Изображение';
-$_['entry_open']                       = 'Opening Times';
+$_['entry_open']                       = 'Работно време';
 $_['entry_comment']                    = 'Коментар';
-$_['entry_location']                   = 'Store Location';
-$_['entry_meta_title']                 = 'Meta Title';
-$_['entry_meta_description']           = 'Meta Tag Description';
-$_['entry_meta_keyword']               = 'Meta Tag Keywords';
-$_['entry_layout']                     = 'Default Layout';
-$_['entry_template']                   = 'Template';
+$_['entry_location']                   = 'Местоположение на магазина';
+$_['entry_meta_title']                 = 'Мета заглавие на магазина';
+$_['entry_meta_description']           = 'Мета описание на магазина';
+$_['entry_meta_keyword']               = 'Мета ключови думи на магазина';
+$_['entry_template']                   = 'Дизайн';
 $_['entry_country']                    = 'Държава';
 $_['entry_zone']                       = 'Област';
-$_['entry_language']                   = 'Language';
+$_['entry_language']                   = 'Език';
 $_['entry_currency']                   = 'Валута';
-$_['entry_product_limit'] 	           = 'Default Items Per Page (Catalog)';
-$_['entry_product_description_length'] = 'List Description Limit (Catalog)';
-$_['entry_tax']                        = 'Display Prices With Tax';
-$_['entry_tax_default']                = 'Use Store Tax Address';
-$_['entry_tax_customer']               = 'Use Customer Tax Address';
+$_['entry_product_limit']              = 'Артикула на страница';
+$_['entry_product_description_length'] = 'Брой знака на описанието в списък';
+$_['entry_tax']                        = 'Показване на цените с данъци';
+$_['entry_tax_default']                = 'Използвайте данъчен адрес на магазина';
+$_['entry_tax_customer']               = 'Използвайте данъчен адрес на клиента';
 $_['entry_customer_group']             = 'Клиентска група';
-$_['entry_customer_group_display']     = 'Customer Groups';
-$_['entry_customer_price']             = 'Login Display Prices';
-$_['entry_account']                    = 'Account Terms';
-$_['entry_cart_weight']                = 'Display Weight on Cart Page';
-$_['entry_checkout_guest']             = 'Guest Checkout';
-$_['entry_checkout']                   = 'Checkout Terms';
+$_['entry_customer_group_display']     = 'Клиентски групи';
+$_['entry_customer_price']             = 'Показване на цените само за логнати потребители';
+$_['entry_account']                    = 'Условия за позлване';
+$_['entry_cart_weight']                = 'Показване на теглото в страницата на количката';
+$_['entry_checkout_guest']             = 'Плащания от гости';
+$_['entry_checkout']                   = 'Условия за ползване';
 $_['entry_order_status']               = 'Статус на поръчката';
-$_['entry_stock_display']              = 'Display Stock';
-$_['entry_stock_checkout']             = 'Stock Checkout';
-$_['entry_logo']                       = 'Store Logo';
-$_['entry_icon']                       = 'Icon';
-$_['entry_image_category']             = 'Category Image Size';
-$_['entry_image_thumb']                = 'Product Image Thumb Size';
-$_['entry_image_popup']                = 'Product Image Popup Size';
-$_['entry_image_product']              = 'Product Image List Size';
-$_['entry_image_additional']           = 'Добавянеitional Product Image Size';
-$_['entry_image_related']              = 'Related Product Image Size';
-$_['entry_image_compare']              = 'Compare Image Size';
-$_['entry_image_wishlist']             = 'Wish List Image Size';
-$_['entry_image_cart']                 = 'Cart Image Size';
-$_['entry_image_location']             = 'Store Image Size';
-$_['entry_width']                      = 'Width';
-$_['entry_height']                     = 'Height';
+$_['entry_stock_display']              = 'Покажи наличност';
+$_['entry_stock_checkout']             = 'Наличност на закупуването';
+$_['entry_logo']                       = 'Лого на сайта';
+$_['entry_icon']                       = 'Икона на сайта';
+$_['entry_image_category']             = 'Размери на картика за категория';
+$_['entry_image_thumb']                = 'Размери на картика за продукт';
+$_['entry_image_popup']                = 'Размери на картика за продукт (попъп)';
+$_['entry_image_product']              = 'Размери на картика за продукт (списък)';
+$_['entry_image_additional']           = 'Размери на допълнителните картики за продукт';
+$_['entry_image_related']              = 'Размери на картика за свързани продукти';
+$_['entry_image_compare']              = 'Размери на картика за продукт за сраваняване';
+$_['entry_image_wishlist']             = 'Размери на картика за желани продукти';
+$_['entry_image_cart']                 = 'Размери на картика за количка';
+$_['entry_image_location']             = 'Размери на картика за лого на сайта';
+$_['entry_width']                      = 'Дължина';
+$_['entry_height']                     = 'Височина';
 $_['entry_secure']                     = 'Use SSL';
 
 // Help

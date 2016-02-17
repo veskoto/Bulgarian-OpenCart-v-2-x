@@ -8,22 +8,22 @@
  *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
  */
 // Heading
-$_['heading_title']    = 'Stock Statuses';
+$_['heading_title']    = 'Статуси на наличност';
 
 // Text
-$_['text_success']     = 'Успешно: Променихте stock statuses!';
-$_['text_list']        = 'Stock Status Списък';
-$_['text_add']         = 'Добавяне Stock Status';
-$_['text_edit']        = 'Редакция Stock Status';
+$_['text_success']     = 'Успешно: Променихте статуси на наличност!';
+$_['text_list']        = 'Списък';
+$_['text_add']         = 'Добавяне';
+$_['text_edit']        = 'Редакция';
 
 // Column
-$_['column_name']      = 'Stock Status Name';
+$_['column_name']      = 'Заглавие';
 $_['column_action']    = 'Действие';
 
 // Entry
-$_['entry_name']       = 'Stock Status Name';
+$_['entry_name']       = 'Заглавие';
 
 // Error
-$_['error_permission'] = 'Внимание: Нямате права за редакция на stock statuses!';
-$_['error_name']       = 'Stock Status Name трябва да е между 3 и 32 символа!';
-$_['error_product']    = 'Внимание: This stock status cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на статуси на наличност!';
+$_['error_name']       = 'Заглавието трябва да е между 3 и 32 символа!';
+$_['error_product']    = 'Внимание: Този стаус не може да бъде изтрит, защото се ползва от %s продукта!';
