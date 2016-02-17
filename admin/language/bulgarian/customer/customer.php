@@ -1,36 +1,36 @@
 <?php
 // Heading
-$_['heading_title']         = 'Customers';
+$_['heading_title']         = 'Клиенти';
 
 // Text
-$_['text_success']          = 'Success: You have modified customers!';
+$_['text_success']          = 'Успешно: You have modified customers!';
 $_['text_list']             = 'Customer List';
-$_['text_add']              = 'Add Customer';
-$_['text_edit']             = 'Edit Customer';
-$_['text_default']          = 'Default';
+$_['text_add']              = 'Добавяне Customer';
+$_['text_edit']             = 'Редакция Customer';
+$_['text_default']          = 'Основен';
 $_['text_balance']          = 'Balance';
 
 // Column
 $_['column_name']           = 'Customer Name';
-$_['column_email']          = 'E-Mail';
-$_['column_customer_group'] = 'Customer Group';
+$_['column_email']          = 'Имейл';
+$_['column_customer_group'] = 'Клиентска група';
 $_['column_status']         = 'Status';
-$_['column_date_added']     = 'Date Added';
+$_['column_date_added']     = 'Датата на добавяне';
 $_['column_comment']        = 'Comment';
 $_['column_description']    = 'Description';
 $_['column_amount']         = 'Amount';
 $_['column_points']         = 'Points';
 $_['column_ip']             = 'IP';
 $_['column_total']          = 'Total Accounts';
-$_['column_action']         = 'Action';
+$_['column_action']         = 'Действие';
 
 // Entry
-$_['entry_customer_group']  = 'Customer Group';
-$_['entry_firstname']       = 'First Name';
-$_['entry_lastname']        = 'Last Name';
-$_['entry_email']           = 'E-Mail';
-$_['entry_telephone']       = 'Telephone';
-$_['entry_fax']             = 'Fax';
+$_['entry_customer_group']  = 'Клиентска група';
+$_['entry_firstname']       = 'Име';
+$_['entry_lastname']        = 'Фамилия';
+$_['entry_email']           = 'Имейл';
+$_['entry_telephone']       = 'Телефон';
+$_['entry_fax']             = 'Факс';
 $_['entry_newsletter']      = 'Newsletter';
 $_['entry_status']          = 'Status';
 $_['entry_approved']        = 'Approved';
@@ -38,8 +38,8 @@ $_['entry_safe']            = 'Safe';
 $_['entry_password']        = 'Password';
 $_['entry_confirm']         = 'Confirm';
 $_['entry_company']         = 'Company';
-$_['entry_address_1']       = 'Address 1';
-$_['entry_address_2']       = 'Address 2';
+$_['entry_address_1']       = 'Адрес 1';
+$_['entry_address_2']       = 'Адрес 2';
 $_['entry_city']            = 'City';
 $_['entry_postcode']        = 'Postcode';
 $_['entry_country']         = 'Country';
@@ -51,7 +51,7 @@ $_['entry_amount']          = 'Amount';
 $_['entry_points']          = 'Points';
 $_['entry_name']            = 'Customer Name';
 $_['entry_ip']              = 'IP';
-$_['entry_date_added']      = 'Date Added';
+$_['entry_date_added']      = 'Датата на добавяне';
 
 // Help
 $_['help_safe']             = 'Set to true to avoid this customer from being caught by the anti-fraud system';
@@ -67,7 +67,7 @@ $_['error_email']           = 'E-Mail Address does not appear to be valid!';
 $_['error_telephone']       = 'Telephone must be between 3 and 32 characters!';
 $_['error_password']        = 'Password must be between 4 and 20 characters!';
 $_['error_confirm']         = 'Password and password confirmation do not match!';
-$_['error_address_1']       = 'Address 1 must be between 3 and 128 characters!';
+$_['error_address_1']       = 'Добавянеress 1 must be between 3 and 128 characters!';
 $_['error_city']            = 'City must be between 2 and 128 characters!';
 $_['error_postcode']        = 'Postcode must be between 2 and 10 characters for this country!';
 $_['error_country']         = 'Please select a country!';

@@ -4,8 +4,8 @@ $_['heading_title']     = 'eBay Listing';
 
 // Text
 $_['text_module']       = 'Modules';
-$_['text_success']      = 'Success: You have modified module eBay featured!';
-$_['text_edit']        	= 'Edit eBay module';
+$_['text_success']      = 'Успешно: You have modified module eBay featured!';
+$_['text_edit']        	= 'Редакция eBay module';
 $_['text_list']         = 'Layout List';
 $_['text_register']     = 'You need to register and enable OpenBay Pro for eBay!';
 $_['text_about'] 		= 'The eBay display module allows you to display products from your eBay account directly on your website.';

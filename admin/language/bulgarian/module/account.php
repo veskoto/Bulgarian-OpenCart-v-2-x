@@ -3,8 +3,8 @@
 $_['heading_title']    = 'Account';
 
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified account module!';
-$_['text_edit']        = 'Edit Account Module';
+$_['text_success']     = 'Успешно: You have modified account module!';
+$_['text_edit']        = 'Редакция Account Module';
 
 // Entry
 $_['entry_status']     = 'Status';

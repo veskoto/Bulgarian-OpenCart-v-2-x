@@ -3,14 +3,14 @@
 $_['heading_title']     = 'User Groups';
 
 // Text
-$_['text_success']      = 'Success: You have modified user groups!';
+$_['text_success']      = 'Успешно: You have modified user groups!';
 $_['text_list']         = 'User Group';
-$_['text_add']          = 'Add User Group';
-$_['text_edit']         = 'Edit User Group';
+$_['text_add']          = 'Добавяне User Group';
+$_['text_edit']         = 'Редакция User Group';
 
 // Column
 $_['column_name']       = 'User Group Name';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_name']        = 'User Group Name';

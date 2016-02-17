@@ -4,8 +4,8 @@ $_['heading_title']      = 'Australia Post';
 
 // Text
 $_['text_shipping']      = 'Shipping';
-$_['text_success']       = 'Success: You have modified Australia Post shipping!';
-$_['text_edit']          = 'Edit Australia Post Shipping';
+$_['text_success']       = 'Успешно: You have modified Australia Post shipping!';
+$_['text_edit']          = 'Редакция Australia Post Shipping';
 
 // Entry
 $_['entry_postcode']     = 'Post Code';
@@ -16,7 +16,7 @@ $_['entry_weight_class'] = 'Weight Class';
 $_['entry_tax_class']    = 'Tax Class';
 $_['entry_geo_zone']     = 'Geo Zone';
 $_['entry_status']       = 'Status';
-$_['entry_sort_order']   = 'Sort Order';
+$_['entry_sort_order']   = 'Подредба';
 
 // Help
 $_['help_display_time']  = 'Do you want to display the shipping time? (e.g. Ships within 3 to 5 days)';

@@ -3,40 +3,40 @@
 $_['heading_title']       = 'Product Returns';
 
 // Text
-$_['text_success']        = 'Success: You have modified returns!';
+$_['text_success']        = 'Успешно: You have modified returns!';
 $_['text_list']           = 'Product Return List';
-$_['text_add']            = 'Add Product Return';
-$_['text_edit']           = 'Edit Product Return';
+$_['text_add']            = 'Добавяне Product Return';
+$_['text_edit']           = 'Редакция Product Return';
 $_['text_opened']         = 'Opened';
 $_['text_unopened']       = 'Unopened';
 $_['text_order']          = 'Order Information';
 $_['text_product']        = 'Product Information &amp; Reason for Return';
-$_['text_history']        = 'Add Return History';
+$_['text_history']        = 'Добавяне Return History';
 
 // Column
 $_['column_return_id']     = 'Return ID';
 $_['column_order_id']      = 'Order ID';
-$_['column_customer']      = 'Customer';
-$_['column_product']       = 'Product';
-$_['column_model']         = 'Model';
+$_['column_customer']      = 'Клиент';
+$_['column_product']       = 'Продукт';
+$_['column_model']         = 'Модел';
 $_['column_status']        = 'Status';
-$_['column_date_added']    = 'Date Added';
-$_['column_date_modified'] = 'Date Modified';
+$_['column_date_added']    = 'Датата на добавяне';
+$_['column_date_modified'] = 'Дата на промяна';
 $_['column_comment']       = 'Comment';
 $_['column_notify']        = 'Customer Notified';
-$_['column_action']        = 'Action';
+$_['column_action']        = 'Действие';
 
 // Entry
-$_['entry_customer']      = 'Customer';
+$_['entry_customer']      = 'Клиент';
 $_['entry_order_id']      = 'Order ID';
 $_['entry_date_ordered']  = 'Order Date';
-$_['entry_firstname']     = 'First Name';
-$_['entry_lastname']      = 'Last Name';
-$_['entry_email']         = 'E-Mail';
-$_['entry_telephone']     = 'Telephone';
-$_['entry_product']       = 'Product';
-$_['entry_model']         = 'Model';
-$_['entry_quantity']      = 'Quantity';
+$_['entry_firstname']     = 'Име';
+$_['entry_lastname']      = 'Фамилия';
+$_['entry_email']         = 'Имейл';
+$_['entry_telephone']     = 'Телефон';
+$_['entry_product']       = 'Продукт';
+$_['entry_model']         = 'Модел';
+$_['entry_quantity']      = 'Количество';
 $_['entry_opened']        = 'Opened';
 $_['entry_comment']       = 'Comment';
 $_['entry_return_reason'] = 'Return Reason';
@@ -44,8 +44,8 @@ $_['entry_return_action'] = 'Return Action';
 $_['entry_return_status'] = 'Return Status';
 $_['entry_notify']        = 'Notify Customer';
 $_['entry_return_id']     = 'Return ID';
-$_['entry_date_added']    = 'Date Added';
-$_['entry_date_modified'] = 'Date Modified';
+$_['entry_date_added']    = 'Датата на добавяне';
+$_['entry_date_modified'] = 'Дата на промяна';
 
 // Help
 $_['help_product']        = '(Autocomplete)';

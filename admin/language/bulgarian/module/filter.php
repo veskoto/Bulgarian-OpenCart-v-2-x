@@ -4,8 +4,8 @@ $_['heading_title']    = 'Filter';
 
 // Text
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified filter module!';
-$_['text_edit']        = 'Edit Filter Module';
+$_['text_success']     = 'Успешно: You have modified filter module!';
+$_['text_edit']        = 'Редакция Filter Module';
 
 // Entry
 $_['entry_status']     = 'Status';

@@ -10,7 +10,7 @@ $_['button_update']           	= 'Update';
 
 // Column
 $_['column_channel']        	= 'Order Channel';
-$_['column_additional']     	= 'Additional info';
+$_['column_additional']     	= 'Добавянеitional info';
 $_['column_comments']      		= 'Comments';
 $_['column_notify']        		= 'Notify';
 
@@ -31,5 +31,5 @@ $_['text_list']					= 'Order list';
 $_['entry_carrier']             = 'Carrier';
 $_['entry_tracking_no']         = 'Tracking';
 $_['entry_other']               = 'Other';
-$_['entry_date_added']          = 'Date Added';
+$_['entry_date_added']          = 'Датата на добавяне';
 $_['entry_order_channel']       = 'Order channel';

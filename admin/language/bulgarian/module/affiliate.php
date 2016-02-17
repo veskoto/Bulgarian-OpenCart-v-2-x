@@ -3,8 +3,8 @@
 $_['heading_title']    = 'Affiliate';
 
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified affiliate module!';
-$_['text_edit']        = 'Edit Affiliate Module';
+$_['text_success']     = 'Успешно: You have modified affiliate module!';
+$_['text_edit']        = 'Редакция Affiliate Module';
 
 // Entry
 $_['entry_status']     = 'Status';

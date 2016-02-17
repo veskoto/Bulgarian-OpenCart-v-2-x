@@ -4,8 +4,8 @@ $_['heading_title']        = 'Log In with PayPal';
 
 //Text
 $_['text_module']          = 'Modules';
-$_['text_success']         = 'Success: You have modified Log In with PayPal module!';
-$_['text_edit']            = 'Edit Log In with PayPal Module';
+$_['text_success']         = 'Успешно: You have modified Log In with PayPal module!';
+$_['text_edit']            = 'Редакция Log In with PayPal Module';
 $_['text_button_grey']     = 'Grey';
 $_['text_button_blue']     = 'Blue (Recommended)';
 
@@ -14,7 +14,7 @@ $_['entry_client_id']      = 'Client ID';
 $_['entry_secret']         = 'Secret';
 $_['entry_sandbox']        = 'Sandbox Mode';
 $_['entry_debug']          = 'Debug Logging';
-$_['entry_customer_group'] = 'Customer Group';
+$_['entry_customer_group'] = 'Клиентска група';
 $_['entry_button']         = 'Button Colour';
 $_['entry_seamless']       = 'Allow "Seamless Checkout"';
 $_['entry_locale']         = 'Locale';

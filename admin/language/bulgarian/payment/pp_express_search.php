@@ -4,7 +4,7 @@ $_['heading_title']					= 'Search Transactions';
 
 // Column
 $_['tbl_column_date']				= 'Date';
-$_['tbl_column_type']				= 'Type';
+$_['tbl_column_type']				= 'Тип';
 $_['tbl_column_email']				= 'Email';
 $_['tbl_column_name']				= 'Name';
 $_['tbl_column_transid']			= 'Transaction ID';
@@ -13,7 +13,7 @@ $_['tbl_column_currency']			= 'Currency';
 $_['tbl_column_amount']				= 'Amount';
 $_['tbl_column_fee']				= 'Fee';
 $_['tbl_column_netamt']				= 'Net Amount';
-$_['tbl_column_action']				= 'Action';
+$_['tbl_column_action']				= 'Действие';
 
 // Text
 $_['text_pp_express']				= 'PayPal Express Checkout';
@@ -49,7 +49,7 @@ $_['entry_date_start']				= 'Start';
 $_['entry_date_end']				= 'End';
 $_['entry_date_to']					= 'to';
 $_['entry_transaction']				= 'Transaction';
-$_['entry_transaction_type']		= 'Type';
+$_['entry_transaction_type']		= 'Тип';
 $_['entry_transaction_status']		= 'Status';
 $_['entry_email']					= 'Email';
 $_['entry_email_buyer']				= 'Buyer';

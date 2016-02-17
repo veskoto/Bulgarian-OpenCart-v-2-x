@@ -37,7 +37,7 @@ $_['text_list']              			= 'Product List';
 
 // Entry
 $_['entry_title'] 						= 'Title';
-$_['entry_model'] 						= 'Model';
+$_['entry_model'] 						= 'Модел';
 $_['entry_manufacturer'] 				= 'Manufacturer';
 $_['entry_status'] 						= 'Status';
 $_['entry_status_marketplace'] 			= 'Marketplace status';

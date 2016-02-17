@@ -3,10 +3,10 @@
 $_['heading_title']       = 'Coupons';
 
 // Text
-$_['text_success']        = 'Success: You have modified coupons!';
+$_['text_success']        = 'Успешно: You have modified coupons!';
 $_['text_list']           = 'Coupon List';
-$_['text_add']            = 'Add Coupon';
-$_['text_edit']           = 'Edit Coupon';
+$_['text_add']            = 'Добавяне Coupon';
+$_['text_edit']           = 'Редакция Coupon';
 $_['text_percent']        = 'Percentage';
 $_['text_amount']         = 'Fixed Amount';
 
@@ -18,15 +18,15 @@ $_['column_date_start']   = 'Date Start';
 $_['column_date_end']     = 'Date End';
 $_['column_status']       = 'Status';
 $_['column_order_id']     = 'Order ID';
-$_['column_customer']     = 'Customer';
+$_['column_customer']     = 'Клиент';
 $_['column_amount']       = 'Amount';
-$_['column_date_added']   = 'Date Added';
-$_['column_action']       = 'Action';
+$_['column_date_added']   = 'Датата на добавяне';
+$_['column_action']       = 'Действие';
 
 // Entry
 $_['entry_name']          = 'Coupon Name';
 $_['entry_code']          = 'Code';
-$_['entry_type']          = 'Type';
+$_['entry_type']          = 'Тип';
 $_['entry_discount']      = 'Discount';
 $_['entry_logged']        = 'Customer Login';
 $_['entry_shipping']      = 'Free Shipping';

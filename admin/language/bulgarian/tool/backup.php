@@ -4,7 +4,7 @@ $_['heading_title']    = 'Backup &amp; Restore';
 
 // Text
 $_['text_backup']      = 'Download Backup';
-$_['text_success']     = 'Success: You have successfully imported your database!';
+$_['text_success']     = 'Успешно: You have successfully imported your database!';
 $_['text_list']        = 'Upload List';
 
 // Entry

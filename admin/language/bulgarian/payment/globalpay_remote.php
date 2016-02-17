@@ -4,8 +4,8 @@ $_['heading_title']					= 'Globalpay Remote';
 
 // Text
 $_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: You have modified Globalpay account details!';
-$_['text_edit']                     = 'Edit Globalpay Remote';
+$_['text_success']					= 'Успешно: You have modified Globalpay account details!';
+$_['text_edit']                     = 'Редакция Globalpay Remote';
 $_['text_card_type']				= 'Card type';
 $_['text_enabled']					= 'Enabled';
 $_['text_use_default']				= 'Use default';
@@ -42,7 +42,7 @@ $_['text_globalpay_remote']			= '<a target="_blank" href="https://resourcecentre
 
 // Column
 $_['text_column_amount']			= 'Amount';
-$_['text_column_type']				= 'Type';
+$_['text_column_type']				= 'Тип';
 $_['text_column_date_added']		= 'Created';
 
 // Entry

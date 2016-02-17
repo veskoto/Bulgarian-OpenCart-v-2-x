@@ -19,7 +19,7 @@ $_['tab_developer']						= 'Developer';
 
 // Text
 $_['text_dashboard']         			= 'Dashboard';
-$_['text_success']         				= 'Success: Settings have been saved';
+$_['text_success']         				= 'Успешно: Settings have been saved';
 $_['text_products']          			= 'Items';
 $_['text_orders']          				= 'Orders';
 $_['text_manage']          				= 'Manage';
@@ -62,7 +62,7 @@ $_['text_confirm_backup']				= 'Ensure that you have a full backup before contin
 // Column
 $_['column_name']          				= 'Plugin name';
 $_['column_status']        				= 'Status';
-$_['column_action']        				= 'Action';
+$_['column_action']        				= 'Действие';
 
 // Entry
 $_['entry_patch']            			= 'Manual update patch';

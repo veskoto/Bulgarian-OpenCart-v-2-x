@@ -3,11 +3,11 @@
 $_['heading_title']     = 'Gift Vouchers';
 
 // Text
-$_['text_success']      = 'Success: You have modified vouchers!';
+$_['text_success']      = 'Успешно: You have modified vouchers!';
 $_['text_list']         = 'Gift Voucher List';
-$_['text_add']          = 'Add Gift Voucher';
-$_['text_edit']         = 'Edit Gift Voucher';
-$_['text_sent']         = 'Success: Gift Voucher e-mail has been sent!';
+$_['text_add']          = 'Добавяне Gift Voucher';
+$_['text_edit']         = 'Редакция Gift Voucher';
+$_['text_sent']         = 'Успешно: Gift Voucher e-mail has been sent!';
 
 // Column
 $_['column_name']       = 'Voucher Name';
@@ -18,9 +18,9 @@ $_['column_theme']      = 'Theme';
 $_['column_amount']     = 'Amount';
 $_['column_status']     = 'Status';
 $_['column_order_id']   = 'Order ID';
-$_['column_customer']   = 'Customer';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_customer']   = 'Клиент';
+$_['column_date_added'] = 'Датата на добавяне';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_code']        = 'Code';

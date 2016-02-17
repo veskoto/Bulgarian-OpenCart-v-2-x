@@ -3,14 +3,14 @@
 $_['heading_title']    = 'Return Statuses';
 
 // Text
-$_['text_success']     = 'Success: You have modified return statuses!';
+$_['text_success']     = 'Успешно: You have modified return statuses!';
 $_['text_list']        = 'Return Status List';
-$_['text_add']         = 'Add Return Status';
-$_['text_edit']        = 'Edit Return Status';
+$_['text_add']         = 'Добавяне Return Status';
+$_['text_edit']        = 'Редакция Return Status';
 
 // Column
 $_['column_name']      = 'Return Status Name';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Действие';
 
 // Entry
 $_['entry_name']       = 'Return Status Name';

@@ -4,8 +4,8 @@ $_['heading_title']					= 'Realex Remote';
 
 // Text
 $_['text_payment']					= 'Payment';
-$_['text_success']					= 'Success: You have modified Realex account details!';
-$_['text_edit']                     = 'Edit Realex Remote';
+$_['text_success']					= 'Успешно: You have modified Realex account details!';
+$_['text_edit']                     = 'Редакция Realex Remote';
 $_['text_card_type']				= 'Card type';
 $_['text_enabled']					= 'Enabled';
 $_['text_use_default']				= 'Use default';
@@ -42,7 +42,7 @@ $_['text_realex_remote']			= '<a target="_BLANK" href="http://www.realexpayments
 
 // Column
 $_['text_column_amount']			= 'Amount';
-$_['text_column_type']				= 'Type';
+$_['text_column_type']				= 'Тип';
 $_['text_column_date_added']		= 'Created';
 
 // Entry

@@ -19,7 +19,7 @@ $_['text_shipping_despatch_help']       = 'This is the maximum number of days yo
 $_['text_shipping_nat']                 = 'National shipping services';
 $_['text_shipping_intnat']              = 'International shipping services';
 $_['text_shipping_first']               = 'First item';
-$_['text_shipping_add']                 = 'Additional items';
+$_['text_shipping_add']                 = 'Добавянеitional items';
 $_['text_shipping_service']             = 'Service';
 $_['text_shipping_in_desc']             = 'Freight info in description';
 $_['text_shipping_getitfast']           = 'Get It Fast!';
@@ -66,16 +66,16 @@ $_['text_image_thumb']          		= 'Thumbnail image size';
 $_['text_image_thumb_help']     		= 'Pixel size of thumbnail images that are added to your template.';
 $_['text_image_super']          		= 'Supersize images';
 $_['text_image_gallery_plus']   		= 'Gallery plus';
-$_['text_image_all_ebay']       		= 'Add all images to eBay';
-$_['text_image_all_template']   		= 'Add all images to template';
+$_['text_image_all_ebay']       		= 'Добавяне all images to eBay';
+$_['text_image_all_template']   		= 'Добавяне all images to template';
 $_['text_image_exclude_default']		= 'Exclude default image';
 $_['text_image_exclude_default_help']	= 'Only for bulk listing feature! Will not include the default product image in theme image list';
 $_['text_confirm_delete']       		= 'Are you sure you want to delete the profile?';
 $_['text_width']      					= 'Width';
 $_['text_height']      					= 'Height';
 $_['text_px']      						= 'px';
-$_['text_add']      					= 'Add profile';
-$_['text_edit']      					= 'Edit profile';
+$_['text_add']      					= 'Добавяне profile';
+$_['text_edit']      					= 'Редакция profile';
 
 //General profile
 $_['text_general_private']      		= 'List items as private auction';
@@ -84,10 +84,10 @@ $_['text_general_price_help']   		= '0 is default, -10 will reduce by 10%, 10 wi
 
 //General profile options
 $_['text_profile_name']         		= 'Name';
-$_['text_profile_default']      		= 'Default';
-$_['text_profile_type']         		= 'Type';
+$_['text_profile_default']      		= 'Основен';
+$_['text_profile_type']         		= 'Тип';
 $_['text_profile_desc']         		= 'Description';
-$_['text_profile_action']       		= 'Action';
+$_['text_profile_action']       		= 'Действие';
 
 // Profile types
 $_['text_type_shipping']       			= 'Shipping';

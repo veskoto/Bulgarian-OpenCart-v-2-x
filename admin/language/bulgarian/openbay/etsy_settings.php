@@ -17,7 +17,7 @@ $_['text_complete']    			= 'Complete';
 $_['text_failed']    			= 'Failed';
 $_['text_orders_imported']    	= 'Order pull has been requested';
 $_['text_api_status']           = 'API connection';
-$_['text_edit']           		= 'Edit Etsy settings';
+$_['text_edit']           		= 'Редакция Etsy settings';
 
 // Entry
 $_['entry_import_def_id']       = 'Import default status (unpaid):';

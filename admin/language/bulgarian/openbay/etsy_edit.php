@@ -1,6 +1,6 @@
 <?php
 // Headings
-$_['heading_title']      		= 'Edit listing';
+$_['heading_title']      		= 'Редакция listing';
 $_['text_openbay']          	= 'OpenBay Pro';
 $_['text_etsy']             	= 'Etsy';
 

@@ -4,8 +4,8 @@ $_['heading_title']           = 'Parcelforce 48';
 
 // Text
 $_['text_shipping']           = 'Shipping';
-$_['text_success']            = 'Success: You have modified Parcelforce 48 shipping!';
-$_['text_edit']               = 'Edit Parcelforce 48 Shipping';
+$_['text_success']            = 'Успешно: You have modified Parcelforce 48 shipping!';
+$_['text_edit']               = 'Редакция Parcelforce 48 Shipping';
 
 // Entry
 $_['entry_rate']              = 'Parcelforce 48 Rates';
@@ -16,7 +16,7 @@ $_['entry_display_time']      = 'Display Delivery Time';
 $_['entry_tax_class']         = 'Tax Class';
 $_['entry_geo_zone']          = 'Geo Zone';
 $_['entry_status']            = 'Status';
-$_['entry_sort_order']        = 'Sort Order';
+$_['entry_sort_order']        = 'Подредба';
 
 // Help
 $_['help_rate']              = 'Enter values upto 5,2 decimal places. (12345.67) Example: .1:1,.25:1.27 - Weights less than or equal to 0.1Kg would cost 1.00, Weights less than or equal to 0.25g but more than 0.1Kg will cost 1.27. Do not enter KG or symbols.';

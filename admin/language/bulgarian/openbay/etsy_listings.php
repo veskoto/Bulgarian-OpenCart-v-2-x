@@ -8,7 +8,7 @@ $_['text_etsy']                 = 'Etsy';
 $_['text_link_saved']           = 'Item has been linked';
 $_['text_activate']         	= 'Activate';
 $_['text_deactivate']         	= 'Deactivate';
-$_['text_add_link']         	= 'Add link';
+$_['text_add_link']         	= 'Добавяне link';
 $_['text_delete_link']         	= 'Delete link';
 $_['text_delete']         		= 'Delete listing';
 $_['text_status_stock']         = 'Stock not synced';
@@ -31,7 +31,7 @@ $_['column_listing_qty']		= 'Listing quantity';
 $_['column_store_qty']			= 'Store quantity';
 $_['column_status']				= 'Status message';
 $_['column_link_status']		= 'Link status';
-$_['column_action']				= 'Action';
+$_['column_action']				= 'Действие';
 
 // Entry
 $_['entry_limit']				= 'Page limit';

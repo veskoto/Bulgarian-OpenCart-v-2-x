@@ -3,10 +3,10 @@
 $_['heading_title']                        = 'Recurring Profiles';
 
 // Text
-$_['text_success']                         = 'Success: You have modified recurring profiles!';
+$_['text_success']                         = 'Успешно: You have modified recurring profiles!';
 $_['text_list']                            = 'Recurring Profile List';
-$_['text_add']                             = 'Add Recurring Profile';
-$_['text_edit']                            = 'Edit Recurring Profile';
+$_['text_add']                             = 'Добавяне Recurring Profile';
+$_['text_edit']                            = 'Редакция Recurring Profile';
 $_['text_payment_profiles']                = 'Recurring Profiles';
 $_['text_status_active']                   = 'Active';
 $_['text_status_inactive']                 = 'Inactive';
@@ -32,18 +32,18 @@ $_['entry_cancel_payment']                 = 'Cancel Payment';
 $_['entry_order_recurring']                = 'ID';
 $_['entry_order_id']                       = 'Order ID';
 $_['entry_reference']                      = 'Payment Reference';
-$_['entry_customer']                       = 'Customer';
-$_['entry_date_added']                     = 'Date Added';
+$_['entry_customer']                       = 'Клиент';
+$_['entry_date_added']                     = 'Датата на добавяне';
 $_['entry_status']                         = 'Status';
-$_['entry_type']                           = 'Type';
-$_['entry_action']                         = 'Action';
+$_['entry_type']                           = 'Тип';
+$_['entry_action']                         = 'Действие';
 $_['entry_email']                          = 'Email';
 $_['entry_description']                    = 'Recurring Profile\'s description';
-$_['entry_product']                        = 'Product';
-$_['entry_quantity']                       = 'Quantity';
+$_['entry_product']                        = 'Продукт';
+$_['entry_quantity']                       = 'Количество';
 $_['entry_amount']                         = 'Amount';
 $_['entry_recurring']                      = 'Recurring Profile';
-$_['entry_payment_method']                 = 'Payment Method';
+$_['entry_payment_method']                 = 'Начин на плащане';
 
 // Error / Success
 $_['error_not_cancelled']                  = 'Error: %s';

@@ -5,14 +5,14 @@ $_['text_openbay']          	= 'OpenBay Pro';
 $_['text_etsy']             	= 'Etsy';
 
 // Tabs
-$_['tab_additional']      		= 'Additional information';
+$_['tab_additional']      		= 'Добавянеitional information';
 
 // Text
 $_['text_option']      			= 'Select option';
 $_['text_category_selected']	= 'Category selected';
-$_['text_material_add']  		= 'Add Material';
+$_['text_material_add']  		= 'Добавяне Material';
 $_['text_material_remove']  	= 'Remove Material';
-$_['text_tag_add']  			= 'Add Tag';
+$_['text_tag_add']  			= 'Добавяне Tag';
 $_['text_tag_remove']  			= 'Remove Tag';
 $_['text_created']  			= 'Your listing has been created';
 $_['text_listing_id']  			= 'Listing ID';

@@ -3,16 +3,16 @@
 $_['heading_title']          = 'Zones';
 
 // Text
-$_['text_success']           = 'Success: You have modified zones!';
+$_['text_success']           = 'Успешно: You have modified zones!';
 $_['text_list']              = 'Zone List';
-$_['text_add']               = 'Add Zone';
-$_['text_edit']              = 'Edit Zone';
+$_['text_add']               = 'Добавяне Zone';
+$_['text_edit']              = 'Редакция Zone';
 
 // Column
 $_['column_name']            = 'Zone Name';
 $_['column_code']            = 'Zone Code';
 $_['column_country']         = 'Country';
-$_['column_action']          = 'Action';
+$_['column_action']          = 'Действие';
 
 // Entry
 $_['entry_name']             = 'Zone Name';

@@ -3,14 +3,14 @@
 $_['heading_title']    = 'Return Reasons';
 
 // Text
-$_['text_success']     = 'Success: You have modified return reasons!';
+$_['text_success']     = 'Успешно: You have modified return reasons!';
 $_['text_list']        = 'Return Reason List';
-$_['text_add']         = 'Add Return Reason';
-$_['text_edit']        = 'Edit Return Reason';
+$_['text_add']         = 'Добавяне Return Reason';
+$_['text_edit']        = 'Редакция Return Reason';
 
 // Column
 $_['column_name']      = 'Return Reason Name';
-$_['column_action']    = 'Action';
+$_['column_action']    = 'Действие';
 
 // Entry
 $_['entry_name']       = 'Return Reason Name';

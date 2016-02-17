@@ -4,7 +4,7 @@ $_['heading_title']				 = 'Worldpay Online Payments';
 
 // Text
 $_['text_payment']				 = 'Payment';
-$_['text_success']				 = 'Success: You have modified Worldpay account details!';
+$_['text_success']				 = 'Успешно: You have modified Worldpay account details!';
 $_['text_worldpay']				 = '<a href="https://online.worldpay.com/signup/ee48b6e6-d3e3-42aa-a80e-cbee3f4f8b09" target="_blank"><img src="view/image/payment/worldpay.png" alt="Worldpay" title="Worldpay" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_test']					 = 'Test';
 $_['text_live']					 = 'Live';
@@ -22,7 +22,7 @@ $_['entry_total']				 = 'Total';
 $_['entry_order_status']		 = 'Order Status';
 $_['entry_geo_zone']			 = 'Geo Zone';
 $_['entry_status']				 = 'Status';
-$_['entry_sort_order']			 = 'Sort Order';
+$_['entry_sort_order']			 = 'Подредба';
 $_['entry_debug']				 = 'Debug logging';
 $_['entry_card']				 = 'Store Cards';
 $_['entry_secret_token']		 = 'Secret Token';
@@ -67,8 +67,8 @@ $_['text_order_total']			 = 'Total authorised';
 $_['text_total_released']		 = 'Total released';
 $_['text_transactions']			 = 'Transactions';
 $_['text_column_amount']		 = 'Amount';
-$_['text_column_type']			 = 'Type';
-$_['text_column_date_added']	 = 'Added';
+$_['text_column_type']			 = 'Тип';
+$_['text_column_date_added']	 = 'Добавянеed';
 
 $_['text_confirm_refund']		 = 'Are you sure you want to refund the payment?';
 

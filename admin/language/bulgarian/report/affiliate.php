@@ -7,12 +7,12 @@ $_['text_list']         = 'Affiliate Commission List';
 
 // Column
 $_['column_affiliate']  = 'Affiliate Name';
-$_['column_email']      = 'E-Mail';
+$_['column_email']      = 'Имейл';
 $_['column_status']     = 'Status';
 $_['column_commission'] = 'Commission';
 $_['column_orders']     = 'No. Orders';
 $_['column_total']      = 'Total';
-$_['column_action']     = 'Action';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_date_start']  = 'Date Start';

@@ -3,25 +3,25 @@
 $_['heading_title']     = 'Users';
 
 // Text
-$_['text_success']      = 'Success: You have modified users!';
+$_['text_success']      = 'Успешно: You have modified users!';
 $_['text_list']         = 'User List';
-$_['text_add']          = 'Add User';
-$_['text_edit']         = 'Edit User';
+$_['text_add']          = 'Добавяне User';
+$_['text_edit']         = 'Редакция User';
 
 // Column
 $_['column_username']   = 'Username';
 $_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_date_added'] = 'Датата на добавяне';
+$_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_username']   	= 'Username';
 $_['entry_user_group'] 	= 'User Group';
 $_['entry_password']   	= 'Password';
 $_['entry_confirm']    	= 'Confirm';
-$_['entry_firstname']  	= 'First Name';
-$_['entry_lastname']   	= 'Last Name';
-$_['entry_email']      	= 'E-Mail';
+$_['entry_firstname']  	= 'Име';
+$_['entry_lastname']   	= 'Фамилия';
+$_['entry_email']      	= 'Имейл';
 $_['entry_image']      	= 'Image';
 $_['entry_status']     	= 'Status';
 

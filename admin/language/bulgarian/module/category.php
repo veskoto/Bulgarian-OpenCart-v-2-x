@@ -4,8 +4,8 @@ $_['heading_title']    = 'Category';
 
 // Text
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified category module!';
-$_['text_edit']        = 'Edit Category Module';
+$_['text_success']     = 'Успешно: You have modified category module!';
+$_['text_edit']        = 'Редакция Category Module';
 
 // Entry
 $_['entry_status']     = 'Status';

@@ -4,8 +4,8 @@ $_['heading_title']                            = 'Fedex';
 
 // Text
 $_['text_shipping']                            = 'Shipping';
-$_['text_success']                             = 'Success: You have modified Fedex shipping!';
-$_['text_edit']                                = 'Edit Fedex Shipping';
+$_['text_success']                             = 'Успешно: You have modified Fedex shipping!';
+$_['text_edit']                                = 'Редакция Fedex Shipping';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight']                 = 'Fedex 1 Day Freight';
 $_['text_fedex_2_day']                         = 'Fedex 2 Day';
@@ -64,7 +64,7 @@ $_['entry_weight_class']                       = 'Weight Class';
 $_['entry_tax_class']                          = 'Tax Class';
 $_['entry_geo_zone']                           = 'Geo Zone';
 $_['entry_status']                             = 'Status';
-$_['entry_sort_order']                         = 'Sort Order';
+$_['entry_sort_order']                         = 'Подредба';
 
 // Help
 $_['help_length_class']                        = 'Set to inches or centimeters.';

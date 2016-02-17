@@ -4,8 +4,8 @@ $_['heading_title']                    = 'Royal Mail';
 
 // Text
 $_['text_shipping']                    = 'Shipping';
-$_['text_success']                     = 'Success: You have modified Royal Mail shipping!';
-$_['text_edit']                        = 'Edit Royal Mail Shipping';
+$_['text_success']                     = 'Успешно: You have modified Royal Mail shipping!';
+$_['text_edit']                        = 'Редакция Royal Mail Shipping';
 
 // Entry
 $_['entry_rate']                       = 'Rates';
@@ -20,7 +20,7 @@ $_['entry_weight_class']               = 'Weight Class';
 $_['entry_tax_class']                  = 'Tax Class';
 $_['entry_geo_zone']                   = 'Geo Zone';
 $_['entry_status']                     = 'Status';
-$_['entry_sort_order']                 = 'Sort Order';
+$_['entry_sort_order']                 = 'Подредба';
 
 // Help
 $_['help_rate']                        = 'Example: 5:10.00,7:12.00 Weight:Cost,Weight:Cost, etc..';

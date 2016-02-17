@@ -3,8 +3,8 @@
 $_['heading_title']					= 'PayPal Pro iFrame';
 
 // Text
-$_['text_success']					= 'Success: You have modified PayPal Pro iFrame account details!';
-$_['text_edit']                     = 'Edit PayPal Pro iFrame';
+$_['text_success']					= 'Успешно: You have modified PayPal Pro iFrame account details!';
+$_['text_edit']                     = 'Редакция PayPal Pro iFrame';
 $_['text_pp_pro_iframe']			= '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			= 'Authorization';
 $_['text_sale']						= 'Sale';
@@ -27,7 +27,7 @@ $_['text_transaction']				= 'Transaction';
 $_['text_product_lines']			= 'Product lines';
 $_['text_ebay_txn_id']				= 'eBay transaction ID';
 $_['text_name']						= 'Name';
-$_['text_qty']						= 'Quantity';
+$_['text_qty']						= 'Количество';
 $_['text_price']					= 'Price';
 $_['text_number']					= 'Number';
 $_['text_coupon_id']				= 'Coupon ID';
@@ -59,8 +59,8 @@ $_['text_payer_firstname']			= 'Payer first name';
 $_['text_payer_middlename']			= 'Payer middle name';
 $_['text_payer_lastname']			= 'Payer last name';
 $_['text_payer_suffix']				= 'Payer suffix';
-$_['text_address_owner']			= 'Address owner';
-$_['text_address_status']			= 'Address status';
+$_['text_address_owner']			= 'Добавянеress owner';
+$_['text_address_status']			= 'Добавянеress status';
 $_['text_ship_sec_name']			= 'Ship to secondary name';
 $_['text_ship_name']				= 'Ship to name';
 $_['text_ship_street1']				= 'Ship to address 1';
@@ -115,7 +115,7 @@ $_['column_type']					= 'Payment type';
 $_['column_status']					= 'Status';
 $_['column_pend_reason']			= 'Pending reason';
 $_['column_date_added']				= 'Created';
-$_['column_action']					= 'Action';
+$_['column_action']					= 'Действие';
 
 // Tab
 $_['tab_settings']					= 'Settings';

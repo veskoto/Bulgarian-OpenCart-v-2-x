@@ -41,11 +41,11 @@ $_['text_filter_range_to']          = 'Max';
 $_['text_filter_var']             	= 'Include variants';
 
 // Tables
-$_['column_action']            		= 'Action';
+$_['column_action']            		= 'Действие';
 $_['column_status']            		= 'Status';
 $_['column_variants']          		= 'Variants';
 $_['column_item_id']            	= 'eBay item ID';
-$_['column_product']           		= 'Product';
+$_['column_product']           		= 'Продукт';
 $_['column_product_auto']      		= 'Product name (auto complete)';
 $_['column_listing_title']     		= 'eBay listing title';
 $_['column_allocated']         		= 'Allocated stock';

@@ -3,21 +3,21 @@
 $_['heading_title']    = 'Length Classes';
 
 // Text
-$_['text_success']     = 'Success: You have modified length classes!';
+$_['text_success']     = 'Успешно: You have modified length classes!';
 $_['text_list']        = 'Length Class List';
-$_['text_add']         = 'Add Length Class';
-$_['text_edit']        = 'Edit Length Class';
+$_['text_add']         = 'Добавяне Length Class';
+$_['text_edit']        = 'Редакция Length Class';
 
 // Column
 $_['column_title']     = 'Length Title';
 $_['column_unit']      = 'Length Unit';
-$_['column_value']     = 'Value';
-$_['column_action']    = 'Action';
+$_['column_value']     = 'Стойност';
+$_['column_action']    = 'Действие';
 
 // Entry
 $_['entry_title']      = 'Length Title';
 $_['entry_unit']       = 'Length Unit';
-$_['entry_value']      = 'Value';
+$_['entry_value']      = 'Стойност';
 
 // Help
 $_['help_value']       = 'Set to 1.00000 if this is your default length.';

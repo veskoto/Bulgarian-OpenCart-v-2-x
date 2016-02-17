@@ -6,7 +6,7 @@ $_['text_openbay']                  = 'OpenBay Pro';
 
 // Columns
 $_['column_name']            		= 'Template name';
-$_['column_action']            		= 'Action';
+$_['column_action']            		= 'Действие';
 
 // Entry
 $_['entry_template_name']           = 'Name';
@@ -18,8 +18,8 @@ $_['text_updated']                  = 'Template has been updated';
 $_['text_deleted']                  = 'Template has been deleted';
 $_['text_confirm_delete']           = 'Are you sure you want to delete the template?';
 $_['text_list']           			= 'Template list';
-$_['text_add']      				= 'Add profile';
-$_['text_edit']      				= 'Edit profile';
+$_['text_add']      				= 'Добавяне profile';
+$_['text_edit']      				= 'Редакция profile';
 
 // Error
 $_['error_name']               		= 'You must enter a template name';

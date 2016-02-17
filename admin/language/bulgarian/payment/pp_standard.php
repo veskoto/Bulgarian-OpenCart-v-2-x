@@ -4,14 +4,14 @@ $_['heading_title']					 = 'PayPal Payments Standard';
 
 // Text
 $_['text_payment']					 = 'Payment';
-$_['text_success']					 = 'Success: You have modified PayPal account details!';
-$_['text_edit']                      = 'Edit PayPal Payments Standard';
+$_['text_success']					 = 'Успешно: You have modified PayPal account details!';
+$_['text_edit']                      = 'Редакция PayPal Payments Standard';
 $_['text_pp_standard']				 = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization']			 = 'Authorization';
 $_['text_sale']						 = 'Sale'; 
 
 // Entry
-$_['entry_email']					 = 'E-Mail';
+$_['entry_email']					 = 'Имейл';
 $_['entry_test']					 = 'Sandbox Mode';
 $_['entry_transaction']				 = 'Transaction Method';
 $_['entry_debug']					 = 'Debug Mode';
@@ -28,7 +28,7 @@ $_['entry_reversed_status']			 = 'Reversed Status';
 $_['entry_voided_status']			 = 'Voided Status';
 $_['entry_geo_zone']				 = 'Geo Zone';
 $_['entry_status']					 = 'Status';
-$_['entry_sort_order']				 = 'Sort Order';
+$_['entry_sort_order']				 = 'Подредба';
 
 // Tab
 $_['tab_general']					 = 'General';

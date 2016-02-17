@@ -4,8 +4,8 @@ $_['heading_title']					 = 'Realex Redirect';
 
 // Text
 $_['text_payment']				  	 = 'Payment';
-$_['text_success']					 = 'Success: You have modified Realex account details!';
-$_['text_edit']                      = 'Edit Realex Redirect';
+$_['text_success']					 = 'Успешно: You have modified Realex account details!';
+$_['text_edit']                      = 'Редакция Realex Redirect';
 $_['text_live']						 = 'Live';
 $_['text_demo']						 = 'Demo';
 $_['text_card_type']				 = 'Card type';
@@ -38,7 +38,7 @@ $_['text_order_total']				 = 'Total authorised';
 $_['text_total_captured']			 = 'Total captured';
 $_['text_transactions']				 = 'Transactions';
 $_['text_column_amount']			 = 'Amount';
-$_['text_column_type']				 = 'Type';
+$_['text_column_type']				 = 'Тип';
 $_['text_column_date_added']		 = 'Created';
 $_['text_confirm_void']				 = 'Are you sure you want to void the payment?';
 $_['text_confirm_capture']			 = 'Are you sure you want to capture the payment?';

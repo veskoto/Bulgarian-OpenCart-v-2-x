@@ -46,15 +46,15 @@ $_['text_product_sent'] 			= 'Product was successfully sent to Amazon.';
 $_['text_links_removed'] 			= 'Amazon product links deleted';
 $_['text_product_links'] 			= 'Product links';
 $_['text_has_saved_listings'] 		= 'This product has one or more saved listings that is not uploaded';
-$_['text_edit_heading'] 			= 'Edit listing';
+$_['text_edit_heading'] 			= 'Редакция listing';
 
 // Columns
 $_['column_image'] 					= 'Image';
 $_['column_asin'] 					= 'ASIN';
 $_['column_price'] 					= 'Price';
-$_['column_action'] 				= 'Action';
+$_['column_action'] 				= 'Действие';
 $_['column_name'] 					= 'Product Name';
-$_['column_model'] 					= 'Model';
+$_['column_model'] 					= 'Модел';
 $_['column_combination'] 			= 'Variant Combination';
 $_['column_sku_variant'] 			= 'Variant SKU';
 $_['column_sku'] 					= 'Product SKU';
@@ -67,7 +67,7 @@ $_['entry_condition_note'] 			= 'Condition Note';
 $_['entry_price'] 					= 'Price';
 $_['entry_sale_price'] 				= 'Sale Price';
 $_['entry_sale_date'] 				= 'Sale date range';
-$_['entry_quantity'] 				= 'Quantity';
+$_['entry_quantity'] 				= 'Количество';
 $_['entry_start_selling'] 			= 'Available from date';
 $_['entry_restock_date'] 			= 'Restock Date';
 $_['entry_country_of_origin'] 		= 'Country of Origin';
@@ -80,7 +80,7 @@ $_['entry_category'] 				= 'Amazon category';
 //Tabs
 $_['tab_main'] 						= 'Main';
 $_['tab_required'] 					= 'Required info';
-$_['tab_additional'] 				= 'Additional options';
+$_['tab_additional'] 				= 'Добавянеitional options';
 
 //Errors
 $_['error_text_missing'] 			= 'You must enter some search details';

@@ -4,16 +4,16 @@ $_['heading_title']      = 'Anti-Fraud IP';
 
 // Text
 $_['text_fraud']         = 'Anti-Fraud';
-$_['text_success']       = 'Success: You have modified Anti-Fraud IP!';
-$_['text_edit']          = 'Edit Anti-Fraud IP';
-$_['text_ip_add']        = 'Add IP Address';
+$_['text_success']       = 'Успешно: You have modified Anti-Fraud IP!';
+$_['text_edit']          = 'Редакция Anti-Fraud IP';
+$_['text_ip_add']        = 'Добавяне IP Address';
 $_['text_ip_list']       = 'Fraud IP Address List';
 
 // Column
 $_['column_ip']          = 'IP';
 $_['column_total']       = 'Total Accounts';
-$_['column_date_added']  = 'Date Added';
-$_['column_action']      = 'Action';
+$_['column_date_added']  = 'Датата на добавяне';
+$_['column_action']      = 'Действие';
 
 // Entry
 $_['entry_ip']           = 'IP';

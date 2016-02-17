@@ -3,20 +3,20 @@
 $_['heading_title']        = 'APIs';
 
 // Text
-$_['text_success']         = 'Success: You have modified APIs!';
+$_['text_success']         = 'Успешно: You have modified APIs!';
 $_['text_list']            = 'API List';
-$_['text_add']             = 'Add API';
-$_['text_edit']            = 'Edit API';
+$_['text_add']             = 'Добавяне API';
+$_['text_edit']            = 'Редакция API';
 $_['text_ip']              = 'Below you can create a list of IP\'s allowed to access the API. Your current IP is %s';
 
 // Column
 $_['column_name']          = 'API Name';
 $_['column_status']        = 'Status';
-$_['column_date_added']    = 'Date Added';
-$_['column_date_modified'] = 'Date Modified';
+$_['column_date_added']    = 'Датата на добавяне';
+$_['column_date_modified'] = 'Дата на промяна';
 $_['column_token']         = 'Token';
 $_['column_ip']            = 'IP';
-$_['column_action']        = 'Action';
+$_['column_action']        = 'Действие';
 
 // Entry
 $_['entry_name']           = 'API Name';

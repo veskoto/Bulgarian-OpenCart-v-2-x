@@ -4,8 +4,8 @@ $_['heading_title']    = 'Featured';
 
 // Text
 $_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified featured module!';
-$_['text_edit']        = 'Edit Featured Module';
+$_['text_success']     = 'Успешно: You have modified featured module!';
+$_['text_edit']        = 'Редакция Featured Module';
 
 // Entry
 $_['entry_name']       = 'Module Name';
