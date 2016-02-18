@@ -8,10 +8,10 @@
  *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
  */
 // Heading
-$_['heading_title']          = 'Информация';
+$_['heading_title']          = 'Страници';
 
 // Text
-$_['text_success']           = 'Успешно: Променихте информацията!';
+$_['text_success']           = 'Успешно: Променихте страници!';
 $_['text_list']              = 'Списък';
 $_['text_add']               = 'Добавяне';
 $_['text_edit']              = 'Редакция';

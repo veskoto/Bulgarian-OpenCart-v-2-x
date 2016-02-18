@@ -86,7 +86,7 @@ $_['text_general_price_help']   		= '0 is default, -10 will reduce by 10%, 10 wi
 $_['text_profile_name']         		= 'Name';
 $_['text_profile_default']      		= 'Основен';
 $_['text_profile_type']         		= 'Тип';
-$_['text_profile_desc']         		= 'Description';
+$_['text_profile_desc']         		= 'Описание';
 $_['text_profile_action']       		= 'Действие';
 
 // Profile types

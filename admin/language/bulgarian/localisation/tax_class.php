@@ -1,12 +1,13 @@
 <?php
+//TODO
 // Heading
-$_['heading_title']     = 'Tax Classes';
+$_['heading_title']     = 'Данъчни класове';
 
 // Text
-$_['text_success']      = 'Успешно: Променихте tax classes!';
-$_['text_list']         = 'Tax Class Списък';
-$_['text_add']          = 'Добавяне Tax Class';
-$_['text_edit']         = 'Редакция Tax Class';
+$_['text_success']      = 'Успешно: Променихте данъчни класове!';
+$_['text_list']         = 'Списък';
+$_['text_add']          = 'Добавяне';
+$_['text_edit']         = 'Редакция';
 $_['text_shipping']     = 'Shipping Address';
 $_['text_payment']      = 'Payment Address';
 $_['text_store']        = 'Store Address';
@@ -17,7 +18,7 @@ $_['column_action']     = 'Действие';
 
 // Entry
 $_['entry_title']       = 'Tax Class Title';
-$_['entry_description'] = 'Description';
+$_['entry_description'] = 'Описание';
 $_['entry_rate']        = 'Tax Rate';
 $_['entry_based']       = 'Based On';
 $_['entry_geo_zone']    = 'Geo Zone';

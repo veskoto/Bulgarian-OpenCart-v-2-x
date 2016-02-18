@@ -45,7 +45,7 @@ $_['entry_stock_range'] 				= 'Stock range';
 $_['entry_category'] 					= 'Category';
 $_['entry_populated'] 					= 'Populated';
 $_['entry_sku'] 						= 'SKU';
-$_['entry_description'] 				= 'Description';
+$_['entry_description'] 				= 'Описание';
 
 // Button
 $_['button_error_fix']              	= 'Fix errors';

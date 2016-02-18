@@ -11,7 +11,7 @@ $_['button_plan_change']  		= 'Change to plan';
 $_['column_plan']  				= 'Plan name';
 $_['column_call_limit']  		= 'Call limit';
 $_['column_price']  			= 'Price (p/month)';
-$_['column_description']  		= 'Description';
+$_['column_description']  		= 'Описание';
 $_['column_current']  			= 'Current plan';
 
 // Text

@@ -56,7 +56,7 @@ $_['text_today_express_saver']     = 'UPS Today Express Saver';
 // Entry
 $_['entry_key']                    = 'Access Key';
 $_['entry_username']               = 'Username';
-$_['entry_password']               = 'Password';
+$_['entry_password']               = 'Парола';
 $_['entry_pickup']                 = 'Pickup Method';
 $_['entry_packaging']              = 'Packaging Type';
 $_['entry_classification']         = 'Customer Classification Code';

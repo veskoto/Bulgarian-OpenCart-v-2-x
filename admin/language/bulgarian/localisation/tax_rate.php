@@ -1,33 +1,41 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']        = 'Tax Rates';
+$_['heading_title']        = 'Данъчни ставки';
 
 // Text
-$_['text_success']         = 'Успешно: Променихте tax rates!';
-$_['text_list']            = 'Tax Rate Списък';
-$_['text_add']             = 'Добавяне Tax Rate';
-$_['text_edit']            = 'Редакция Tax Rate';
-$_['text_percent']         = 'Percentage';
-$_['text_amount']          = 'Fixed Amount';
+$_['text_success']         = 'Успешно: Променихте данъчни ставки!';
+$_['text_list']            = 'Списък';
+$_['text_add']             = 'Добавяне';
+$_['text_edit']            = 'Редакция';
+$_['text_percent']         = 'В проценти';
+$_['text_amount']          = 'Фиксирана сума';
 
 // Column
-$_['column_name']          = 'Tax Name';
-$_['column_rate']          = 'Tax Rate';
+$_['column_name']          = 'Име';
+$_['column_rate']          = 'Ставка';
 $_['column_type']          = 'Тип';
-$_['column_geo_zone']      = 'Geo Zone';
+$_['column_geo_zone']      = 'За зона';
 $_['column_date_added']    = 'Датата на добавяне';
 $_['column_date_modified'] = 'Дата на промяна';
 $_['column_action']        = 'Действие';
 
 // Entry
-$_['entry_name']           = 'Tax Name';
-$_['entry_rate']           = 'Tax Rate';
+$_['entry_name']           = 'Име';
+$_['entry_rate']           = 'ставка';
 $_['entry_type']           = 'Тип';
 $_['entry_customer_group'] = 'Клиентска група';
-$_['entry_geo_zone']       = 'Geo Zone';
+$_['entry_geo_zone']       = 'За зона';
 
 // Error
-$_['error_permission']     = 'Внимание: Нямате права за редакция на tax rates!';
-$_['error_tax_rule']       = 'Внимание: This tax rate cannot be deleted as it is currently assigned to %s tax classes!';
-$_['error_name']           = 'Tax Name трябва да е между 3 и 32 символа!';
-$_['error_rate']           = 'Tax Rate required!';
+$_['error_permission']     = 'Внимание: Нямате права за редакция на tax данъчни ставки!';
+$_['error_tax_rule']       = 'Внимание: Тази данъчна ставка не може да се изтрие, тъй като в момента е назначена към %s данъчни класове!';
+$_['error_name']           = 'Името трябва да е между 3 и 32 символа!';
+$_['error_rate']           = 'Ставката е задължителна!';

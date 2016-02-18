@@ -10,7 +10,7 @@ $_['text_edit']         = 'Редакция HTML Content Module';
 // Entry
 $_['entry_name']        = 'Module Name';
 $_['entry_title']       = 'Heading Title';
-$_['entry_description'] = 'Description';
+$_['entry_description'] = 'Описание';
 $_['entry_status']      = 'Статус';
 
 // Error

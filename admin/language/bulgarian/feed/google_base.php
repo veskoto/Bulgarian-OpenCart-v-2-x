@@ -1,9 +1,10 @@
 <?php
+//TODO
 // Heading
 $_['heading_title']          = 'Google Base';
 
 // Text
-$_['text_feed']              = 'Feeds';
+$_['text_feed']              = 'Feeds канали';
 $_['text_success']           = 'Успешно: Променихте Google Base feed!';
 $_['text_edit']              = 'Редакция Google Base';
 $_['text_import']            = 'To download the latest Google category list by <a href="https://support.google.com/merchants/answer/160081?hl=en" target="_blank" class="alert-link">clicking here</a> and choose taxonomy with numeric IDs in Plain Text (.txt) file. Upload via the green import button.';

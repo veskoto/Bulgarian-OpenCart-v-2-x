@@ -1,30 +1,38 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']     = 'Customer Groups';
+$_['heading_title']     = 'Клиентски групи';
 
 // Text
-$_['text_success']      = 'Успешно: Променихте customer groups!';
-$_['text_list']         = 'Customer Group Списък';
-$_['text_add']          = 'Добавяне Customer Group';
-$_['text_edit']         = 'Редакция Customer Group';
+$_['text_success']      = 'Успешно: Променихте клиентски групи!';
+$_['text_list']         = 'Списък';
+$_['text_add']          = 'Добавяне';
+$_['text_edit']         = 'Редакция';
 
 // Column
-$_['column_name']       = 'Customer Group Name';
+$_['column_name']       = 'Име';
 $_['column_sort_order'] = 'Подредба';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Customer Group Name';
-$_['entry_description'] = 'Description';
-$_['entry_approval']    = 'Approve New Customers';
+$_['entry_name']        = 'Име';
+$_['entry_description'] = 'Описание';
+$_['entry_approval']    = 'Одобрение за нови клиенти';
 $_['entry_sort_order']  = 'Подредба';
 
 // Help
-$_['help_approval']     = 'Customers must be approved by an administrator before they can login.';
+$_['help_approval']     = 'Клиентите трябва да бъдат одобрени от администратор, преди те да могат да се логнете.';
 
 // Error
-$_['error_permission']   = 'Внимание: Нямате права за редакция на customer groups!';
-$_['error_name']         = 'Customer Group Name трябва да е между 3 и 32 символа!';
-$_['error_default']      = 'Внимание: This customer group cannot be deleted as it is currently assigned as the default store customer group!';
-$_['error_store']        = 'Внимание: This customer group cannot be deleted as it is currently assigned to %s магазина!';
-$_['error_customer']     = 'Внимание: This customer group cannot be deleted as it is currently assigned to %s customers!';
+$_['error_permission']   = 'Внимание: Нямате права за редакция на клиентски групи!';
+$_['error_name']         = 'Името трябва да е между 3 и 32 символа!';
+$_['error_default']      = 'Внимание: Тази група не може да бъде изтрита, защот се ползва основна за магазина!';
+$_['error_store']        = 'Внимание: Тази група не може да бъде изтрита, защот се ползва от %s магазина!';
+$_['error_customer']     = 'Внимание: Тази група не може да бъде изтрита, защот се ползва от %s клиента!';

@@ -12,7 +12,7 @@ $_['text_sale']						= 'Sale';
 // Entry
 $_['entry_vendor']					= 'Vendor';
 $_['entry_user']					= 'User';
-$_['entry_password']				= 'Password';
+$_['entry_password']				= 'Парола';
 $_['entry_partner']					= 'Partner';
 $_['entry_test']					= 'Test Mode';
 $_['entry_transaction']				= 'Transaction Method';

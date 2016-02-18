@@ -212,7 +212,7 @@ $_['help_encryption']                  = 'Please provide a secret key that will 
 $_['help_compression']                 = 'GZIP for more efficient transfer to requesting clients. Compression level must be between 0 - 9.';
 
 // Error
-$_['error_warning']                    = 'Внимание: Please check the form carefully for errors!';
+$_['error_warning']                    = 'Внимание: Моля, проверете формата внимателно за грешки!';
 $_['error_permission']                 = 'Внимание: Нямате права за редакция на settings!';
 $_['error_name']                       = 'Store Name трябва да е между 3 и 32 символа!';
 $_['error_owner']                      = 'Store Owner трябва да е между 3 и 64 символа!';

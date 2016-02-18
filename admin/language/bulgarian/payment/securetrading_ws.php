@@ -30,7 +30,7 @@ $_['text_pending_settled'] = 'Settled';
 
 $_['entry_site_reference'] = 'Site reference';
 $_['entry_username'] = 'Username';
-$_['entry_password'] = 'Password';
+$_['entry_password'] = 'Парола';
 $_['entry_csv_username'] = 'CSV username';
 $_['entry_csv_password'] = 'CSV password';
 $_['entry_3d_secure'] = 'Use 3D Secure';

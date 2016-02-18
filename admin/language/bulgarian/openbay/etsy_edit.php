@@ -14,7 +14,7 @@ $_['text_edit']  				= 'Update your Etsy listing';
 
 // Entry
 $_['entry_title']      			= 'Product title';
-$_['entry_description']     	= 'Description';
+$_['entry_description']     	= 'Описание';
 $_['entry_price']      			= 'Price';
 $_['entry_state']      			= 'State';
 

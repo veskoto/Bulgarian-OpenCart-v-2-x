@@ -51,11 +51,11 @@ $_['entry_date_modified'] = 'Дата на промяна';
 $_['help_product']        = '(Autocomplete)';
 
 // Error
-$_['error_warning']       = 'Внимание: Please check the form carefully for errors!';
+$_['error_warning']       = 'Внимание: Моля, проверете формата внимателно за грешки!';
 $_['error_permission']    = 'Внимание: Нямате права за редакция на returns!';
 $_['error_order_id']      = 'Order ID required!';
-$_['error_firstname']     = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']      = 'Last Name must be between 1 and 32 characters!';
+$_['error_firstname']     = 'First Name трябва да е между 1 и 32 символа!';
+$_['error_lastname']      = 'Last Name трябва да е между 1 и 32 символа!';
 $_['error_email']         = 'Невалиден имейл адрес!';
 $_['error_telephone']     = 'Telephone трябва да е между 3 и 32 символа!';
 $_['error_product']       = 'Product Name must be greater than 3 and less than 255 characters!';

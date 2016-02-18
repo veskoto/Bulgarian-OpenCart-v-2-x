@@ -8,7 +8,7 @@
  *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
  */
 // Heading
-$_['heading_title']    = 'Управление на картинки';
+$_['heading_title']    = 'Управление на изображения';
 
 // Text
 $_['text_uploaded']    = 'Успешно: Вашият файл е качен!';

@@ -44,7 +44,7 @@ $_['text_account_rate']                        = 'Account Rate';
 
 // Entry
 $_['entry_key']                                = 'Key';
-$_['entry_password']                           = 'Password';
+$_['entry_password']                           = 'Парола';
 $_['entry_account']                            = 'Account Number';
 $_['entry_meter']                              = 'Meter Number';
 $_['entry_postcode']                           = 'Post Code';

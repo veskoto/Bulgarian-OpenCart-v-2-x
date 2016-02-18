@@ -107,7 +107,7 @@ $_['help_icon']                        = 'The icon should be a PNG that is 16px 
 $_['help_secure']                      = 'To use SSL check with your host if a SSL certificate is installed.';
 
 // Error
-$_['error_warning']                    = 'Внимание: Please check the form carefully for errors!';
+$_['error_warning']                    = 'Внимание: Моля, проверете формата внимателно за грешки!';
 $_['error_permission']                 = 'Внимание: Нямате права за редакция на магазина!';
 $_['error_name']                       = 'Store Name трябва да е между 3 и 32 символа!';
 $_['error_owner']                      = 'Store Owner трябва да е между 3 и 64 символа!';

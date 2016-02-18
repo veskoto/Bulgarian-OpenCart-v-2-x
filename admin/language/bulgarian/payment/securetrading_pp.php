@@ -16,7 +16,7 @@ $_['text_pending_settled'] = 'Settled';
 
 $_['entry_site_reference'] = 'Site reference';
 $_['entry_username'] = 'Username';
-$_['entry_password'] = 'Password';
+$_['entry_password'] = 'Парола';
 $_['entry_site_security_status'] = 'Use Site Security hash';
 $_['entry_site_security_password'] = 'Site Security password';
 $_['entry_notification_password'] = 'Notification password';

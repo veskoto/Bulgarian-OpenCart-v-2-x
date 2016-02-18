@@ -1,24 +1,32 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']         = 'Custom Fields';
+$_['heading_title']         = 'Потребителски полета';
 
 // Text
-$_['text_success']          = 'Успешно: Променихте custom fields!';
-$_['text_list']             = 'Custom Field Списък';
-$_['text_add']              = 'Добавяне Custom Field';
-$_['text_edit']             = 'Редакция Custom Field';
-$_['text_choose']           = 'Choose';
-$_['text_select']           = 'Select';
-$_['text_radio']            = 'Radio';
-$_['text_checkbox']         = 'Checkbox';
-$_['text_input']            = 'Input';
-$_['text_text']             = 'Text';
-$_['text_textarea']         = 'Textarea';
-$_['text_file']             = 'File';
-$_['text_date']             = 'Date';
-$_['text_datetime']         = 'Date &amp; Time';
-$_['text_time']             = 'Time';
-$_['text_account']          = 'Account';
+$_['text_success']          = 'Успешно: Променихте потребителски полета!';
+$_['text_list']             = 'Списък';
+$_['text_add']              = 'Добавяне';
+$_['text_edit']             = 'Редакция';
+$_['text_choose']           = 'Избираеми';
+$_['text_select']           = 'Падащо меню';
+$_['text_radio']            = 'Единичн избор';
+$_['text_checkbox']         = 'Отметка';
+$_['text_input']            = 'Инпут';
+$_['text_text']             = 'Текст';
+$_['text_textarea']         = 'Текстов бокс';
+$_['text_file']             = 'Файл';
+$_['text_date']             = 'Дата';
+$_['text_datetime']         = 'Дата и час';
+$_['text_time']             = 'Час';
+$_['text_account']          = 'Акаунт';
 $_['text_address']          = 'Адрес';
 
 // Column
@@ -33,17 +41,17 @@ $_['entry_name']            = 'Име на полето';
 $_['entry_location']        = 'Локализация';
 $_['entry_type']            = 'Тип';
 $_['entry_value']           = 'Стойност';
-$_['entry_custom_value']    = 'Custom Field Value Name';
+$_['entry_custom_value']    = 'Заглавие на стойността';
 $_['entry_customer_group']  = 'Клиентска група';
-$_['entry_required']        = 'Required';
+$_['entry_required']        = 'Задължително';
 $_['entry_status']          = 'Статус';
 $_['entry_sort_order']      = 'Подредба';
 
 // Help
-$_['help_sort_order']       = 'Use minus to count backwards from the last field in the set.';
+$_['help_sort_order']       = 'Използвайте минус да брои назад от последното поле в комплекта.';
 
 // Error
-$_['error_permission']      = 'Внимание: Нямате права за редакция на custom fields!';
-$_['error_name']            = 'Custom Field Name must be between 1 and 128 characters!';
-$_['error_type']            = 'Внимание: Custom Field Values required!';
-$_['error_custom_value']    = 'Custom Value Name must be between 1 and 128 characters!';
+$_['error_permission']      = 'Внимание: Нямате права за редакция на потребителски полета!';
+$_['error_name']            = 'Името на полето трябва да е между 3 и 128 символа!';
+$_['error_type']            = 'Внимание: Стойността е задължителна!';
+$_['error_custom_value']    = 'Заглавието на стойността трябва да е между 3 и 128 символа!';

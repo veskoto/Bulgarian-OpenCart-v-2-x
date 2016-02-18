@@ -86,7 +86,7 @@ $_['entry_related']          = 'Свързани продукти';
 $_['entry_tag']          	 = 'Тагове';
 $_['entry_reward']           = 'Бонус точки';
 $_['entry_layout']           = 'Промяна на изгледа';
-$_['entry_recurring']        = 'Recurring Profile'; //TODO
+$_['entry_recurring']        = 'Повтарящи се';
 
 // Help
 $_['help_keyword']           = 'Не използвайте празни пространства - вместо тях заменете пространства с - и се уверете, че SEO URL е уникално.';
@@ -99,7 +99,7 @@ $_['help_mpn']               = 'Manufacturer Part Number';
 $_['help_manufacturer']      = '(Автоматично довършване)';
 $_['help_minimum']           = 'Принудително минимално количество';
 $_['help_stock_status']      = 'Статус за показване, когато продукта не е наличен';
-$_['help_points']            = 'Number of points needed to buy this item. If you don\'t want this product to be purchased with points leave as 0.';
+$_['help_points']            = 'Брой бонус точки, необходими, за да купите този артикул. Ако не желаете този продукт да бъде закупен с бонус точки оставете 0.';
 $_['help_category']          = '(Автоматично довършване)';
 $_['help_filter']            = '(Автоматично довършване)';
 $_['help_download']          = '(Автоматично довършване)';
