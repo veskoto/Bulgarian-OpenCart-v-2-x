@@ -1,33 +1,41 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title'] = 'Login with Amazon';
+$_['heading_title'] = 'Вход с Amazon';
 
 //Text
-$_['text_module'] = 'Modules';
-$_['text_success'] = 'Успешно: Променихте module Login with Amazon!';
-$_['text_content_top'] = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left'] = 'Column Left';
-$_['text_column_right'] = 'Column Right';
-$_['text_lwa_button'] = 'Login with Amazon';
-$_['text_login_button'] = 'Login';
-$_['text_a_button'] = 'A';
-$_['text_gold_button'] = 'Gold';
-$_['text_darkgray_button'] = 'Dark Gray';
-$_['text_lightgray_button'] = 'Light Gray';
-$_['text_small_button'] = 'Small';
-$_['text_medium_button'] = 'Medium';
-$_['text_large_button'] = 'Large';
-$_['text_x_large_button'] = 'X-Large';
+$_['text_module'] = 'Модули';
+$_['text_success'] = 'Успешно: Променихте вход с Amazon!';
+$_['text_content_top'] = 'Съдържание горе';
+$_['text_content_bottom'] = 'Съдържание долу';
+$_['text_column_left'] = 'Лява колона';
+$_['text_column_right'] = 'Дясна колона';
+$_['text_lwa_button'] = 'Вход с Amazon';
+$_['text_login_button'] = 'Вход';
+$_['text_a_button'] = '???'; //TODO
+$_['text_gold_button'] = 'Златен';
+$_['text_darkgray_button'] = 'Тъмно сиво';
+$_['text_lightgray_button'] = 'Светло сиво';
+$_['text_small_button'] = 'Малък';
+$_['text_medium_button'] = 'Среден';
+$_['text_large_button'] = 'Голям';
+$_['text_x_large_button'] = 'Огромен';
 
 //Entry
-$_['entry_button_type'] = 'Button Type';
-$_['entry_button_colour'] = 'Button Colour';
-$_['entry_button_size'] = 'Button Size';
-$_['entry_layout'] = 'Layout';
-$_['entry_position'] = 'Position';
+$_['entry_button_type'] = 'Тип на бутона';
+$_['entry_button_colour'] = 'Цвят на бутона';
+$_['entry_button_size'] = 'Големина на бутона';
+$_['entry_layout'] = 'Макет';
+$_['entry_position'] = 'Позиция';
 $_['entry_status'] = 'Статус';
 $_['entry_sort_order'] = 'Подредба';
 
 //Error
-$_['error_permission'] = 'Внимание: Нямате права за редакция на module Login with Amazon!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на вход с Amazon!';

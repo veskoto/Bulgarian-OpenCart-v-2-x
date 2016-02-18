@@ -1,26 +1,33 @@
 <?php
-//TODO
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']             = 'Affiliates';
+$_['heading_title']             = 'Партньоска програма';
 
 // Text
-$_['text_success']              = 'Успешно: Променихте affiliates!';
-$_['text_approved']             = 'You have approved %s accounts!';
-$_['text_list']                 = 'Affiliate Списък';
-$_['text_add']                  = 'Добавяне Affiliate';
-$_['text_edit']                 = 'Редакция Affiliate';
-$_['text_affiliate_detail']     = 'Affiliate Details';
-$_['text_affiliate_address']    = 'Affiliate Address';
-$_['text_balance']              = 'Balance';
-$_['text_cheque']               = 'Cheque';
+$_['text_success']              = 'Успешно: Променихте партньоска програма!';
+$_['text_approved']             = 'Одобрихте %s акаунт(и)!';
+$_['text_list']                 = 'Списък';
+$_['text_add']                  = 'Добавяне';
+$_['text_edit']                 = 'Редакция';
+$_['text_affiliate_detail']     = 'Детайли';
+$_['text_affiliate_address']    = 'Адрес';
+$_['text_balance']              = 'Баланс';
+$_['text_cheque']               = 'Чек';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
+$_['text_bank']                 = 'Банков трансфер';
 
 // Column
-$_['column_name']               = 'Affiliate Name';
+$_['column_name']               = 'Име';
 $_['column_email']              = 'Имейл';
-$_['column_code']               = 'Tracking Code';
-$_['column_balance']            = 'Balance';
+$_['column_code']               = 'Проследяващ код';
+$_['column_balance']            = 'Баланс';
 $_['column_status']             = 'Статус';
 $_['column_approved']           = 'Одобрен';
 $_['column_date_added']         = 'Датата на добавяне';
@@ -28,6 +35,7 @@ $_['column_description']        = 'Описание';
 $_['column_amount']             = 'Количество';
 $_['column_action']             = 'Действие';
 
+//TODO
 // Entry
 $_['entry_firstname']           = 'Име';
 $_['entry_lastname']            = 'Фамилия';
@@ -38,27 +46,27 @@ $_['entry_status']              = 'Статус';
 $_['entry_password']            = 'Парола';
 $_['entry_confirm']             = 'Порвърди';
 $_['entry_company']             = 'Фирма';
-$_['entry_website']             = 'Web Site';
-$_['entry_address_1']           = 'Добавянеress 1';
-$_['entry_address_2']           = 'Добавянеress 2';
+$_['entry_website']             = 'Интернет сайт';
+$_['entry_address_1']           = 'Адрес 1';
+$_['entry_address_2']           = 'Адрес 2';
 $_['entry_city']                = 'Град';
 $_['entry_postcode']            = 'Пощенски код';
 $_['entry_country']             = 'Държава';
 $_['entry_zone']                = 'Област';
-$_['entry_code']                = 'Tracking Code';
-$_['entry_commission']          = 'Commission (%)';
-$_['entry_tax']                 = 'Tax ID';
+$_['entry_code']                = 'Проследяващ код';
+$_['entry_commission']          = 'Комисионна (%)';
+$_['entry_tax']                 = 'Данъци ID';
 $_['entry_payment']             = 'Начин на плащане';
-$_['entry_cheque']              = 'Cheque Payee Name';
+$_['entry_cheque']              = 'Име на бенефициента';
 $_['entry_paypal']              = 'PayPal Email Account';
-$_['entry_bank_name']           = 'Bank Name';
+$_['entry_bank_name']           = 'Име на банка';
 $_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number)';
 $_['entry_bank_swift_code']     = 'SWIFT Code';
 $_['entry_bank_account_name']   = 'Account Name';
 $_['entry_bank_account_number'] = 'Account Number';
 $_['entry_amount']              = 'Количество';
 $_['entry_description']         = 'Описание';
-$_['entry_name']                = 'Affiliate Name';
+$_['entry_name']                = 'Име';
 $_['entry_approved']            = 'Одобрен';
 $_['entry_date_added']          = 'Датата на добавяне';
 
@@ -70,19 +78,19 @@ $_['help_commission']           = 'Percentage the affiliate receives on each ord
 $_['error_warning']             = 'Внимание: Моля, проверете формата внимателно за грешки!';
 $_['error_permission']          = 'Внимание: Нямате права за редакция на affiliates!';
 $_['error_exists']              = 'Внимание: E-Mail Address is already registered!';
-$_['error_firstname']           = 'First Name трябва да е между 1 и 32 символа!';
-$_['error_lastname']            = 'Last Name трябва да е между 1 и 32 символа!';
+$_['error_firstname']           = 'Името трябва да е между 1 и 32 символа!';
+$_['error_lastname']            = 'Фамилията трябва да е между 1 и 32 символа!';
 $_['error_email']               = 'Невалиден имейл адрес!';
-$_['error_cheque']              = 'Cheque Payee Name required!';
-$_['error_paypal']              = 'PayPal Email Address does not appear to be valid!!';
-$_['error_bank_account_name']   = 'Account Name required!';
-$_['error_bank_account_number'] = 'Account Number required!';
-$_['error_telephone']           = 'Telephone трябва да е между 3 и 32 символа!';
-$_['error_password']            = 'Password трябва да е между 4 и 20 символа!';
-$_['error_confirm']             = 'Password and password confirmation do not match!';
-$_['error_address_1']           = 'Добавянеress 1 трябва да е между 3 и 128 символа!';
-$_['error_city']                = 'City трябва да е между 2 и 128 символа!';
-$_['error_postcode']            = 'Postcode трябва да е между 2 и 10 символа for this country!';
-$_['error_country']             = 'Please select a country!';
-$_['error_zone']                = 'Please select a region / state!';
-$_['error_code']                = 'Tracking Code required!';
+$_['error_cheque']              = 'Името на бенефициента задължителено!';
+$_['error_paypal']              = 'PayPal Email Address не е валиден!!';
+$_['error_bank_account_name']   = 'Account Name е задължителен!';
+$_['error_bank_account_number'] = 'Account Number е задължителен!';
+$_['error_telephone']           = 'Телефонът трябва да е между 3 и 32 символа!';
+$_['error_password']            = 'Паролата трябва да е между 4 и 20 символа!';
+$_['error_confirm']             = 'Паролите не съвпадат!';
+$_['error_address_1']           = 'Адрес 1 трябва да е между 3 и 128 символа!';
+$_['error_city']                = 'Градът трябва да е между 2 и 128 символа!';
+$_['error_postcode']            = 'Пощенският код трябва да е между 2 и 10 символа for this country!';
+$_['error_country']             = 'Моля, изберете държава!';
+$_['error_zone']                = 'Моля, изберете област!';
+$_['error_code']                = 'Проследяващият код е задължителен!';

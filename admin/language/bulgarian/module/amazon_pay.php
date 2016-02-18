@@ -3,12 +3,12 @@
 $_['heading_title'] = 'Pay with Amazon';
 
 //Text
-$_['text_module'] = 'Modules';
+$_['text_module'] = 'Модули';
 $_['text_success'] = 'Успешно: Променихте module Pay with Amazon!';
-$_['text_content_top'] = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left'] = 'Column Left';
-$_['text_column_right'] = 'Column Right';
+$_['text_content_top'] = 'Съдържание горе';
+$_['text_content_bottom'] = 'Съдържание долу';
+$_['text_column_left'] = 'Лява колона';
+$_['text_column_right'] = 'Дясна колона';
 $_['text_pwa_button'] = 'Pay with Amazon';
 $_['text_pay_button'] = 'Pay';
 $_['text_a_button'] = 'A';

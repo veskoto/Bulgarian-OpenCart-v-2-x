@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Filter';
 
 // Text
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'Модули';
 $_['text_success']     = 'Успешно: Променихте filter module!';
 $_['text_edit']        = 'Редакция Filter Module';
 

@@ -16,10 +16,10 @@ $_['text_list']           = 'Списък';
 $_['text_add']            = 'Добавяне';
 $_['text_edit']           = 'Редакция';
 $_['text_default']        = 'Основен';
-$_['text_content_top']    = 'Съдържание горе';
 $_['text_content_bottom'] = 'Съдържание долу';
 $_['text_column_left']    = 'Лява колона';
 $_['text_column_right']   = 'Дясна колона';
+$_['text_content_top']    = 'Съдържание горе';
 
 // Column
 $_['column_name']         = 'Заглавие';

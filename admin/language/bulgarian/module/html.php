@@ -3,7 +3,7 @@
 $_['heading_title']     = 'HTML Content';
 
 // Text
-$_['text_module']       = 'Modules';
+$_['text_module']       = 'Модули';
 $_['text_success']      = 'Успешно: Променихте HTML Content module!';
 $_['text_edit']         = 'Редакция HTML Content Module';
 

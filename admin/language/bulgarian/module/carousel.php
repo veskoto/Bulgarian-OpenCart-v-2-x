@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Carousel';
 
 // Text
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'Модули';
 $_['text_success']     = 'Успешно: Променихте carousel module!';
 $_['text_edit']        = 'Редакция Carousel Module';
 

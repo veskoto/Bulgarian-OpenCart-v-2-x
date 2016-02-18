@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Магазин';
 
 // Text
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'Модули';
 $_['text_success']     = 'Успешно: Променихте store module!';
 $_['text_edit']        = 'Редакция Store Module';
 

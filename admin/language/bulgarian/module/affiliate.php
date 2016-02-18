@@ -1,13 +1,21 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Партньор';
+$_['heading_title']    = 'Партньори';
 
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Успешно: Променихте affiliate module!';
-$_['text_edit']        = 'Редакция Affiliate Module';
+$_['text_module']      = 'Модули';
+$_['text_success']     = 'Успешно: Променихте партньори!';
+$_['text_edit']        = 'Редакция';
 
 // Entry
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Внимание: Нямате права за редакция на affiliate module!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на партньори!';

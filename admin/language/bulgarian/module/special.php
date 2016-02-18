@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Specials';
 
 // Text
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'Модули';
 $_['text_success']     = 'Успешно: Променихте module specials!';
 $_['text_edit']        = 'Редакция Specials Module';
 

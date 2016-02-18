@@ -3,7 +3,7 @@
 $_['heading_title']    = 'Latest';
 
 // Text
-$_['text_module']      = 'Modules';
+$_['text_module']      = 'Модули';
 $_['text_success']     = 'Успешно: Променихте latest module!';
 $_['text_edit']        = 'Редакция Latest Module';
 
