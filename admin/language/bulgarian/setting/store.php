@@ -80,8 +80,9 @@ $_['entry_image_cart']                 = 'Размери на картика з�
 $_['entry_image_location']             = 'Размери на картика за лого на сайта';
 $_['entry_width']                      = 'Дължина';
 $_['entry_height']                     = 'Височина';
-$_['entry_secure']                     = 'Use SSL';
+$_['entry_secure']                     = 'Изпозлвай SSL';
 
+//TODO
 // Help
 $_['help_url']                         = 'Include the full URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.';
 $_['help_ssl']                         = 'SSL URL to your store. Make sure to add \'/\' at the end. Example: http://www.yourdomain.com/path/<br /><br />Don\'t use directories to create a new store. You should always point another domain or sub domain to your hosting.';
@@ -122,7 +123,7 @@ $_['error_image_thumb']                = 'Product Image Thumb Size dimensions re
 $_['error_image_popup']                = 'Product Image Popup Size dimensions required!';
 $_['error_image_product']              = 'Product List Size dimensions required!';
 $_['error_image_category']             = 'Category List Size dimensions required!';
-$_['error_image_additional']           = 'Добавянеitional Product Image Size dimensions required!';
+$_['error_image_additional']           = 'Additional Product Image Size dimensions required!';
 $_['error_image_related']              = 'Related Product Image Size dimensions required!';
 $_['error_image_compare']              = 'Compare Image Size dimensions required!';
 $_['error_image_wishlist']             = 'Wish List Image Size dimensions required!';
