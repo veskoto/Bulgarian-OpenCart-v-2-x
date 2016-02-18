@@ -42,7 +42,7 @@ $_['entry_amount']      = 'Количество';
 $_['entry_status']      = 'Статус';
 
 // Help
-$_['help_code']         = 'The code the customer enters to activate the voucher.';
+$_['help_code']         = 'Кодът, който клиентът въвежда, за да активира ваучера.';
 
 // Error
 $_['error_selection']   = 'Внимание: Няма избран ваучер!';

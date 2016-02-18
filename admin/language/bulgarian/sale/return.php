@@ -1,4 +1,5 @@
 <?php
+//TODO
 // Heading
 $_['heading_title']       = 'Product Returns';
 
@@ -29,7 +30,7 @@ $_['column_action']        = 'Действие';
 // Entry
 $_['entry_customer']      = 'Клиент';
 $_['entry_order_id']      = 'Поръчка ID';
-$_['entry_date_ordered']  = 'Order Date';
+$_['entry_date_ordered']  = 'дата на поръчката';
 $_['entry_firstname']     = 'Име';
 $_['entry_lastname']      = 'Фамилия';
 $_['entry_email']         = 'Имейл';

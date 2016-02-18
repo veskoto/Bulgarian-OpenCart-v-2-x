@@ -32,7 +32,7 @@ $_['text_transaction_failed']              = 'Неуспешно плащане'
 $_['text_transaction_cancelled']           = 'Отменен';
 $_['text_transaction_suspended']           = 'Прекратен';
 $_['text_transaction_suspended_failed']    = 'Прекратени от неуспешно плащане';
-$_['text_transaction_outstanding_failed']  = 'Изтекъли от неуспешно плащанеd';
+$_['text_transaction_outstanding_failed']  = 'Изтекъли от неуспешно плащане';
 $_['text_transaction_expired']             = 'Изтекъл';
 
 // Entry
@@ -56,4 +56,4 @@ $_['entry_payment_method']                 = 'Начин на плащане';
 // Error / Success
 $_['error_not_cancelled']                  = 'Грешка: %s';
 $_['error_not_found']                      = 'Не може да се анулира повтарящ се профил';
-$_['text_cancelled']                    = 'Периодично плащане е анулирано';
+$_['text_cancelled']                       = 'Периодично плащане е анулирано';
