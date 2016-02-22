@@ -26,7 +26,7 @@ $_['entry_processed_status']		 = 'Processed Status';
 $_['entry_refunded_status']			 = 'Refunded Status';
 $_['entry_reversed_status']			 = 'Reversed Status';
 $_['entry_voided_status']			 = 'Voided Status';
-$_['entry_geo_zone']				 = 'Geo Zone';
+$_['entry_geo_zone']				 = 'Географска зона';
 $_['entry_status']					 = 'Статус';
 $_['entry_sort_order']				 = 'Подредба';
 

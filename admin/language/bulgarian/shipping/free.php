@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Free Shipping';
+$_['heading_title']    = 'Безплатна доставка';
 
 // Text
 $_['text_shipping']    = 'Shipping';
@@ -9,7 +9,7 @@ $_['text_edit']        = 'Редакция Free Shipping';
 
 // Entry
 $_['entry_total']      = 'Общо';
-$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_geo_zone']   = 'Географска зона';
 $_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Подредба';
 

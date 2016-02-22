@@ -11,7 +11,7 @@ $_['text_edit']          = 'Редакция Cheque / Money Order';
 $_['entry_payable']		 = 'Payable To';
 $_['entry_total']		 = 'Общо';
 $_['entry_order_status'] = 'Статус на поръчката';
-$_['entry_geo_zone']	 = 'Geo Zone';
+$_['entry_geo_zone']	 = 'Географска зона';
 $_['entry_status']		 = 'Статус';
 $_['entry_sort_order']	 = 'Подредба';
 

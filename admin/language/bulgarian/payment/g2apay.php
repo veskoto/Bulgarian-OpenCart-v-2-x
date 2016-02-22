@@ -16,7 +16,7 @@ $_['entry_secret_token']		 		 = 'Secret Token';
 $_['entry_ipn_url']				 		 = 'IPN URL:';
 $_['entry_total']				 		 = 'Общо';
 
-$_['entry_geo_zone']			 		 = 'Geo Zone';
+$_['entry_geo_zone']			 		 = 'Географска зона';
 $_['entry_status']				 		 = 'Статус';
 $_['entry_sort_order']			 		 = 'Подредба';
 $_['entry_debug']				 		 = 'Debug logging';

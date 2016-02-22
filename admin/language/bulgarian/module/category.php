@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']    = 'Category';
+$_['heading_title']    = 'Категория';
 
 // Text
 $_['text_module']      = 'Модули';

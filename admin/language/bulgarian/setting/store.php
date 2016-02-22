@@ -21,8 +21,8 @@ $_['text_tax']                         = 'Данъци';
 $_['text_account']                     = 'Account';
 $_['text_checkout']                    = 'Checkout';
 $_['text_stock']                       = 'Stock';
-$_['text_shipping']                    = 'Shipping Address';
-$_['text_payment']                     = 'Payment Address';
+$_['text_shipping']                    = 'Адрес за доставка';
+$_['text_payment']                     = 'Адрес за плащане';
 
 // Column
 $_['column_name']                      = 'Име на магазина';

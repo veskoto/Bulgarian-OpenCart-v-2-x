@@ -14,7 +14,7 @@ $_['entry_standard']     = 'Standard Postage';
 $_['entry_display_time'] = 'Display Delivery Time';
 $_['entry_weight_class'] = 'Weight Class';
 $_['entry_tax_class']    = 'Tax Class';
-$_['entry_geo_zone']     = 'Geo Zone';
+$_['entry_geo_zone']     = 'Географска зона';
 $_['entry_status']       = 'Статус';
 $_['entry_sort_order']   = 'Подредба';
 

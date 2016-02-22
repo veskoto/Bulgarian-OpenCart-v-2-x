@@ -23,7 +23,7 @@ $_['entry_server']					= 'Server';
 $_['entry_total']					= 'Общо';
 $_['entry_pending_status']			= 'Pending Status';
 $_['entry_accepted_status']			= 'Accepted Status';
-$_['entry_geo_zone']				= 'Geo Zone';
+$_['entry_geo_zone']				= 'Географска зона';
 $_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Подредба';
 

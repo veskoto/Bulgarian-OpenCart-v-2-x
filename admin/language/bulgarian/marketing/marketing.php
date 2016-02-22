@@ -1,34 +1,41 @@
 <?php
-//TODO
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']     = 'Marketing Tracking';
+$_['heading_title']     = 'Проследяване на маркетинг кампании';
 
 // Text
-$_['text_success']      = 'Успешно: Променихте marketing tracking!';
-$_['text_list']         = 'Marketing Tracking Списък';
-$_['text_add']          = 'Добавяне Marketing Tracking';
-$_['text_edit']         = 'Редакция Marketing Tracking';
+$_['text_success']      = 'Успешно: Променихте проследяване на маркетинг кампании!';
+$_['text_list']         = 'Списък';
+$_['text_add']          = 'Добавяне';
+$_['text_edit']         = 'Редакция';
 
 // Column
-$_['column_name']       = 'Campaign Name';
-$_['column_code']       = 'Код';
-$_['column_clicks']     = 'Clicks';
+$_['column_name']       = 'Име на кампанията';
+$_['column_code']       = 'Код за проследяване';
+$_['column_clicks']     = 'Кликвания';
 $_['column_orders']     = 'Поръчки';
 $_['column_date_added'] = 'Датата на добавяне';
 $_['column_action']     = 'Действие';
 
 // Entry
-$_['entry_name']        = 'Campaign Name';
-$_['entry_description'] = 'Campaign Description';
-$_['entry_code']        = 'Tracking Code';
-$_['entry_example']     = 'Examples';
+$_['entry_name']        = 'Име на кампанията';
+$_['entry_description'] = 'Описание';
+$_['entry_code']        = 'Код за проследяване';
+$_['entry_example']     = 'Примери';
 $_['entry_date_added']  = 'Датата на добавяне';
 
 // Help
-$_['help_code']         = 'The tracking code that will be used to marketing track campaigns.';
-$_['help_example']      = 'So the system can track refferals you neeed to add the tracking code to the end of the URL linking to your site.';
+$_['help_code']         = 'Кодът за проследяване, които ще бъдат използван за маркетингово проследяване на кампании.';
+$_['help_example']      = 'Така че системата за да може проследява референции трябва да добавите кода за проследяване на края на URL адреса към вашия сайт.';
 
 // Error
-$_['error_permission']  = 'Внимание: Нямате права за редакция на marketing tracking!';
-$_['error_name']        = 'Campaign трябва да е между 1 и 32 символа!';
-$_['error_code']        = 'Tracking Code required!';
+$_['error_permission']  = 'Внимание: Нямате права за редакция на проследяване на маркетинг кампании!';
+$_['error_name']        = 'Името на кампанията трябва да е между 1 и 32 символа!';
+$_['error_code']        = 'Кодът за проследяване е задължителен!';

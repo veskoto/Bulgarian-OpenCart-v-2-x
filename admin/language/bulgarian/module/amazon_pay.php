@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title'] = 'Pay with Amazon';
+$_['heading_title'] = 'Плати с Amazon';
 
 //Text
 $_['text_module'] = 'Модули';

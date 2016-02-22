@@ -1,4 +1,12 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 //TODO
 // Heading
 $_['heading_title']          = 'Google Base';
@@ -11,16 +19,16 @@ $_['text_import']            = 'To download the latest Google category list by <
 
 // Column
 $_['column_google_category'] = 'Google Category';
-$_['column_category']        = 'Category';
+$_['column_category']        = 'Категория';
 $_['column_action']          = 'Действие';
 
 // Entry
-$_['entry_google_category'] = 'Google Category';
-$_['entry_category']        = 'Category';
+$_['entry_google_category'] = 'Google категория';
+$_['entry_category']        = 'Категория';
 $_['entry_data_feed']       = 'Data Feed Url';
 $_['entry_status']          = 'Статус';
 
 // Error
 $_['error_permission']      = 'Внимание: Нямате права за редакция на Google Base feed!';
-$_['error_upload']          = 'File could not be uploaded!';
+$_['error_upload']          = 'Файлът не може да бъде качен!';
 $_['error_filetype']        = 'Невалиден тип файл!';

@@ -8,7 +8,7 @@ $_['text_success']     = 'Успешно: Променихте pickup from store
 $_['text_edit']        = 'Редакция Pickup From Store Shipping';
 
 // Entry
-$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_geo_zone']   = 'Географска зона';
 $_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Подредба';
 

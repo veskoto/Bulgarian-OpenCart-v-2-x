@@ -10,7 +10,7 @@ $_['text_edit']        = 'Редакция Citylink Shipping';
 // Entry
 $_['entry_rate']       = 'Citylink Rates';
 $_['entry_tax_class']  = 'Tax Class';
-$_['entry_geo_zone']   = 'Geo Zone';
+$_['entry_geo_zone']   = 'Географска зона';
 $_['entry_status']     = 'Статус';
 $_['entry_sort_order'] = 'Подредба';
 

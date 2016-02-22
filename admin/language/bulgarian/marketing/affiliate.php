@@ -71,13 +71,13 @@ $_['entry_approved']            = 'Одобрен';
 $_['entry_date_added']          = 'Датата на добавяне';
 
 // Help
-$_['help_code']                 = 'The tracking code that will be used to track referrals.';
-$_['help_commission']           = 'Percentage the affiliate receives on each order.';
+$_['help_code']                 = 'Код за проследяване, които ще бъдат използвани за проследяване на реферали.';
+$_['help_commission']           = 'Процен, който ще получава партньора за всяка продажба.';
 
 // Error
 $_['error_warning']             = 'Внимание: Моля, проверете формата внимателно за грешки!';
-$_['error_permission']          = 'Внимание: Нямате права за редакция на affiliates!';
-$_['error_exists']              = 'Внимание: E-Mail Address is already registered!';
+$_['error_permission']          = 'Внимание: Нямате права за редакция на партньоска програма!';
+$_['error_exists']              = 'Внимание: Имейл адреса е вече регистриран!';
 $_['error_firstname']           = 'Името трябва да е между 1 и 32 символа!';
 $_['error_lastname']            = 'Фамилията трябва да е между 1 и 32 символа!';
 $_['error_email']               = 'Невалиден имейл адрес!';
