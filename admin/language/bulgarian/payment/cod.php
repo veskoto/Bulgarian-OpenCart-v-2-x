@@ -1,11 +1,19 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']					= 'Cash On Delivery';
+$_['heading_title']					= 'Наложен платеж';
 
 // Text
 $_['text_payment']					= 'Плащане';
-$_['text_success']					= 'Успешно: Променихте Cash On Delivery payment module!';
-$_['text_edit']                     = 'Редакция Cash On Delivery';
+$_['text_success']					= 'Успешно: Променихте Наложен платеж!';
+$_['text_edit']                     = 'Редакция';
 
 // Entry
 $_['entry_total']					= 'Общо';
@@ -15,7 +23,7 @@ $_['entry_status']					= 'Статус';
 $_['entry_sort_order']				= 'Подредба';
 
 // Help
-$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']					= 'Стойност на поръчката, която трябва да се достигне преди този метод на плащане стане активен.';
 
 // Error
-$_['error_permission']				= 'Внимание: Нямате права за редакция на payment Cash On Delivery!';
+$_['error_permission']				= 'Внимание: Нямате права за редакция на payment Наложен платеж!';

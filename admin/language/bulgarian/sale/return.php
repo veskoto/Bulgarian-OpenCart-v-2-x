@@ -49,7 +49,7 @@ $_['entry_date_added']    = 'Датата на добавяне';
 $_['entry_date_modified'] = 'Дата на промяна';
 
 // Help
-$_['help_product']        = '(Autocomplete)';
+$_['help_product']        = '(Автоматично довършване)';
 
 // Error
 $_['error_warning']       = 'Внимание: Моля, проверете формата внимателно за грешки!';

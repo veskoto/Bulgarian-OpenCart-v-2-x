@@ -18,7 +18,7 @@ $_['column_affiliate']  = 'Име';
 $_['column_email']      = 'Имейл';
 $_['column_status']     = 'Статус';
 $_['column_commission'] = 'Комисионна';
-$_['column_orders']     = 'No. поръчки';
+$_['column_orders']     = 'Брой поръчки';
 $_['column_total']      = 'Общо';
 $_['column_action']     = 'Действие';
 

@@ -13,20 +13,20 @@ $_['text_latest']       = 'Latest';
 $_['text_random']       = 'Random';
 
 // Entry
-$_['entry_name']        = 'Module Name';
+$_['entry_name']        = 'Име на модула';
 $_['entry_username']    = 'eBay username';
 $_['entry_keywords']    = 'Search Keywords';
 $_['entry_description'] = 'Include Description Search';
-$_['entry_limit']       = 'Limit';
+$_['entry_limit']       = 'Лимит';
 $_['entry_length']      = 'Length';
-$_['entry_width']       = 'Width';
-$_['entry_height']      = 'Height';
+$_['entry_width']       = 'Дължина';
+$_['entry_height']      = 'Височина';
 $_['entry_site']   		= 'eBay Site';
 $_['entry_sort']   		= 'Sort by';
 $_['entry_status']   	= 'Статус';
 
 // Error
 $_['error_permission']  = 'Внимание: Нямате права за редакция на module eBay!';
-$_['error_name']        = 'Module Name трябва да е между 3 и 64 символа!';
-$_['error_width']       = 'Width required!';
-$_['error_height']      = 'Height required!';
+$_['error_name']        = 'Името на модула трябва да е между 3 и 64 символа!';
+$_['error_width']       = 'Дължината е задължителна!';
+$_['error_height']      = 'Височината е задължителна!';

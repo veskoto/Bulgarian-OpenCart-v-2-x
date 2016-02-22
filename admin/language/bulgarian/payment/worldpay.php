@@ -44,7 +44,7 @@ $_['entry_reversed_status']			= 'Reversed Status:';
 $_['entry_voided_status']			= 'Voided Status:';
 
 // Help
-$_['help_total']				 = 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']				 = 'Стойност на поръчката, която трябва да се достигне преди този метод на плащане стане активен.';
 $_['help_debug']				 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 $_['help_secret_token']			 = 'Make this long and hard to guess';
 $_['help_webhook_url']			 = 'Set Worldpay webhooks to call this URL';

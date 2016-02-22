@@ -1,13 +1,21 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']        = 'Log In with PayPal';
+$_['heading_title']        = 'Вход с PayPal';
 
 //Text
 $_['text_module']          = 'Модули';
-$_['text_success']         = 'Успешно: Променихте Log In with PayPal module!';
-$_['text_edit']            = 'Редакция Log In with PayPal Module';
-$_['text_button_grey']     = 'Grey';
-$_['text_button_blue']     = 'Blue (Recommended)';
+$_['text_success']         = 'Успешно: Променихте вход с PayPa!';
+$_['text_edit']            = 'Редакция';
+$_['text_button_grey']     = 'Сиво';
+$_['text_button_blue']     = 'Синьо (препоръчително)';
 
 //Entry
 $_['entry_client_id']      = 'Client ID';

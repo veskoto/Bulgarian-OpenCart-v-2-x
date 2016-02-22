@@ -30,7 +30,7 @@ $_['entry_partially_refunded_status']	 = 'Partially Refunded Status:';
 
 // Help
 $_['help_username']						 = 'The email address used for your account';
-$_['help_total']				 		 = 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']				 		 = 'Стойност на поръчката, която трябва да се достигне преди този метод на плащане стане активен.';
 $_['help_debug']				 		 = 'Enabling debug will write sensitive data to a log file. You should always disable unless instructed otherwise';
 
 // Tab

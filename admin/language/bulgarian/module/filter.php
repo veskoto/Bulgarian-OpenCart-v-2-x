@@ -1,14 +1,22 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Filter';
+$_['heading_title']    = 'Филтър';
 
 // Text
 $_['text_module']      = 'Модули';
-$_['text_success']     = 'Успешно: Променихте filter module!';
-$_['text_edit']        = 'Редакция Filter Module';
+$_['text_success']     = 'Успешно: Променихте филтър!';
+$_['text_edit']        = 'Редакция';
 
 // Entry
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Внимание: Нямате права за редакция на filter module!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на филтър!';

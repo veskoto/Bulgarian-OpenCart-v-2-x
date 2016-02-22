@@ -1,15 +1,23 @@
 <?php
+/*
+ * OpenCart Bulgarian translation
+ * Author: Veselin Totev (veselin.totev@gmail.com)
+ * License: Free to use
+ * Donate:
+ *      PayPal: veskoto@gmail.com
+ *      Bitcoin: 1QG2f8mGtbYiHc6k8ZzV4WhfcmVHs79QiK
+ */
 // Heading
-$_['heading_title']    = 'Магазин';
+$_['heading_title']    = 'Магазини';
 
 // Text
 $_['text_module']      = 'Модули';
-$_['text_success']     = 'Успешно: Променихте store module!';
-$_['text_edit']        = 'Редакция Store Module';
+$_['text_success']     = 'Успешно: Променихте магазини!';
+$_['text_edit']        = 'Редакция';
 
 // Entry
-$_['entry_admin']      = 'Admin Users Only';
+$_['entry_admin']      = 'Само администратори';
 $_['entry_status']     = 'Статус';
 
 // Error
-$_['error_permission'] = 'Внимание: Нямате права за редакция на store module!';
+$_['error_permission'] = 'Внимание: Нямате права за редакция на магазини!';

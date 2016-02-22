@@ -30,7 +30,7 @@ $_['entry_sort_order']				= 'Подредба';
 // Help
 $_['help_merchant']					= '(estore id) to use for the Klarna service (provided by Klarna).';
 $_['help_secret']					= 'Shared secret to use with the Klarna service (provided by Klarna).';
-$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']					= 'Стойност на поръчката, която трябва да се достигне преди този метод на плащане стане активен.';
 
 // Error
 $_['error_permission']				= 'Внимание: Нямате права за редакция на payment Klarna Part Payment!';

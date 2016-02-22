@@ -20,7 +20,7 @@ $_['entry_sort_order']				= 'Подредба';
 
 // Help
 $_['help_password']					= 'Just use some random password. This will be used to make sure the payment information is not interfered with after being sent to the payment gateway.';
-$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']					= 'Стойност на поръчката, която трябва да се достигне преди този метод на плащане стане активен.';
 
 // Error
 $_['error_permission']				= 'Внимание: Нямате права за редакция на payment Paymate!';

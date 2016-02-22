@@ -23,7 +23,7 @@ $_['entry_sort_order']				= 'Подредба';
 
 // Help
 $_['help_password']					= 'Leave empty if you do not have "Digest Key Authentication" enabled on your account.';
-$_['help_total']					= 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']					= 'Стойност на поръчката, която трябва да се достигне преди този метод на плащане стане активен.';
 
 // Error
 $_['error_permission']				= 'Внимание: Нямате права за редакция на payment PayPoint!';

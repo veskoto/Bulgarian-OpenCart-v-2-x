@@ -23,7 +23,7 @@ $_['entry_sort_order']		= 'Подредба';
 // Help
 $_['help_callback']			= 'Please login and set this at <a href="https://secure.authorize.net" target="_blank" class="txtLink">https://secure.authorize.net</a>.';
 $_['help_md5']				= 'The MD5 Hash feature enables you to authenticate that a transaction response is securely received from Authorize.Net.Please login and set this at <a href="https://secure.authorize.net" target="_blank" class="txtLink">https://secure.authorize.net</a>.(Optional)';
-$_['help_total']			= 'The checkout total the order must reach before this payment method becomes active.';
+$_['help_total']			= 'Стойност на поръчката, която трябва да се достигне преди този метод на плащане стане активен.';
 
 // Error
 $_['error_permission']		= 'Внимание: Нямате права за редакция на payment Authorize.Net (SIM)!';
