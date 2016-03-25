@@ -28,5 +28,5 @@ $_['text_price_desc']   = 'Цена (низх.)';
 $_['text_rating_asc']   = 'Рейтинг (възх.)';
 $_['text_rating_desc']  = 'Рейтинг (низх.)';
 $_['text_model_asc']    = 'Модел (А - Я)';
-$_['text_model_desc']   = 'Додел (Я - А)';
+$_['text_model_desc']   = 'Модел (Я - А)';
 $_['text_limit']        = 'Покажи:';
